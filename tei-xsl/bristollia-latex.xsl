@@ -7,7 +7,7 @@
 
     <!-- we are creating a tex file ... -->
     <xsl:output method="text" omit-xml-declaration="yes" indent="no"/>
-    <xsl:strip-space elements="note" />
+    <xsl:strip-space elements="tei:note tei:p tei:choice tei:abbr tei:ex tei:hi" />
 
     <!-- editor name -->
      <xsl:variable name="editorName"
@@ -96,30 +96,26 @@
         </xsl:choose>
     </xsl:template>
 
-    <xsl:template match="tei:lb">
-        <xsl:text>\newline</xsl:text>
-    </xsl:template>        
+    <xsl:template match="tei:lb">\newline </xsl:template>        
 
-    <xsl:template match="tei:ex">\textit{<xsl:value-of select="."/>}</xsl:template>
+    <xsl:template match="tei:ex">\textit{<xsl:value-of select="normalize-space(.)"/>}</xsl:template>
 
-     <xsl:template name="expand" match="tei:expand">
-
+     <xsl:template name="expan" match="tei:expan">
+        <xsl:text> </xsl:text>
         <xsl:apply-templates />
-     </xsl:template>
+    </xsl:template>
 
      <!-- TODO -> if abbr, but no ex, then put all in square brackets? -->
 
     <xsl:template match="tei:hi">
         <xsl:choose>
-            <xsl:when test="@rend='bold'">\textbf{<xsl:apply-templates />}</xsl:when>
+            <xsl:when test="@rend='bold'">\textbf{<xsl:apply-templates/>}</xsl:when>
         </xsl:choose>
     </xsl:template>
 
     <xsl:template match="tei:abbr"></xsl:template>
 
-    <xsl:template match="tei:choice">
-        <xsl:call-template name="expand"/>
-    </xsl:template>
+    <xsl:template match="tei:choice"><xsl:call-template name="expan"/></xsl:template>
 
     <xsl:template match="tei:note">\footnote{<xsl:apply-templates />}</xsl:template>
 
