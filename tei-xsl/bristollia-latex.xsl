@@ -28,7 +28,7 @@
     <xsl:template name="editorial">
         \section*{Editorial Note}
 
-        The transcription was made from a digital photograph. Original punctuation and spelling are preserved. Superscript characters are lowered and contractions expanded with supplied letters italicised. The thorn (\th\ or y) is replaced with `th' and a terminal graph with `es'. The ampersand brevigraph is silently expanded to `and' in English and `et' in Latin. Letters within square brackets are supplied by the editor. Engrossed hand are shown in bold text.
+        Original punctuation and spelling are preserved. Superscript characters are lowered and contractions expanded with supplied letters italicised. The thorn (\th\ or y) is replaced with `th' and a terminal graph with `es'. The ampersand brevigraph is silently expanded to `and' in English and `et' in Latin. Letters within square brackets are supplied by the editor. Engrossed hand are shown in bold text.
     </xsl:template>
 
 
@@ -54,13 +54,31 @@
         \author{\small Edited by \authorname \hspace{0 mm} (\authoremail)}
         \date{\small \pubdate}
         \maketitle
+        <xsl:apply-templates/>
     </xsl:template>
 
-    <!-- body of the document -->
+    <xsl:template match="tei:fileDesc"><xsl:apply-templates/></xsl:template>
+
+    <xsl:template match="tei:sourceDesc"><xsl:apply-templates/></xsl:template>
+
+    <xsl:template match="tei:msDesc"><xsl:apply-templates/></xsl:template>
+
+    <xsl:template match="tei:msContents">
+        \section*{Introduction}
+        <xsl:apply-templates/>
+    </xsl:template>
+
+    <xsl:template match="tei:titleStmt"></xsl:template>
+    <xsl:template match="tei:publicationStmt"></xsl:template>
+    <xsl:template match="tei:msIdentifier"></xsl:template>
+
     <xsl:template match="tei:text/tei:body">
         <xsl:call-template name="editorial"/>
-        <xsl:text>\section*{Text}</xsl:text>
+        \begin{landscape}
+        \section*{Text}
         <xsl:apply-templates/>
+            \end{landscape}
+            \end{document}
     </xsl:template>
 
     <xsl:template match="tei:pb">
@@ -72,8 +90,10 @@
 
     <xsl:template match="tei:p">
         <!--<xsl:value-of select="normalize-space(.)"/>-->
-                <xsl:apply-templates />
-        \end{document}
+                <xsl:choose>
+            <xsl:when test="@rend='right'">\begin{flushright}<xsl:apply-templates />\end{flushright}</xsl:when>
+            <xsl:otherwise><xsl:apply-templates /></xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 
     <xsl:template match="tei:lb">
