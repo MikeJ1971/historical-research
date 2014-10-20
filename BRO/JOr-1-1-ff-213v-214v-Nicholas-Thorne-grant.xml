@@ -21,11 +21,16 @@
                     <msIdentifier>
                         <settlement>Bristol</settlement>
                         <repository>Bristol Record Office</repository>
-                        <idno>JOr/1/1, ff. 213v - 214v</idno>
+                        <idno>JOr/1/1</idno>
                         <msName>Great Orphan Book</msName>
                     </msIdentifier>
                     <msContents>
                         <p>This is where an abstract will go?</p>
+                    </msContents>
+                    <msContents>
+                        <msItem>
+                            <locus>ff. 213v - 214v</locus>
+                        </msItem>
                     </msContents>
                 </msDesc>
             </sourceDesc>
