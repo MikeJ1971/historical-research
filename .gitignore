@@ -2,4 +2,5 @@
 *.aux
 *.log
 *.out
+*.tex
 .DS_Store
