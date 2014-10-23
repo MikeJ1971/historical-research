@@ -6,15 +6,18 @@
                 <title>Grant by Nicholas Thorne to the Mayor and commonality of Bristol of St
                     Bartholomews</title>
                 <editor>
-                    <name>Mike Jones</name>
+                    <name type="person">Mike Jones</name>
                     <email>mike.a.jones@me.com</email>
                 </editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>http://bristollia.org</publisher>
                 <pubPlace>Bristol</pubPlace>
-                <date>October 2014</date>
+                <date when="2014-10">October 2014</date>
                 <idno type="UUID">ee15f47a-e066-43b8-b9c2-36fac094dc40</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc xml:lang="en">
@@ -25,11 +28,10 @@
                         <msName>Great Orphan Book</msName>
                     </msIdentifier>
                     <msContents>
-                        <p>This is where an abstract will go?</p>
-                    </msContents>
-                    <msContents>
                         <msItem>
                             <locus>ff. 213v - 214v</locus>
+                            <p>A note will go here about the document, I suspect.</p>
+                            <p>Let us add another paragraph.</p>
                         </msItem>
                     </msContents>
                 </msDesc>
