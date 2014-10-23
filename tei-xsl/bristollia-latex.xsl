@@ -7,7 +7,7 @@
 
     <!-- we are creating a tex file ... -->
     <xsl:output method="text" omit-xml-declaration="yes" indent="no"/>
-    <xsl:strip-space elements="tei:note tei:p tei:choice tei:abbr tei:ex tei:hi" />
+    <xsl:strip-space elements="tei:note tei:choice tei:abbr tei:ex tei:hi tei:locus"/>
 
     <!-- editor name -->
      <xsl:variable name="editorName"
@@ -25,6 +25,19 @@
     <xsl:variable name="title"
         select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/text()"/>
 
+    <!-- archive -->
+    <xsl:variable name="archive"
+        select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:repository/text()"/>
+
+    <!-- reference -->
+    <xsl:variable name="reference">
+        <xsl:value-of select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno/text()"/><xsl:call-template name="locus"/>
+    </xsl:variable>
+
+    <xsl:template name="locus">, <xsl:value-of select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msContents/tei:msItem/tei:locus/text()"/>
+    </xsl:template>
+
+
     <xsl:template name="editorial">
         \section*{Editorial Note}
 
@@ -40,7 +53,6 @@
         \usepackage{fancyhdr}
         \usepackage{pdflscape}
         \usepackage[T1]{fontenc}
-        \usepackage[none]{hyphenat}%%%%
         \setlength{\headheight}{15pt}
         \marginsize{2.5cm}{2.5cm}{1cm}{1cm}
         \setlength{\parskip}{10pt}
@@ -49,8 +61,10 @@
         \def\authoremail{<xsl:value-of select="$editorEmail"/>}
         \def\pubdate{<xsl:value-of select="$pubDate"/>}
         \def\shorttitle{<xsl:value-of select="$title"/>}
+        \def\archivename{<xsl:value-of select="$archive"/>}
+        \def\archiverefno{<xsl:value-of select="$reference"/>}
         \begin{document}
-        \title{\shorttitle}\vspace{-5em}
+        \title{\Large \shorttitle\\\normalsize \vspace{1em} \archivename \hspace{0 mm}, \archiverefno \hspace{1 mm}}\vspace{-5em}
         \author{\small Edited by \authorname \hspace{0 mm} (\authoremail)}
         \date{\small \pubdate}
         \maketitle
@@ -68,9 +82,14 @@
         <xsl:apply-templates/>
     </xsl:template>
 
+    <xsl:template match="tei:msItem">
+        <xsl:apply-templates/>
+    </xsl:template>
+
     <xsl:template match="tei:titleStmt"></xsl:template>
     <xsl:template match="tei:publicationStmt"></xsl:template>
     <xsl:template match="tei:msIdentifier"></xsl:template>
+    <xsl:template match="tei:locus"></xsl:template>
 
     <xsl:template match="tei:text/tei:body">
         <xsl:call-template name="editorial"/>
@@ -92,8 +111,11 @@
         <!--<xsl:value-of select="normalize-space(.)"/>-->
                 <xsl:choose>
             <xsl:when test="@rend='right'">\begin{flushright}<xsl:apply-templates />\end{flushright}</xsl:when>
-            <xsl:otherwise><xsl:apply-templates /></xsl:otherwise>
+            <xsl:otherwise>
+                <xsl:apply-templates />
+            </xsl:otherwise>
         </xsl:choose>
+        \par
     </xsl:template>
 
     <xsl:template match="tei:lb">\newline </xsl:template>        
