@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Grant by Nicholas Thorne to the Mayor and commonality of Bristol of St
-                    Bartholomews</title>
+                    Bartholomew's hospital and its lands in Bristol and Gloucestershire. <date when="1561-07-01">1 July <date when="1561">1561</date></date></title>
                 <editor>
                     <name type="person">Mike Jones</name>
                     <email>mike.a.jones@me.com</email>
@@ -16,7 +16,7 @@
                 <date when="2014-10">October 2014</date>
                 <idno type="UUID">ee15f47a-e066-43b8-b9c2-36fac094dc40</idno>
                 <availability>
-                    <licence target="http://creativecommons.org/licenses/by/4.0/"/>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -37,6 +37,18 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Thorne</item>
+                        <item>St Bartholomew's</item>
+                        <item>Bristol</item>
+                        <item>Gloucestershire</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>
