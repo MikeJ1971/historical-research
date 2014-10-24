@@ -7,7 +7,12 @@
 
     <!-- we are creating a tex file ... -->
     <xsl:output method="text" omit-xml-declaration="yes" indent="no"/>
+
+    <!-- strip white space -->
     <xsl:strip-space elements="tei:note tei:choice tei:abbr tei:ex tei:hi tei:locus"/>
+
+
+    <!-- VARIABLES -->
 
     <!-- editor name -->
      <xsl:variable name="editorName"
@@ -25,6 +30,10 @@
     <xsl:variable name="title"
         select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/text()"/>
 
+    <!-- date -->
+      <xsl:variable name="subjectdate"
+        select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/tei:date/text()"/>  
+
     <!-- archive -->
     <xsl:variable name="archive"
         select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:repository/text()"/>
@@ -34,10 +43,31 @@
         <xsl:value-of select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno/text()"/><xsl:call-template name="locus"/>
     </xsl:variable>
 
+    <!-- UUID -->
+    <xsl:variable name="uuid"
+        select="//tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:idno/text()"/>
+
+    <!-- licence -->
+      <xsl:variable name="licence"
+        select="//tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability/tei:licence/text()"/> 
+
+    <!-- keywords -->
+    <xsl:variable name="keywords"><xsl:call-template name="keywordsList"/></xsl:variable>
+
+
+    <!-- TEMPLATES -->
+
+    <xsl:template name="keywordsList">
+        <xsl:for-each select="//tei:teiHeader/tei:profileDesc/tei:textClass/tei:keywords/tei:list/tei:item">
+            <xsl:value-of select="."/><xsl:if test="position() != last()"><xsl:text>, </xsl:text></xsl:if>
+        </xsl:for-each>
+    </xsl:template>
+
+    <!-- folios, pages etc -->
     <xsl:template name="locus">, <xsl:value-of select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msContents/tei:msItem/tei:locus/text()"/>
     </xsl:template>
 
-
+    <!-- editorial notes -->
     <xsl:template name="editorial">
         \section*{Editorial Note}
 
@@ -63,6 +93,20 @@
         \def\shorttitle{<xsl:value-of select="$title"/>}
         \def\archivename{<xsl:value-of select="$archive"/>}
         \def\archiverefno{<xsl:value-of select="$reference"/>}
+        \hypersetup{
+            pdfinfo={
+                Author={\authorname},
+                AuthorEmail={\authoremail},
+                Title={\shorttitle},
+                PubDate={\pubdate},
+                Archive={\archivename},
+                ArchiveRefNo={\archiverefno},
+                SubjectDate={<xsl:value-of select="$subjectdate"/>},
+                UUID={<xsl:value-of select="$uuid"/>},
+                License={<xsl:value-of select="$licence"/>},
+                Keywords={<xsl:value-of select="$keywords"/>}
+            }
+        }
         \begin{document}
         \title{\Large \shorttitle\\\normalsize \vspace{1em} \archivename \hspace{0 mm}, \archiverefno \hspace{1 mm}}\vspace{-5em}
         \author{\small Edited by \authorname \hspace{0 mm} (\authoremail)}
@@ -90,6 +134,7 @@
     <xsl:template match="tei:publicationStmt"></xsl:template>
     <xsl:template match="tei:msIdentifier"></xsl:template>
     <xsl:template match="tei:locus"></xsl:template>
+    <xsl:template maych="tei:profileDesc"></xsl:template>
 
     <xsl:template match="tei:text/tei:body">
         <xsl:call-template name="editorial"/>
