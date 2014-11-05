@@ -30,9 +30,22 @@
     <xsl:variable name="title"
         select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/text()"/>
 
+    <!-- abstract (first para) -->
+    <xsl:variable name="abstract"
+        select="//tei:teiHeader/tei:profileDesc/tei:abstract/tei:p[1]/text()"/>
+
     <!-- date -->
       <xsl:variable name="subjectdate"
         select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/tei:date/text()"/>  
+
+    <!-- year -->
+      <xsl:variable name="subjectyear">
+        <xsl:analyze-string select="$subjectdate" regex="\d{{4}}">
+            <xsl:matching-substring>
+                <xsl:value-of select="."/>
+            </xsl:matching-substring>
+        </xsl:analyze-string> 
+      </xsl:variable>
 
     <!-- archive -->
     <xsl:variable name="archive"
@@ -54,6 +67,12 @@
     <!-- keywords -->
     <xsl:variable name="keywords"><xsl:call-template name="keywordsList"/></xsl:variable>
 
+    <!-- languages -->
+    <xsl:variable name="languages">
+        <xsl:for-each select="//tei:teiHeader/tei:profileDesc/tei:langUsage/tei:language">
+            <xsl:value-of select="."/><xsl:if test="position() != last()"><xsl:text>, </xsl:text></xsl:if>
+        </xsl:for-each>
+    </xsl:variable>
 
     <!-- TEMPLATES -->
 
@@ -98,13 +117,16 @@
                 Author={\authorname},
                 AuthorEmail={\authoremail},
                 Title={\shorttitle},
+                Subject={<xsl:value-of select="$abstract"/>},
+                Keywords={<xsl:value-of select="$keywords"/>},               
+                UUID={<xsl:value-of select="$uuid"/>},
                 PubDate={\pubdate},
+                Language={<xsl:value-of select="$languages"/>},
+                SubjectYear={<xsl:value-of select="$subjectyear"/>},
+                SubjectDate={<xsl:value-of select="$subjectdate"/>},
                 Archive={\archivename},
                 ArchiveRefNo={\archiverefno},
-                SubjectDate={<xsl:value-of select="$subjectdate"/>},
-                UUID={<xsl:value-of select="$uuid"/>},
                 License={<xsl:value-of select="$licence"/>},
-                Keywords={<xsl:value-of select="$keywords"/>}
             }
         }
         \begin{document}
@@ -134,7 +156,13 @@
     <xsl:template match="tei:publicationStmt"></xsl:template>
     <xsl:template match="tei:msIdentifier"></xsl:template>
     <xsl:template match="tei:locus"></xsl:template>
-    <xsl:template maych="tei:profileDesc"></xsl:template>
+    <xsl:template match="tei:langUsage"></xsl:template>
+    <xsl:template match="tei:textClass"></xsl:template>
+
+
+    <xsl:template match="tei:profileDesc/tei:abstract">
+        <xsl:apply-templates />
+    </xsl:template>
 
     <xsl:template match="tei:text/tei:body">
         <xsl:call-template name="editorial"/>

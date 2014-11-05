@@ -29,15 +29,22 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
+                            <title></title>
                             <locus>ff. 213v - 214v</locus>
-                            <p>A note will go here about the document, I suspect.</p>
-                            <p>Let us add another paragraph.</p>
                         </msItem>
                     </msContents>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
+            <abstract>
+                <p>Copy of a deed by Nicholas Thorne, dated 1 July 1561, whereby the the hospital of
+                    St Bartholomew's and its lands in Bristol and Gloucestershire are transferred to
+                    the city.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
             <textClass>
                 <keywords>
                     <list>
