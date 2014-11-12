@@ -9,7 +9,7 @@
     <xsl:output method="text" omit-xml-declaration="yes" indent="no"/>
 
     <!-- strip white space -->
-    <xsl:strip-space elements="tei:note tei:choice tei:abbr tei:ex tei:hi tei:locus"/>
+    <xsl:strip-space elements="tei:date tei:title tei:note tei:choice tei:abbr tei:ex tei:hi tei:locus"/>
 
 
     <!-- VARIABLES -->
@@ -28,7 +28,7 @@
 
     <!-- title -->
     <xsl:variable name="title"
-        select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/text()"/>
+        select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/node()"/>
 
     <!-- abstract (first para) -->
     <xsl:variable name="abstract"
