@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grant by Nicholas Thorne to the Mayor and commonality of Bristol of St
-                    Bartholomew's hospital and its lands in Bristol and Gloucestershire. <date when="1561-07-01">1 July 1561</date></title>
+                <title>Grant by Nicholas Thorne to the mayor, burgesess and commonality of Bristol of St
+                    Bartholomew's Hospital and its lands in Bristol and Gloucestershire. Dated <date when="1561-07-01">1 July, 1561</date></title>
                 <editor>
                     <name type="person">Mike Jones</name>
                     <email>mike.a.jones@me.com</email>
@@ -13,7 +13,7 @@
             <publicationStmt>
                 <publisher>http://bristollia.org</publisher>
                 <pubPlace>Bristol</pubPlace>
-                <date when="2014-10">October 2014</date>
+                <date when="2014-10">November 2014</date>
                 <idno type="UUID">ee15f47a-e066-43b8-b9c2-36fac094dc40</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
@@ -38,9 +38,11 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Copy of a deed by Nicholas Thorne, dated 1 July 1561, whereby the the hospital of
-                    St Bartholomew's and its lands in Bristol and Gloucestershire are transferred to
-                    the city.</p>
+                <p>Grant by Nicholas Thorne to the mayor, burgesess and commonality of Bristol of St
+                    Bartholomew's Hospital and its lands in Bristol and Gloucestershire. This is a
+                    copy of a deed enrolled in the Great Orphan Book. Dated 1 July, 1561.</p>
+                <p>The transcript was made from the microfiche copy of the Great Orphan 
+                    Book (FC/OB/1/10, frames 16 -18).</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -116,7 +118,7 @@
                     any tyme before were accepted reputed or <lb/> taken as
                         <expan>p<ex>ar</ex>cell</expan> or membre of the possessions of the said
                     hospitall or <lb/> that George Crofte then Master of the said hospitall had
-                    helde or did <lb/> enioy in the right of the saide hospitall, aswell <abbr>w<hi
+                    helde or did <lb/> enioy in the right of the said hospitall, aswell <abbr>w<hi
                             rend="superscript">th</hi>in</abbr><expan>w<ex>ith</ex>in</expan> the
                     said towne of <lb/> Bristowe and suburbes of the same, as in the
                             <expan>p<ex>ar</ex>ishes</expan> of Clyfton stapulton <lb/> Sodbury and
@@ -219,16 +221,16 @@
                     schole master and one or two usshers for the same / And where after <lb/> such
                     recoverie and entrie by them made into the <expan>p<ex>re</ex>misses</expan>,
                     the said Robert <lb/> Thorne of London and the said John Godriche clerk did
-                    thereof seased <lb/> and the said Nicholas overlived, and was sole seased of the
+                    thereof seased <lb/> and the said Nicholas then overlived, and was sole seased of the
                             <expan>p<ex>re</ex>misses</expan>
-                    <lb/> in his demeane as of fee by title <choice>
+                    <lb/> in his demeane as of fee by title of <choice>
                         <abbr>survivo<hi rend="superscript">r</hi></abbr>
                         <expan>survivor</expan>
                     </choice> and so being seased did <lb/> make a grammer schole <choice>
                         <abbr>w<hi rend="superscript">t</hi>in</abbr>
                         <expan>w<ex>ith</ex>in</expan>
                     </choice> the said howse of the Bartilmewes and did <lb/> place and sett one John
-                    Harris Schole master to the teche <expan>gram<ex>m</ex>er</expan>
+                    Harris Schole master to teche <expan>gram<ex>m</ex>er</expan>
                     <choice>
                         <abbr>w<hi rend="superscript">th</hi>in</abbr>
                         <expan>w<ex>ith</ex>in</expan>
@@ -250,13 +252,13 @@
                     </choice> and will <lb/> of the said Robert my uncle and the said Nicholas my
                     father, as also <lb/> for thestablishement and
                         <expan>p<ex>er</ex>petuall</expan> contynuaunce of a free schole to be <lb/>
-                    created <choice>
+                    erected <choice>
                         <abbr>w<hi rend="superscript">th</hi>in</abbr>
                         <expan>w<ex>ith</ex>in</expan>
-                    </choice> the saide house of the Bartilmewes of one schole master <lb/> and one
+                    </choice> the said house of the Bartilmewes of one schole master <lb/> and one
                     or two usshers as nede and occasion hereafter shall
                         <expan>s<ex>er</ex>ve</expan> to teche <lb/> and bring upp yowth and others
-                    in lerning and virtue and specially in <lb/>
+                    in lerning and vertue and specially in <lb/>
                     <expan>gram<ex>m</ex>er</expan> and other good littaratures for the better
                             <expan>educac<ex>i</ex>on</expan> and bringing <lb/> uppe of Children
                     and others that will resorte thither for lerning of
@@ -264,7 +266,7 @@
                     <lb/> and understanding of the tonges to the <choice>
                         <abbr>hono<hi rend="superscript">r</hi></abbr>
                         <expan>honor</expan>
-                    </choice> of god and advauncement <lb/> of the said citie to have geven graunted
+                    </choice> of god and the advauncement <lb/> of the said citie to have geven graunted
                     and confirmed and by this <pb n="214v"/> my <expan>p<ex>re</ex>sent</expan> dede
                     doe give graunt and confirme unto the <choice>
                         <abbr>Maio<hi rend="superscript">r</hi></abbr>
@@ -336,7 +338,7 @@
                         <expan>w<ex>ith</ex>in</expan>
                     </choice> the said schole to all <lb/> childrene and other that will repaire to
                     the said schole for lerning and <lb/> knowledge of the laten tonge and other
-                    good lerning for the better <expan>educat<ex>i</ex>on</expan>
+                    good lerning for the better <expan>educac<ex>i</ex>on</expan>
                     <lb/> and bringing upp of yowthe in lerning and vertue. And that frelie <choice>
                         <abbr>w<hi rend="superscript">th</hi>out</abbr>
                         <expan>w<ex>ith</ex>out</expan>
@@ -359,7 +361,7 @@
                     my laufull <lb/> attorneis iointlie and severallie for me and in my name to
                     enter into the <expan>p<ex>re</ex>misses</expan>
                     <lb/> and thereof to take possession and season and thereof for me and in my
-                    <lb/> name to delier season and possession to the said <choice>
+                    <lb/> name to deliver season and possession to the said <choice>
                         <abbr>Maio<hi rend="superscript">r</hi></abbr>
                         <expan>Maio<ex>r</ex></expan>
                     </choice> burgeises and <expan>co<ex>mm</ex>i<ex>n</ex>altie</expan>
@@ -369,7 +371,7 @@
                     </choice>
                     <lb/> effecte and true meaninge of this my <expan>p<ex>re</ex>sent</expan> dede.
                     Ratifienge and confirmyng <lb/> all and <expan>ev<ex>er</ex>y</expan> thinge
-                    that my said attorneis or either of them shall doo <lb/> the
+                    that my said attorneis or either of them shall doe <lb/> the
                         <expan>p<ex>re</ex>misses</expan>. In witnes whereof I the said Nicholas
                     Thorne have to <lb/> thies <expan>p<ex>rese</ex>nt<ex>es</ex></expan> putt my
                     seal yoven the firste day of Julie, in the yere of <choice>
@@ -404,7 +406,7 @@
                         <expan>and</expan>
                     </choice> yere aforesaide /</p>
 
-                <p><choice><abbr>Md</abbr><expan>M<ex>emorand</ex>d<ex>um</ex></expan></choice>
+                <p><choice><abbr>Md</abbr><expan>M<ex>emoran</ex>d<ex>um</ex></expan></choice>
                 that the daie <choice> 
                         <abbr>&amp;</abbr>
                         <expan>and</expan>
@@ -421,7 +423,7 @@
                         <abbr>w<hi rend="superscript">t</hi>in</abbr>
                         <expan>w<ex>ith</ex>in</expan>
                     </choice>
-                    <expan>menc<ex>io</ex>ned</expan>
+                    <expan>menc<ex>on</ex>ed</expan>
                     <choice>
                         <abbr>w<hi rend="superscript">t</hi></abbr>
                         <expan>w<ex>ith</ex></expan>
@@ -435,7 +437,7 @@
                     Kelke one of the attorneis <choice>
                         <abbr>w<hi rend="superscript">t</hi>in</abbr>
                         <expan>w<ex>ith</ex>in</expan>
-                    </choice> named to <expan>Thom<ex>a</ex>s</expan> Slapman
+                    </choice> named to <expan>Thom<ex>a</ex>s</expan> Shipman
                         <expan>m<ex>er</ex>chaunt</expan>
                     <choice>
                         <abbr>&amp;</abbr>
@@ -456,7 +458,7 @@
                         <expan>tenor</expan>
                     </choice> and effort of this <expan>p<ex>rese</ex>nte</expan> dede in the
                             <expan>p<ex>re</ex>sence</expan> of Henry Elmley <lb/> John Deconson
-                            <expan>Thom<ex>a</ex>s</expan> Withwell, <expan>Tho<ex>mas</ex></expan>
+                            <expan>Thom<ex>a</ex>s</expan> Withewell, <expan>Tho<ex>mas</ex></expan>
                     England Henry Marton <expan>Will<ex>ia</ex>m</expan>
                     <expan>Edward<ex>es</ex></expan>
                     <lb/> Edward Carr, <expan>Will<ex>ia</ex>m</expan> Wynter george Suly Josias
