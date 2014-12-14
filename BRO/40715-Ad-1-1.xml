@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letters patent. <date when="1532-03-15">17 March, 1532</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2014-10">December 2014</date>
+                <idno type="UUID">e5b052a60-c62e-4d47-b515-d31a4cca7f7b</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>Bristol</settlement>
+                        <repository>Bristol Record Office</repository>
+                        <idno>40715/Ad/1/1</idno>
+                        <msName>Bristol Grammer School Charter</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">Latin</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Thorne</item>
+                        <item>St Bartholomew's</item>
+                        <item>Bristol</item>
+                        <item>Gloucestershire</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><hi rend="bold">Henricus Octavus Dei gracia Anglie et Francie Rex</hi> <lb/>
+                ffidei defensor et dominus hibernie <hi rend="bold">Omnibus</hi> ad quos
+                presentes littere pervenerint. Salutem. <hi rend="bold">Sciatis</hi> 
+                <expan>q<ex>uo</ex>d</expan> nos considerantes pium propositum 
+                <expan>deliector<ex>um</ex></expan> nobis Thome West militis domini <lb/>
+                la Warr Georgii Croft Capellani <expan>n<ex>ost</ex>ri</expan> Roberti
+                Thorne Nicholei Thorne Ville <expan>n<ex>ost</ex>e</expan> Bristollie et
+                Johannis Godryche clerici executoris testamenti Roberti Thorne defuncti
+                in fundacione <expan>continuac<ex>i</ex>o<ex>n</ex>e</expan> <lb/></p>
+            </div>
+            <div>
+                <p>Henry the Eighth, by the grace of God, King of England and France, defender
+                of the faith and lord of Ireland. To all those whom these present letters shall
+                come. Greetings. Know that we considering the blessed purpose of our beloved
+                to us Thomas West, knight, lord La Warr, George Croft our chaplain, Robert Thorne,
+                Nicholas Thorne of our town of Bristol and John Godryche, clerk, executor of the
+                will of Robert Thorne, deceased, in the foundation, continuation</p>
+            </div>
+        </body>
+    </text>
+</TEI>
