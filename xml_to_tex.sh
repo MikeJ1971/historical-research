@@ -28,7 +28,7 @@ XML_SOURCE=$PWD/$1;
 OUTPUT_FILE=$PWD/$2
 
 # run the transformation
-java -jar $SAXON -s:$XML_SOURCE -xsl:$STYLE_SHEET -o:$OUTPUT_FILE
+java -jar $SAXON -s:$XML_SOURCE -xsl:$STYLE_SHEET -o:$OUTPUT_FILE $3
 
 # run pdf latex
 pdflatex $OUTPUT_FILE

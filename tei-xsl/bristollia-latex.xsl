@@ -11,6 +11,7 @@
     <!-- strip white space -->
     <xsl:strip-space elements="tei:date tei:title tei:note tei:choice tei:abbr tei:ex tei:hi tei:locus"/>
 
+    <xsl:param name="newline">nl</xsl:param>
 
     <!-- VARIABLES -->
 
@@ -166,11 +167,15 @@
 
     <xsl:template match="tei:text/tei:body">
         <xsl:call-template name="editorial"/>
-        \begin{landscape}
+        <xsl:if test="$newline != 'pipe'">
+            \begin{landscape}
+        </xsl:if>
         \section*{Text}
         <xsl:apply-templates/>
+        <xsl:if test="$newline != 'pipe'">
             \end{landscape}
-            \end{document}
+        </xsl:if>
+        \end{document}
     </xsl:template>
 
     <xsl:template match="tei:pb">
@@ -191,7 +196,7 @@
         \par
     </xsl:template>
 
-    <xsl:template match="tei:lb">\newline </xsl:template>        
+    <xsl:template match="tei:lb"><xsl:choose><xsl:when test="$newline = 'pipe'"> | </xsl:when><xsl:otherwise>\newline </xsl:otherwise></xsl:choose></xsl:template>        
 
     <xsl:template match="tei:ex">\textit{<xsl:value-of select="normalize-space(.)"/>}</xsl:template>
 
