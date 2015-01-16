@@ -84,14 +84,17 @@
     </xsl:template>
 
     <!-- folios, pages etc -->
-    <xsl:template name="locus">, <xsl:value-of select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msContents/tei:msItem/tei:locus/text()"/>
+    <xsl:template name="locus">
+        <xsl:if test="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msContents/tei:msItem/tei:locus">
+        , <xsl:value-of select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msContents/tei:msItem/tei:locus/text()"/>
+        </xsl:if>
     </xsl:template>
 
     <!-- editorial notes -->
     <xsl:template name="editorial">
         \section*{Editorial Note}
 
-        Original punctuation and spelling are preserved. Superscript characters are lowered and contractions expanded with supplied letters italicised. The thorn (\th\ or y) is replaced with `th' and a terminal graph with `es'. The ampersand brevigraph is silently expanded to `and' in English and `et' in Latin. Letters within square brackets are supplied by the editor. Engrossed hand are shown in bold text.
+        Original punctuation and spelling are preserved. Superscript characters are lowered and contractions expanded with supplied letters italicised. The thorn (\th\ or y) is replaced with `th' and a terminal graph with `es'. The ampersand brevigraph is silently expanded to `and' in English and `et' in Latin. Letters within square brackets are supplied by the editor. Engrossed hand are shown in bold text. <xsl:if test="$newline = 'pipe'">New lines are indicate by a vertical bar (|).</xsl:if>
     </xsl:template>
 
 
@@ -170,12 +173,20 @@
         <xsl:if test="$newline != 'pipe'">
             \begin{landscape}
         </xsl:if>
-        \section*{Text}
         <xsl:apply-templates/>
         <xsl:if test="$newline != 'pipe'">
             \end{landscape}
         </xsl:if>
         \end{document}
+    </xsl:template>
+
+    <xsl:template match="tei:div">
+        <xsl:choose>
+            <xsl:when test="@type='translation'">\section*{Translation}</xsl:when>
+            <xsl:when test="@type='text'">\section*{Text}</xsl:when>
+            <xsl:otherwise></xsl:otherwise>
+        </xsl:choose>
+                    <xsl:apply-templates/>
     </xsl:template>
 
     <xsl:template match="tei:pb">
