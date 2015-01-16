@@ -50,7 +50,7 @@
     </teiHeader>
     <text>
         <body>
-            <div>
+            <div type="text" xml:lang="la">
                 <p><hi rend="bold">Henricus Octavus Dei gracia Anglie et Francie Rex</hi> <lb/>
                 ffidei defensor et dominus hibernie <hi rend="bold">Omnibus</hi> ad quos
                 presentes littere pervenerint. Salutem. <hi rend="bold">Sciatis</hi> 
@@ -139,11 +139,9 @@
                 <expan>l<ex>itt</ex>ras</expan> regias executorias et confirmatorias in hac parte
                 de tempore in tempus <expan>f<ex>ac</ex>iend<ex>o</ex></expan> et 
                 <expan>exequend<ex>o</ex></expan>
-
-                <expan></expan>
             </p>
             </div>
-            <div>
+            <div type="translation" xml:lang="en">
                 <p>Henry the Eighth, by the grace of God, King of England and France, defender
                 of the faith and lord of Ireland. To all those whom these present letters shall
                 come. Greetings. Know that we considering the blessed purpose of our beloved
