@@ -27,8 +27,11 @@ XML_SOURCE=$PWD/$1;
 # full path to output file
 OUTPUT_FILE=$PWD/$2
 
+
 # run the transformation
 java -jar $SAXON -s:$XML_SOURCE -xsl:$STYLE_SHEET -o:$OUTPUT_FILE $3
+
+sed -i.bak 's/ \\footnote/\\footnote/' $OUTPUT_FILE
 
 # run pdf latex
 pdflatex $OUTPUT_FILE

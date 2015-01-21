@@ -3,4 +3,5 @@
 *.log
 *.out
 *.tex
+*.bak
 .DS_Store
