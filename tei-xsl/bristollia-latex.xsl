@@ -210,6 +210,7 @@
     <xsl:template match="tei:lb"><xsl:choose><xsl:when test="$newline = 'pipe'"> | </xsl:when><xsl:otherwise>\newline </xsl:otherwise></xsl:choose></xsl:template>        
 
     <xsl:template match="tei:ex">\textit{<xsl:value-of select="normalize-space(.)"/>}</xsl:template>
+    <xsl:template match="tei:foreign">\textit{<xsl:apply-templates />}</xsl:template>
 
      <xsl:template name="expan" match="tei:expan">
         <xsl:text> </xsl:text>
