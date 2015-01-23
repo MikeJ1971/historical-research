@@ -177,8 +177,12 @@
                 <expan>exist<ex>it</ex></expan> in non <expan>obstant<ex>ibus</ex></expan>
                 <hi rend="bold">In cuius</hi> rei testimonium has 
                 <expan>l<ex>itt</ex>ras</expan> <expan>n<ex>ost</ex>ras</expan>
-                fieri ferimus patentes. <hi rend="bold">Teste</hi> me ipso apud Chelsehith
-                decimo septime die Marcu Anno regni <expan>n<ex>ost</ex>ri</expan>
+                fieri ferimus patentes. <hi rend="bold">Teste</hi> me ipso apud 
+                <location><placeName>Chelsehith</placeName><note>Chelsea</note>
+                <geo>51.4845995,-0.1641283</geo></location>
+                decimo septime die Marcu <note>Martii</note> Anno regni 
+                <choice> <abbr>nri<am>&#x305;</am></abbr>
+                <expan>n<ex>ost</ex>ri</expan></choice>
                 vicesimo tercio. <hi rend="bold">Popeley</hi> <lb/>
                 Per <expan>br<ex>ev</ex>e</expan> de priuato sigillo et de data
                 <expan>pred<ex>i</ex>c<ex>t</ex>a</expan> auctoritate parliamenti
