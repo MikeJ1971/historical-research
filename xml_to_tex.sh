@@ -24,13 +24,14 @@ STYLE_SHEET=$PWD/tei-xsl/bristollia-latex.xsl;
 # full path to the xml file
 XML_SOURCE=$PWD/$1;
 
-# full path to output file
+# full path to output tex file
 OUTPUT_FILE=$PWD/$2
-
 
 # run the transformation
 java -jar $SAXON -s:$XML_SOURCE -xsl:$STYLE_SHEET -o:$OUTPUT_FILE $3
 
+# remove a space if it appears before the footnote command,
+# otherwise a space appears before the superscript number
 sed -i.bak 's/ \\footnote/\\footnote/' $OUTPUT_FILE
 
 # run pdf latex
