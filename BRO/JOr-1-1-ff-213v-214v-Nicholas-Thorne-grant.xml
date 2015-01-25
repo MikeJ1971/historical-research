@@ -13,7 +13,7 @@
             <publicationStmt>
                 <publisher>http://bristollia.org</publisher>
                 <pubPlace>Bristol</pubPlace>
-                <date when="2014-10">November 2014</date>
+                <date when="2015-01">January 2015</date>
                 <idno type="UUID">ee15f47a-e066-43b8-b9c2-36fac094dc40</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
@@ -29,8 +29,8 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <title></title>
                             <locus>ff. 213v - 214v</locus>
+                            <title></title>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -38,11 +38,13 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Grant by Nicholas Thorne to the mayor, burgesess and commonality of Bristol of St
+                <p>A grant by Nicholas Thorne to the mayor, burgesess and commonality of Bristol of St
                     Bartholomew's Hospital and its lands in Bristol and Gloucestershire. This is a
                     copy of a deed enrolled in the Great Orphan Book. Dated 1 July, 1561.</p>
-                <p>The transcript was made from the microfiche copy of the Great Orphan 
-                    Book (FC/OB/1/10, frames 16 -18).</p>
+                <p>The transcript was made from the microfiche copy (FC/OB/1/10, frames 16-18)
+                    of the Great Orphan Book. The original deed is held in Bristol Record 
+                    Office under the Records of the Grammar School series (40715/Ad/1), previously 
+                    referenced as Bristol Munciple Charities, Bundle 163/5.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -61,8 +63,8 @@
     </teiHeader>
     <text>
         <body>
-            <div>
-                <pb n="213v"/>
+            <div type="text" xml:lang="en">
+                <pb n="f. 213v"/>
                 <p><hi rend="bold">To all trewe <choice>
                             <abbr type="contraction">xpen</abbr>
                             <expan><ex>christian</ex></expan>
@@ -91,13 +93,13 @@
                         <expan>w<ex>ith</ex>in</expan>
                     </choice> the Citie or towne of Bristowe and <expan>lymytt<ex>es</ex></expan>
                     <lb/> of the same, by his <expan>l<ex>ett</ex>res</expan> 
-                    <expan>patent<ex>es</ex></expan> bering date at Chelscheth<note>Chelsea.</note>
+                    <expan>patent<ex>es</ex></expan> bering date at Chelschith <note>Chelsea</note>
                     the seven <lb/> tyneth daie of Marche in the three and Twentyth yere of his
                     raigne <lb/> did geve and graunte lycense for hym his heires and successors to
                     the <lb/>
                     <choice>
                         <abbr>maio<hi rend="superscript">r</hi></abbr>
-                        <expan>maio<ex>r</ex></expan>
+                        <expan>maior</expan>
                     </choice> burgeises and <expan>co<ex>mm</ex>i<ex>n</ex>altie</expan> of the said
                     Towne of Bristowe and to their <lb/> Successors, that they and their successors
                     mought at any tyme thereafter <lb/> purchase receave and take to them and to
@@ -139,7 +141,7 @@
                     said late king his heires and successors in chief or otherwise ./<lb/> To have
                     to the said <choice>
                         <abbr>Maio<hi rend="superscript">r</hi></abbr>
-                        <expan>Maio<ex>r</ex></expan>
+                        <expan>Maior</expan>
                     </choice> burgeises and <expan>com<ex>m</ex>ynaltie</expan> and to their <choice>
                         <abbr>successo<hi rend="superscript">rs</hi></abbr>
                         <expan>successo<ex>rs</ex></expan>
@@ -151,7 +153,7 @@
                             <expan>hereditament<ex>es</ex></expan> and <lb/> other the
                             <expan>p<ex>re</ex>misses</expan> unto the <choice>
                         <abbr>Maio<hi rend="superscript">r</hi></abbr>
-                        <expan>Maio<ex>r</ex></expan>
+                        <expan>Maior</expan>
                     </choice> burgeises and <expan>com<ex>m</ex>ynaltie</expan> of Bristowe <lb/>
                     aforesaid and to their successors for ever, as by the same
                         <expan>l<ex>ett</ex>res</expan>
@@ -163,8 +165,9 @@
                     <lb/> and <choice>
                         <abbr>xxiiij<hi rend="superscript">th</hi></abbr>
                         <expan>xxiiijth</expan>
-                    </choice> yeres of the raigne of the same late kinge Henry the eight <pb n="214"
-                    /> The said Robert Thorne of London <expan>m<ex>er</ex>chaunt</expan> Nicholas
+                    </choice> yeres of the raigne of the same late kinge Henry the eight 
+                    <pb n="f. 214"/> 
+                    The said Robert Thorne of London <expan>m<ex>er</ex>chaunt</expan> Nicholas
                     Thorne of Bristowe his <lb/> brother and John Godriche clerk by two severall
                     writtes of entre in the past <lb/> by them brought did recover against the said
                     George Crofte clerk then <lb/> master of the house or hospitall of sainte
@@ -197,7 +200,7 @@
                         <expan>thapp<ex>er</ex>ten<ex>a</ex>nc<ex>es</ex></expan>
                     </choice> in the towne of Bristowe and in <lb/> the
                         <expan>p<ex>ar</ex>ishes</expan> of saint Augustynes, saint Mighell, saint
-                    James and saint Philip <lb/> in the subburbes of the saide towne of Bristow as
+                    James and saint Philip <lb/> in the subburbes of the saide towne of Bristowe as
                     by the <choice>
                         <abbr>teno<hi rend="superscript">r</hi></abbr>
                         <expan>tenor</expan>
@@ -220,7 +223,7 @@
                     </choice> the said howse of the Bartilmewes, and to establishe there one <lb/>
                     schole master and one or two usshers for the same / And where after <lb/> such
                     recoverie and entrie by them made into the <expan>p<ex>re</ex>misses</expan>,
-                    the said Robert <lb/> Thorne of London and the said John Godriche clerk did
+                    the said Robert <lb/> Thorne of London and the said John Godriche clerk died
                     thereof seased <lb/> and the said Nicholas then overlived, and was sole seased of the
                             <expan>p<ex>re</ex>misses</expan>
                     <lb/> in his demeane as of fee by title of <choice>
@@ -267,10 +270,12 @@
                         <abbr>hono<hi rend="superscript">r</hi></abbr>
                         <expan>honor</expan>
                     </choice> of god and the advauncement <lb/> of the said citie to have geven graunted
-                    and confirmed and by this <pb n="214v"/> my <expan>p<ex>re</ex>sent</expan> dede
+                    and confirmed and by this 
+                    <pb n="f. 214v"/> 
+                    my <expan>p<ex>re</ex>sent</expan> dede
                     doe give graunt and confirme unto the <choice>
                         <abbr>Maio<hi rend="superscript">r</hi></abbr>
-                        <expan>Maio<ex>r</ex></expan>
+                        <expan>Maior</expan>
                     </choice> burgeises and <lb/> comynaltie of the Citie of Bristowe aforesaid, and
                     to their successors <expan>forev<ex>er</ex></expan> the said <lb/> late house or
                     hospitall called the Bartilmewes scituate in Bristowe aforesaid, <lb/>
@@ -289,7 +294,7 @@
                         <abbr>w<hi rend="superscript">th</hi></abbr>
                         <expan>w<ex>ith</ex></expan>
                     </choice> in the countie of the said citie of Bristoll, and <lb/> all other
-                            <expan>man<ex>ner</ex>s</expan> messuages landes
+                            <expan>man<ex>or</ex>s</expan> messuages landes
                             <expan>Ten<ex>emen</ex>t<ex>es</ex></expan> medowes pastures
                             <expan>wood<ex>es</ex></expan>
                     <expan>underwood<ex>es</ex></expan>
@@ -318,8 +323,8 @@
                     severall recoveries and license aforesaid /. To have holde <lb/> and enioye the
                             <expan>p<ex>re</ex>misses</expan> to the said <choice>
                         <abbr>Maio<hi rend="superscript">r</hi></abbr>
-                        <expan>Maio<ex>r</ex></expan>
-                    </choice> burgeisses and <expan>com<ex>m</ex>y<ex>n</ex>altie</expan> of the
+                        <expan>Maior</expan>
+                    </choice> burgeisses and <expan>com<ex>m</ex>ynaltie</expan> of the
                     <lb/> said citie of Bristowe and to their successors
                         <expan>forev<ex>er</ex></expan> to the uses and
                         <expan>intent<ex>es</ex></expan>
@@ -331,7 +336,7 @@
                     lerned and vertuouse to be schole master there, and one or two <lb/> other
                     sufficiente <expan>p<ex>er</ex>son</expan> or <expan>p<ex>er</ex>sons</expan>
                     being also sufficientlie lerned and vertuouse <lb/> to be usher or ushers there.
-                    And they the said masters and usher or ushers <lb/> and their successors
+                    And they the said master and usher or ushers <lb/> and their successors
                     contynually to teache <expan>gram<ex>m</ex>er</expan>
                     <choice>
                         <abbr>w<hi rend="superscript">th</hi>in</abbr>
@@ -351,7 +356,7 @@
                     the <expan>p<ex>re</ex>misses</expan>
                     <lb/> againste me and my heires to the said <choice>
                         <abbr>Maio<hi rend="superscript">r</hi></abbr>
-                        <expan>Maio<ex>r</ex></expan>
+                        <expan>Maior</expan>
                     </choice> burgeises and <expan>com<ex>m</ex>ynaltie</expan>
                     <lb/> and to their successors as aforesaid shall warraunt acquitt and defende by
                     <lb/> theis <expan>p<ex>rese</ex>nt<ex>es</ex></expan> / And farther ye shall
@@ -363,7 +368,7 @@
                     <lb/> and thereof to take possession and season and thereof for me and in my
                     <lb/> name to deliver season and possession to the said <choice>
                         <abbr>Maio<hi rend="superscript">r</hi></abbr>
-                        <expan>Maio<ex>r</ex></expan>
+                        <expan>Maior</expan>
                     </choice> burgeises and <expan>co<ex>mm</ex>i<ex>n</ex>altie</expan>
                     <lb/> or to their sufficient attorney in their name or behalf according to the <choice>
                         <abbr>teno<hi rend="superscript">r</hi></abbr>
@@ -451,7 +456,7 @@
                         <expan>w<ex>ith</ex>in</expan>
                     </choice> named <choice>
                         <abbr>Maio<hi rend="superscript">r</hi></abbr>
-                        <expan>Maio<ex>r</ex></expan>
+                        <expan>Maior</expan>
                     </choice> burgeises and <expan>co<ex>mm</ex>i<ex>n</ex>altie</expan>
                     <lb/> according to the <choice>
                         <abbr>teno<hi rend="superscript">r</hi></abbr>
