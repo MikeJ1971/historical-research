@@ -222,6 +222,7 @@
     <xsl:template match="tei:hi">
         <xsl:choose>
             <xsl:when test="@rend='bold'">\textbf{<xsl:apply-templates/>}</xsl:when>
+            <xsl:when test="@rend='underscore'">\underline{<xsl:apply-templates/>}</xsl:when>
         </xsl:choose>
     </xsl:template>
 
@@ -230,5 +231,7 @@
     <xsl:template match="tei:choice"><xsl:call-template name="expan"/></xsl:template>
 
     <xsl:template match="tei:note">\footnote{<xsl:apply-templates />}</xsl:template>
+
+    <xsl:template match="tei:space">\hspace*{2cm}</xsl:template>
 
 </xsl:stylesheet>
