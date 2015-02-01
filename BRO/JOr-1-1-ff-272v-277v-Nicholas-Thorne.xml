@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Will of Nicholas Thorne. <date when="1546-10-15">10 October,
+                    1546</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2015-02">February 2015</date>
+                <idno type="UUID">2d62b5b3-8103-4db3-b811-fb06b4b26b71</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>Bristol</settlement>
+                        <repository>Bristol Record Office</repository>
+                        <idno>JOr/1/1</idno>
+                        <msName>Great Orphan Book</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>ff. 272v - 277v</locus>
+                            <title></title>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The last will and testament of Nicholas Thorne.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Thorne</item>
+                        <item>Bristol</item>
+                        <item>Gloucestershire</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+
+                <pb n="f. 272v"/>
+
+                <p><choice>
+                    <abbr>þ<hi rend="superscript">e</hi></abbr>
+                    <expan><ex>Th</ex>e</expan>
+                </choice> fourth day Auguste in the yere of oure lorde god a thousand
+                fyvehunderth fourtie and sixe And in the <lb/> 
+                xxxviij<hi rend="superscript">ti</hi> yere of the reigne of oure moste
+                dredd soveraigne lorde harry the viijth by the <lb/> grace of god of 
+                Englande ffraunce and Irelonde king defendor of the faithe and in earthe
+                <lb/> of the churche of Englande and also of Irlonde the supreme hedde <lb/>
+                I Nicholas Thorne Citizen and merchaunte of the towne or Citie of Bristowe
+                being in good <lb/> helthe and of perfite mynde and good Remembraunce god
+                be thanked Remembring <lb/> the mutabilitie and uncertantie of this
+                Transitory worlde / And most especiall the <lb/> casuall and soden deathe 
+                that doithe happen / And willing therfore for to make in a <lb/> ordynes my
+                self do make and ordein this my <expan>p<ex>rese</ex>nt</expan> testament 
+                and last will in maner and <lb/> forme After folowing that is to saye 
+                <space /> I give and and bequeth my Soule unto <lb/> almyghtie god that
+                created made and redemed me and all the worlde humblie beseching <lb/>
+                him to take marcy uppon me and put me in his eternall glorie to the lawde
+                and <lb/>prayse of hym / And of his moost and gloriouse blessed name / And
+                my body to be buryed <lb/> yf I dye in bristowe in the churche of saynte 
+                warborewgh where my late wif Mary <lb/> Thorne lyeth buryed and at my 
+                buryeng be said and sing dirige . and masse <expan>w<ex>ith</ex>all</expan>
+                <lb/> other dyvyne <expan>s<ex>er</ex>vice</expan> as a true cristen men
+                ought to have / And that at my burying <lb/> be spent and gyven to poore
+                people not passing the Sume of xv li sterling <space/> I <lb/> will that 
+                xij poore men of the whiche viij of them to be duellers
+                <expan>w<ex>ith</ex>in</expan> the <expan>p<ex>ar</ex>ishe</expan> <lb/>
+                of saynt Nicholas and the other iij to be <expan>w<ex>ith</ex>in</expan>
+                the parrishe of sainte warborough <lb/> aforesaid that have byn housholders
+                and fallen in decaye be geben to every of them <lb/> a gowne of mowster
+                <note>muster, i.e. muster-cloth - a mixed grey woolen cloth</note> or
+                Russett of the price of every gowne twentie
+                <expan>shilling<ex>es</ex></expan> sterling <lb/> And more to every of them
+                xiij<hi rend="superscript">s</hi> iiij<hi rend="superscript">d</hi>
+                in redy money <space/> I will above all <expan>thing<ex>es</ex></expan><lb/>
+                my debtes be paid yf any appere that I do owe by wryting Score or by
+                sufficyent <lb/> Recorde to any persone or
+                <expan>p<ex>er</ex>sonnes</expan>. <space/> I bequethe a 
+                <expan>mong<ex>es</ex></expan> the poore housholders <lb/>
+                dwelling <choice><abbr>w<hi rend="superscript">t</hi>in</abbr>
+                <expan>w<ex>ith</ex>in</expan></choice> the Citie of bristowe aforesaid
+                one hundred <expan>marc<ex>es</ex></expan> sterling to be <lb/>paid and
+                <expan>delyv<ex>er</ex>ed</expan> to them
+                <choice><abbr>w<hi rend="superscript">t</hi>in</abbr>
+                <expan>w<ex>ith</ex>in</expan></choice> one yere next after my burying
+                <space/> I bequeth <lb/> to the Churche of saint Nicholas in bristowe 
+                aforesaid xl s sterling towardes <lb/> the 
+                <expan>reparac<ex>i</ex>ons</expan> and <expan>maynten<ex>a</ex>nce</expan>
+                of the clock and of the chyme in the said church <lb/> the whiche xl s to 
+                be paid and delivered by myne executors 
+                <choice><abbr>w<hi rend="superscript">t</hi>in</abbr>
+                <expan>w<ex>ith</ex>in</expan></choice> xij monthes <lb/> after my burying 
+                <space/> I bequethe to brother in lawe Willyam Harpar <lb/>
+                a gowne Wherof the forparte is lyned 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr>
+                <expan>w<ex>ith</ex></expan></choice> damask a Jacket of tawney damaske
+                <lb/> a gowne furred <choice><abbr>w<hi rend="superscript">t</hi></abbr>
+                <expan>w<ex>ith</ex></expan></choice> boge <note>OED: Budge: `A kind of 
+                fur, consisting of lamb's skin with the wool dressed outwards.'</note> a
+                Jacket of tawney velvett a dublett of satten a <lb/> golde ring
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr>
+                <expan>w<ex>ith</ex></expan></choice> tenne pounde in money / And to my 
+                Sister his wif a ring <choice><abbr>w<hi rend="superscript">t</hi></abbr>
+                <expan>w<ex>ith</ex></expan></choice> a <lb/> dyamount <note>diamond</note>
+                and more a ring <choice><abbr>w<hi rend="superscript">t</hi></abbr>
+                <expan>w<ex>ith</ex></expan></choice> an esmyrall <note>emerald</note> and
+                a ring <choice><abbr>w<hi rend="superscript">t</hi></abbr>
+                <expan>w<ex>ith</ex></expan></choice> a ruby whiche is at <lb/> this daye
+                in her keping my gowne of violet in grayne furred <choice>
+                <abbr>w<hi rend="superscript">t</hi></abbr> <expan>w<ex>ith</ex></expan>
+                </choice> boge and xl ounces <lb/> of silver and more to her tene poundes 
+                in money and to my brother her husbonde <lb/> and to her to gownes of the
+                price lvj s iiij d And more to my Sister a small <lb/> Arres bedde <space/>I bequethe to ffraunces Woseley x li in salte after xx 
+                <hi rend="superscript">s</hi> the tone
+
+                <pb n="f. 273"/>
+
+                And to Nicholas Woseley his brother twentie poundes in salte afte xx 
+                <hi rend="superscript">s</hi> the <lb/> onne to be paid and delyvered to 
+                them by myne executors <choice><abbr>w<hi rend="superscript">t</hi>in</abbr>
+                <expan>w<ex>ith</ex>in</expan></choice> xij monethes <lb/> after my buryall
+                <space/> I bequethe unto vincent Thorne resident in Iane <lb/> two hundreth
+                <expan>ducat<ex>es</ex></expan> and more the residue of the debte that the
+                palabyzenes <lb/> genewys owethe unto me of the bequeste of my brother
+                Robert Thorne <lb/> decessed / whiche debte I recon to be a boute two
+                hunderth fyftie <expan>ducat<ex>es</ex></expan> the <lb/> whiche legace
+                i wil be paid to for hym unto leonarde Caltaynes Genewys or <lb/>
+                to his assigns And to be put in saynte Georges of Geane to and for thuse
+                <lb/> behofe profett and advantage of the said Vincent Thorne / <space/> I
+                will <lb/> that yf the said Vincent Thorne happen to dye before he come to 
+                thage of <lb/> xxj yeres, then I will that the same bequest be delyvered to
+                the use and <lb/> behofe of the house of the bartilmews in bristowe 
+                aforesaid There to be <lb/> employed to the most advauntage that maye growe
+                of and towardes the <lb/> buylding and Reperacyon of the same house or 
+                inpurchessing of lande for the <lb/> <expan>maynten<ex>a</ex>nc
+                <ex>es</ex></expan> of the free Schole there after the
+                <expan>discrec<ex>i</ex>on</expan> of myne executors <lb/> or there
+                assignes or suche <expan>p<ex>er</ex>sonnes</expan> that shall herafter
+                have the charge of the <lb/> same house thinketh most nessessery for the
+                behofe and <expan>maynten<ex>a</ex>nce</expan> of the said <lb/> free Scole
+                <space/> I will and bequethe unto Roberte Thorne being prentice <lb/>
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr>
+                <expan>w<ex>ith</ex></expan></choice> Willyam Ostriche of london 
+                haberdasher one hunderth poundes sterling <lb/> <space/> I give and
+                bequethe to Nicholas Thorne my <hi rend="underscore">bastard</hi>
+                sonne nowe <lb/> being in Biskaye lxvj <choice><abbr>
+                <hi rend="superscript">li</hi></abbr><expan>li</expan></choice> xiij
+                <choice><abbr><hi rend="superscript">s</hi></abbr><expan>s</expan>
+                </choice> iiij <choice><abbr><hi rend="superscript">d</hi></abbr>
+                <expan>d</expan></choice> sterling And I will that he <choice>
+                <abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex>
+                </expan></choice> whome <lb/> the said Nicholas is printice to have the
+                Rule and keping of the said <lb/> lxvj li xiij iiij d sterling for the
+                terme of vij yeres fynding suffycient <lb/> Surties to the Chambre of
+                bristowe for the assuraunce repayment and <lb/> delyvery of the said 
+                lxvj <choice><abbr><hi rend="superscript">li</hi></abbr>
+                <expan>li</expan></choice> xiij <choice><abbr>
+                <hi rend="superscript">s</hi></abbr><expan>s</expan></choice> 
+                iiij <choice><abbr><hi rend="superscript">d</hi></abbr><expan>d</expan>
+                </choice> sterling at thende of the said vij <lb/>
+                yeres And yf any syfficyente parson <choice><abbr>w
+                <hi rend="superscript">t</hi>in</abbr><expan>w<ex>ith</ex>in</expan>
+                </choice> this towne or Citie of bristowe <lb/> suche as myne
+                executors thinke sufficyente that will offre most to the <lb/>
+                said Nicholas gyven sufficyente surties to te Chambre of bristowe <lb/>
+                aforesaid that to hym I will be delyvered the said lxvj <choice><abbr>
+                <hi rend="superscript">li</hi></abbr><expan>li</expan></choice> xiij
+                <choice><abbr><hi rend="superscript">s</hi></abbr><expan>s</expan>
+                </choice> iiij <choice><abbr><hi rend="superscript">d</hi></abbr>
+                <expan>d</expan></choice> <expan>st<ex>erling</ex></expan> <lb/>
+                during the tyme of his apprenticchode / <space/> I give and bequeth
+                unto <lb/> the Chambre of bristowe aforesaid one hunderth poundes
+                sterling to be <lb/> employed in maner the bankes in the marshe
+                in the said towne and <lb/> Citie of Bristowe where as it shalbe
+                thought mooste nede <note>Miscopied. 
+                The PCC will states: `Item I geve and bequeth unto the Chambr of
+                Bristow aforesaide one hundreth poundes sterling to be employed
+                in manner and forme following that is to say / tenne poundes
+                thereof towardes the <expan>rep<ex>er</ex>ation</expan> of the
+                bridge. And tenne poundes therof towardes the 
+                <expan>rep<ex>ar</ex>ation</expan> and mending of the
+                <expan>wall<ex>es</ex></expan> of the backe and the key / And for thw
+                repairation and <expan>maynten<ex>a</ex>nce</expan> of the 
+                <expan>bank<ex>es</ex></expan> in the marshe in the saide towne and
+                Cytie of Bristow Wheras it shalbe thought most neade.'</note> And
+                lxxx li <lb/> the rest and Residue of the said hunderth poundes
+                sterling I will it <lb/> remayne towardes the making of a 
+                gro narde <note>`Garnarde' in PCC</note> to kepe suche provision of <lb/>
+                corne as shalbe provyded for the comons of the said towne and citie of
+                <lb/> bristowe / The whiche hundrethe poundes sterling I will that 
+                it be <lb/> employed expended and paid by the Advyse and ordre of my 
+                <choice><abbr>neighb<hi rend="superscript">r</hi></abbr>
+                <expan>neighbor</expan></choice> <lb/> John Drewes thelder To whome
+                I bequeth xl li to be discounted and <lb/> deducted to hym of suche
+                debtes as he dothe owe me at this <expan>p<ex>re</ex>sente</expan>
+                day <lb/>
+
+                <pb n="f. 273v"/>
+
+                As more larger do appere by his accompte made between hym and me
+                thereof. <lb/> clerelye I releace and give to hym for the zeale love
+                I beare to hym and for <lb/> his payne to see the said hunderth
+                poundes so bestowed according to this my laste <lb/> will I bequethe
+                to him a blacke gowne price xxx <choice><abbr><hi rend="superscript">s</hi>
+                </abbr><expan>s</expan></choice> <space/> I bequethe towardes <lb/>
+                the making of a damhede <choice><abbr>w<hi rend="superscript">t</hi>
+                </abbr><expan>w<ex>ith</ex></expan></choice> Stone to the docke at
+                the Key for the making and <lb/> repairing of shippes xxv <choice><abbr>
+                <hi rend="superscript">li</hi></abbr><expan>li</expan></choice> sterling
+                the same damhede to be made by the advyse <lb/> and counsell of Thomas
+                <expan>Hick<ex>es</ex></expan> and Edwarde Jones and to every of them
+                for <lb/> there paynes taking thereof xx s sterling <space/> I bequethe
+                to my cosen John <lb/> Thorne one of my skarlett gownes and one other
+                gowne furred <choice><abbr>w<hi rend="superscript">t</hi>
+                </abbr><expan>w<ex>ith</ex></expan></choice> bodge a Jackett <lb/>
+                of damaske a Jackett and a doublett of velvett and a doublett of
+                satten and more <lb/> to hym and to his wif two blacke gownes price
+                liij <choice><abbr><hi rend="superscript">s</hi></abbr><expan>s</expan>
+                </choice> iiij <choice><abbr><hi rend="superscript">d</hi></abbr>
+                <expan>d</expan></choice> <space/> I geve and <lb/> and bequethe to
+                master Harrys Scole <choice><abbr>M<hi rend="superscript">r</hi></abbr>
+                <expan>m<ex>aste</ex>r</expan></choice> of the free Scole at the
+                Bartilmews <lb/> fyve <expan>mark<ex>es</ex></expan> sterling and a
+                blake gowne price xxx <choice><abbr><hi rend="superscript">s</hi>
+                </abbr><expan>s</expan></choice> for his paynes taking <lb/> hereafter
+                to bring up youthe there in vertue to the pleasure of god And he to <lb/>
+                have the same rombe <note>room</note> that he nowe Hathe for term of
+                his lif seke and hole <lb/> And yf the landes of the said Bartelmewes
+                may be herafter ymproved by any <lb/> meanes the
+                <expan>rent<ex>es</ex></expan> to be any more then it is at this
+                <expan>p<ex>rese</ex>nt</expan> daye Then I will that <lb/> his
+                <expan>wag<ex>es</ex></expan> be enlarged to twentie poundes by the
+                yere <space/> I bequethe to <lb/> Thomas Clarke of Aller to John
+                Sariannte Ussher of the grammerschole to <expan>J<ex>oh</ex>n</expan>
+                <lb/> Sare notary to Marten Affilde to Thomas Warden to
+                <expan>Will<ex>ia</ex>m</expan> Cooke and to <lb/> ffraunces Coston
+                to every of them thre tonne salte <space/> I bequethe to <lb/>
+                twentie poore maydens of good name and fame dwelling <choice>
+                <abbr>w<hi rend="superscript">t</hi>in</abbr>
+                <expan>w<ex>ith</ex>in</expan></choice> the said Citie <lb/> of
+                Bristow intendinge there to inhabite and dwell
+                <choice><abbr>w<hi rend="superscript">t</hi>in</abbr>
+                <expan>w<ex>ith</ex>in</expan></choice> the said Citie one <lb/>
+                hundrethe <expan>mark<ex>es</ex></expan> <expan>st<ex>erling</ex></expan>
+                that is to saye to every meide at the daye of her
+                <expan>m<ex>arr</ex>iage</expan> <lb/> fyve 
+                <expan>mark<ex>es</ex></expan> sterlingg in maner and forme as
+                folowethe that is to saye the furste <lb/> yere vj maydens and
+                every yere after vij maydens at the day of there <lb/>
+                <expan>m<ex>arr</ex>iage</expan> to be paide fyve
+                <expan>mark<ex>es</ex></expan> <expan>st<ex>erling</ex></expan>
+                <space/> I confesse to have remayning in my <lb/> handes at this
+                present day of the goodes of mastres Tonnell deceassed sixe <lb/>
+                poundes of money leste to be occupied for the behofe of her daughter
+                named <lb/> Jone the whiche I will be paid unto the saide Jone
+                at her marryage / Also I <lb/> give unto my legittimate sonne
+                Robert Thorne the younger one hundreth <lb/>
+                <expan>m<ex>ar</ex>k<ex>es</ex></expan> sterling and one hunderth
+                ounces of silver half gilte and half parcell <lb/> gilte 
+
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>
