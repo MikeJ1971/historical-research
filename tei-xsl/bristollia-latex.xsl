@@ -231,6 +231,7 @@
     <xsl:template match="tei:choice"><xsl:call-template name="expan"/></xsl:template>
 
     <xsl:template match="tei:note">\footnote{<xsl:apply-templates />}</xsl:template>
+    <xsl:template match="tei:add">&#60;<xsl:apply-templates />&#62;</xsl:template>
 
     <xsl:template match="tei:space">\hspace*{2cm}</xsl:template>
 
