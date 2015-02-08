@@ -9,7 +9,7 @@
     <xsl:output method="text" omit-xml-declaration="yes" indent="no"/>
 
     <!-- strip white space -->
-    <xsl:strip-space elements="tei:date tei:title tei:note tei:choice tei:abbr tei:ex tei:hi tei:locus"/>
+    <xsl:strip-space elements="tei:date tei:title tei:note tei:choice tei:abbr tei:ex tei:hi tei:expan tei:locus"/>
 
     <xsl:param name="newline">nl</xsl:param>
 
@@ -213,7 +213,7 @@
     <xsl:template match="tei:foreign">\textit{<xsl:apply-templates />}</xsl:template>
 
      <xsl:template name="expan" match="tei:expan">
-        <xsl:text> </xsl:text>
+        <!--<xsl:text> </xsl:text>-->
         <xsl:apply-templates />
     </xsl:template>
 
@@ -223,6 +223,7 @@
         <xsl:choose>
             <xsl:when test="@rend='bold'">\textbf{<xsl:apply-templates/>}</xsl:when>
             <xsl:when test="@rend='underscore'">\underline{<xsl:apply-templates/>}</xsl:when>
+            <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
         </xsl:choose>
     </xsl:template>
 
@@ -233,6 +234,6 @@
     <xsl:template match="tei:note">\footnote{<xsl:apply-templates />}</xsl:template>
     <xsl:template match="tei:add">&#60;<xsl:apply-templates />&#62;</xsl:template>
 
-    <xsl:template match="tei:space">\hspace*{2cm}</xsl:template>
+    <xsl:template match="tei:space">\hspace*{1.5cm}</xsl:template>
 
 </xsl:stylesheet>
