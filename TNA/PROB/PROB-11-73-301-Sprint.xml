@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Will of Nicholas Thorne. <date when="1546-10-15">10 October,
+                    1546</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2015-02">February 2015</date>
+                <idno type="UUID">61a4a484-bd36-4abb-a950-0e42dfe92d18</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>PROB 11/73/301</idno>
+                        <msName>Will of John Sprint, Apothecary of Bristol, Gloucestershire</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The last will and testament of John Sprint, Apothecary of Bristol, Gloucestershire.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Sprint</item>
+                        <item>Bristol</item>
+                        <item>Gloucestershire</item>
+                        <item>Books</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+            <p>
+                <pb n="f. 216"/>
+
+                <hi rend="bold">In the name of god amen</hi> I john Sprint <lb/>
+                of the Cittie of Bristowe Appothicarie sick in bodye butt wholle of
+                mynde <expan>thank<ex>es</ex></expan> be to god therfore doe <lb/>
+                make and ordeine this my last will and testament in manner and forme
+                followinge In primis I bequeathe <lb/> my sowle to almightie god my
+                saviour and redeemer And my bodye to be buried at the discreation
+                of <lb/> my overseers Item I give to the cathedrall churche of
+                Bristowe twoe <expan>shilling<ex>es</ex></expan> six pence Item I
+                give to the <lb/> poore fortie <expan>shilling<ex>es</ex></expan> Item
+                I give my house in Redcliffe strete wherein I now dwell to Joyce my
+                wife <lb/> duringe her naturall life and after her decease to my
+                sonne John and his heiers for ever Item I give <lb/> the Lease of my
+                twoe <expan>tenement<ex>es</ex></expan> next adiayninge to my saide
+                dwellinge house to Joyce my wife for and <lb/> duringe so many yeares
+                of my saide terme as she shall live And of the decease before thend of
+                the saide <lb/> terme of years comprised in my saide Lease then the
+                residue of <add place="above">my</add> the said yeares to come in the
+                saide twoe <lb/> <expan>tenement<ex>es</ex></expan> shall remaine to my
+                saide sonne John and his assignes to remaine in occupation to and
+                withe <lb/> my saide dwellinge howse as longe as the saide terme of
+                yeares shall continue Item I gibe unto my <lb/> sonne William and his
+                heires forever all that my garden and garden grounde uppon Michell
+                Hill <lb/> withe the Lodge in the same Item I give to Alice my
+                daughter the rent goinge out of Barrs Lease <lb/> in the parishe of
+                <choice><abbr>S<hi rend="superscript">t</hi></abbr><expan>St</expan></choice>
+                James reserved uppon graunte by me made to George 
+                Badd<add place="above">r</add>am of the same Cittie marchaunte <lb/>
+                Item I give unto my saide sonne John all my bookes of divinitie Item I <lb/>
+                give unto my sonne William all my bookes of Lawe Cannon Lawe and roman
+                Lawe Item all other <lb/> my <expan>book<ex>es</ex></expan> I give unto my 
+                saide sonns John and William to be equally devided betwene then Item <lb/>
+                I give all my plate ( excepte the boles guilte and twoe 
+                <expan>tankerd<ex>es</ex></expan> parcell guilte and a littell goblett <lb/>
+                parcell guilte ) unto my saide wife and her assignes And I give the use and
+                occupation of the <lb/>
+
+                <pb n="f. 216v"/>
+
+                saide thre guilte boles and the saide twoe <expan>tanker<ex>es</ex></expan>
+                unto my saide wife for and duringe her naturall life and <lb/> after her
+                decease my will is and I doe give and bequeathe unto my saide sonne John one
+                guilte boule and <lb/> one of the saide <expan>tankard<ex>es</ex></expan>
+                parcell guilte And to my saide sonne William one other of my guilte boles
+                <lb/> and theother tankard parcell guilte And to my daughter Alice the other
+                guilt bole Item I give the <lb/> littell parcell guilte goblett to Thomas
+                Sprint the sonne of my saide sonne William to be delivered <lb/> 
+                <expan>im<ex>m</ex>ediatly</expan> after my decease Item I give unto John
+                Sprint the sonne of my said sonne John my <lb/> greate astrolebe of brasse
+                and other <expan>instrument<ex>es</ex></expan> of astronimie withe my globes
+                Item I hive to Ben <lb/> iamyn my sonnes sonne my signett of gowlde Item I
+                give to Elizabethe Sprint and Constance <lb/> Sprint my sonne Johns
+                dawghters to eache of them a feather bed withe his furniture after <lb/>
+                my wives decease Item I give to Marie Strint dawghter to William Sprint a
+                good table <lb/> clothe and a doosen of napkins All the rest of my goodes
+                and chattels moveable and unmove <lb/> able I give and bequethe unto Joyce
+                my wife whome I make my full and wholl executrix And <lb/> I doe constitute
+                and appoynte my twoe sonnes John Sprinte and William Sprint my overseers 
+                <lb/> Written signed and sealed the fourthe of December Anno
+                <expan>D<ex>omi</ex>ni</expan> a thousand five hundred eightie eight <lb/>
+                <expan>Annoq<ex>ue</ex></expan> Regni tricesimo primo in the presence
+                of Thomas Callowhill. by me Thomas <lb/> Higgins / By me John Sprint.
+            </p>
+
+            <p>
+                <hi rend="bold">Probatum</hi> fuit testamentum supra scriptum apud London
+                coram venerabli viro <lb/> <expan>m<ex>agist</ex>ro</expan>
+                <expan>Will<ex>el</ex>mo</expan> Drury Legum doctore 
+            </p>
+
+            </div>
+        </body>
+    </text>
+</TEI>
