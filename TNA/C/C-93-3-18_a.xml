@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bartholomew School. <date when="1546-10-15">1607</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2015-02">February 2015</date>
+                <idno type="UUID">2cfe296b-e4a6-43fb-94ab-0a66239039aa</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>C 93/3/18</idno>
+                        <msName>GLOUCESTERSHIRE: Bristol Subject: Bartholomew School</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Bristol</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+                <p><hi rend="bold">James</hi> by the grace of God kinge of England Scotland
+                ffrance and Ireland defender of the faith etc. <hi rend="bold">To the</hi>
+                <expan>Rev<ex>er</ex>end</expan> ffather in God John Bushopp <lb/> of Bristoll.
+                And to our trustie and Welbeloved Sir George Snigge knight one of the Barons
+                of our Exchequer, Sir Edward Gorges, Sir Thomas Seymor knight, <lb/>
+                lawrence hyde Recorder of the Cittie of Bris[toll] Simon Robson Doctor of
+                Dyvinitye Deane of Bristoll, ffrauncis James Doctor of Lawe Chaucelloe of the
+                diocesse <lb/> of Bristoll, Richard Cordrington Esquire, Cr[...] Greene, Roberte
+                Gulliford Batcherlors of Divinytie, John Adams, Thomas Hughes, Thomas Younge,
+                John Tynte <lb/> Esquiers, James Buck William Meredith, Myles Jackson gent,
+                Israell Gleson Bachelor of lawe, John Yonge ad Nicholas Hill gentlemen
+                Greetinge. <hi rend="bold">Knowe yee</hi> <lb/> that we for the due
+                <expan>execuc<ex>i</ex>on</expan> of a <expan>c<ex>er</ex>taine</expan>
+                Statute made in the Highe Courte of Parliament houl[...] the Seaven and
+                twentyeth daye of October in the three and fortyth yere <lb/> of the Raigne
+                of our late Sister Queene Elizabeth decease[d] intituled An Acte to redresse
+                the mysimployment of land <expan>good<ex>es</ex></expan> and 
+                <expan>stock<ex>es</ex></expan> of money herefore gyven to <lb/> charitable
+                uses. And haveinge Specyall truste and consid[eracion] in your approved
+                fidelityes Wysedomes and <expan>discrec<ex>i</ex>ons</expan> have
+                aucthorised you to be our <expan>Com<ex>m</ex>issioners</expan> <lb/>
+                <hi rend="bold">And by</hi> these <expan>p<ex>re</ex>ent</expan> doe gyve
+                unto you and to any ?fouer or more of you full power and aucthoritye to
+                enquire aswell by the oathes of twelve lawfull <lb/> more of the Cittye of
+                Bristoll and Countye of the same as by all other goode and lawfull wityes
+                and meanes accordinge to the purporce and true meanynge of <lb/> the saide
+                Statute, What landes <expan>tenement<ex>es</ex></expan>
+                <expan>rent<ex>es</ex></expan> <expan>an<ex>n</ex>uyties</expan>
+                <expan>p<ex>ro</ex>fitt<ex>es</ex></expan>
+                <expan>Hereditament<ex>es</ex></expan> <expan>good<ex>es</ex></expan> 
+                chattles money or <expan>stock<ex>es</ex></expan> of money, Have at any
+                tyme or tymes heretofore bin gyven <lb/> lymitted appoynted or assigned
+                by us or any of our <expan>p<ex>ro</ex>genitors</expan>, or by any other
+                Well disposed <expan>p<ex>er</ex>son</expan> or <expan>p<ex>er</ex>sons</expan>,
+                bodies pollitique or corporate, for the releife of aged ympotent and <lb/>
+                poore people
+
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>
