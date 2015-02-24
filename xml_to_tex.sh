@@ -28,7 +28,7 @@ XML_SOURCE=$PWD/$1;
 OUTPUT_FILE=$PWD/$2
 
 # run the transformation
-java -jar $SAXON -s:$XML_SOURCE -xsl:$STYLE_SHEET -o:$OUTPUT_FILE $3
+java -jar $SAXON -s:$XML_SOURCE -xsl:$STYLE_SHEET -o:$OUTPUT_FILE $3 $4
 
 # remove a space if it appears before the footnote command,
 # otherwise a space appears before the superscript number

@@ -12,6 +12,7 @@
     <xsl:strip-space elements="tei:date tei:title tei:note tei:choice tei:abbr tei:ex tei:hi tei:expan tei:locus"/>
 
     <xsl:param name="newline">nl</xsl:param>
+    <xsl:param name="orient">o</xsl:param>
 
     <!-- VARIABLES -->
 
@@ -170,11 +171,11 @@
 
     <xsl:template match="tei:text/tei:body">
         <xsl:call-template name="editorial"/>
-        <xsl:if test="$newline != 'pipe'">
+        <xsl:if test="$orient != 'portrait'">
             \begin{landscape}
         </xsl:if>
         <xsl:apply-templates/>
-        <xsl:if test="$newline != 'pipe'">
+        <xsl:if test="$orient != 'portrait'">
             \end{landscape}
         </xsl:if>
         \end{document}
@@ -232,7 +233,7 @@
     <xsl:template match="tei:choice"><xsl:call-template name="expan"/></xsl:template>
 
     <xsl:template match="tei:note">\footnote{<xsl:apply-templates />}</xsl:template>
-    <xsl:template match="tei:add">&#60;<xsl:apply-templates />&#62;</xsl:template>
+    <xsl:template match="tei:add">&#60;&#60; <xsl:apply-templates /> &#62;&#62;</xsl:template>
 
     <xsl:template match="tei:space">\hspace*{1.5cm}</xsl:template>
 
