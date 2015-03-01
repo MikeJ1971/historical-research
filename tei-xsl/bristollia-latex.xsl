@@ -104,6 +104,7 @@
         \documentclass[a4paper,12pt]{article}
         \usepackage{anysize}
         \usepackage{hyperref}
+        \usepackage[none]{hyphenat}
         \usepackage{fancyhdr}
         \usepackage{pdflscape}
         \usepackage[T1]{fontenc}
