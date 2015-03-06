@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bartholomew School. <date when="1546-10-15">1610</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2015-02">March 2015</date>
+                <idno type="UUID">4b47e441-e92c-454b-aa4f-bc32e9280b4a</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>C 93/3/18</idno>
+                        <msName>GLOUCESTERSHIRE: Bristol Subject: Bartholomew School</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Bristol</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+                <pb n="recto"/>
+                <p><hi rend="bold">The order Judgment and decree</hi> of 
+                <choice><abbr>S<hi rend="superscript">e</hi></abbr><expan>Sir</expan></choice>
+                George Snygge Knight one of his <choice><abbr>Ma<hi rend="superscript">ties</hi>
+                </abbr><expan>Maiesties</expan></choice> Barons of his Exchquer, Thomas Yonge of
+                the Cittye of Bristoll Esquier <lb/> Israell Gleson of the same Citty
+                <choice><abbr>Bachelo<hi rend="superscript">r</hi></abbr>
+                <expan>Bachelor</expan></choice> of lawe and of John Younge of Clifton in the
+                County of <expan>Glouc<ex>ester</ex></expan> <expan>gent<ex>leman</ex></expan>
+                fower of the Comissiomers named in the Comission hereunto annexed <lb/>
+                taken and made at the saide Citty of Bristoll after the
+                <expan>Inquisic<ex>i</ex>on</expan> hereunto annexed taken and founde for the
+                due and faithfull imploying of the landes <expan>tenem<ex>en</ex>t<ex>es</ex></expan>
+                <expan>Rent<ex>es</ex></expan> <expan>hereditam<ex>en</ex>t<ex>es</ex></expan> <lb/>
+                and profittes specified and declared and founde <hi rend="bold">ffor</hi> that it
+                appeareth planely unto us by the said <expan>Inquisic<ex>i</ex>on</expan> any by
+                recordes and other evdences that the lande <expan>ten<ex>emen</ex>t<ex>es</ex></expan> and <expan>hereditam<ex>entes</ex></expan> <lb/> in the Countyes of Somerset
+                <expan>Glouc<ex>ester</ex></expan> and Bristoll in the said
+                <expan>Inquisic<ex>i</ex>on</expan> and schedule <expan>menc<ex>i</ex>oned</expan>
+                were by the good devotion charity, trabell <note>trouble?</note>, charge and expences
+                of <choice><abbr>S<hi rend="superscript">e</hi></abbr><expan>Sir</expan></choice>
+                Thomas West Knight Lord <lb/> Laware, George Crofte Clerk, Robert Thorne of London
+                Merchaunt, <expan>Nich<ex>ol</ex>as</expan> Thorne Alderman of the same Cittye of
+                Bristoll, and John Goodriche Clerke <choice><abbr>Executo<hi rend="superscript">r</hi>
+                </abbr><expan>Executor</expan></choice> of the testament and last will <lb/> of
+                Robert Thorne sometyme of Bristoll Merchaun deceased father of the saide Nichola[s]
+                provided, givenm assured and conveyed for the <expan>mainten<ex>a</ex>nce</expan>
+                of a free Schoole <add place="above">of one Schoole Maister</add> and of one or 
+                more <lb/> ushers and of the bringing up of children and yowthe in the feare of
+                God for ever [with]in the saide Citty of Bristoll comonly to be called the
+                Bartholomewe Schoole <hi rend="bold">Wee</hi> are fully satisfied by the <lb/>
+                saide <expan>Inquisic<ex>i</ex>on</expan> Recordes evidences and hearing of every
+                of the <expan>p<ex>ar</ex>ties</expan> clayming any interest therein That the
+                same was efectually established to that end and purpose to have had continuance
+                for ever <lb/> <hi rend="bold">But</hi> for that the saide landes
+                <expan>tenem<ex>en</ex>t<ex>es</ex></expan> and
+                <expan>hereditam<ex>en</ex>t<ex>es</ex></expan> in the said
+                <expan>Inquisic<ex>i</ex>on</expan> and Schedule mentioned discended and came
+                ( as it was pretended ) to Nicholas Thorne of the said Citty of Bristoll <lb/>
+                Merchaunt as to the lawfull heire of Robert Thorne his brother and of the said
+                Nicholas Thorne his father or one of them, he the said Nicholas Thorne the
+                sonne by ?color thereof uniustly procured <lb/> A conveyance in the fee fearme
+                under the yerely rent of Thirtie Poundes onelt from the <choice>
+                <abbr>Maio<hi rend="superscript">r</hi></abbr><expan>Maior</expan></choice>
+                Burgesses and Commaltye of the saide Citty to the defrauding of the true
+                <expan>intenc<ex>i</ex>on</expan> of imployment of the saide <lb/> landes
+                <expan>tenem<ex>en</ex>t<ex>es</ex></expan> and
+                <expan>hereditam<ex>en</ex>t<ex>es</ex></expan> and of the
+                <expan>profitt<ex>es</ex></expan> thereof And afterwardes he the saide 
+                Nicholas Thorne the sonne being chosen and made Chamberlen of the saide
+                Citty of Bristoll and thereby having <lb/> accesse unto the places where the
+                Recordes and Evidences of the saide landes <expan>tenem<ex>en</ex>t<ex>es</ex></expan>
+                <expan>hereditam<ex>en</ex>t<ex>es</ex></expan> remayned did under pretext of
+                the graunt of the saide fee fearme esloigne <note>assign</note> take and
+                convey away <lb/> most or the cheifest parte of the materiall evidences
+                recordes or writ[in]ges concerning the same And hath made [?and] contrived
+                divers and sundery estates and <expan>interest<ex>es</ex></expan> to divers
+                and sundrye <expan>p<ex>er</ex>sonns</expan> <lb/> resppectively 
+                <expan>ev<ex>er</ex>y</expan> of the them knowing of the saide trust and
+                confidence in the fee farme and leases for lives and yeres to the decaye of
+                the saide Schoole, <choice><abbr>Schoolem<hi rend="superscript">r</hi></abbr>
+                <expan>Schoolem<ex>aste</ex>r</expan></choice>, and other the said uses.
+                <hi rend="bold">Wee</hi> therefore having long endeavoured to appease the
+                same <expan>p<ex>er</ex>son</expan> and <expan>p<ex>er</ex>sonns</expan> and
+                <expan>ev<ex>er</ex>y</expan> of them And to have taken away all and singuler
+                ?stimples doubtes ambiguities and <expan>misimploym<ex>en</ex>t<ex>es</ex></expan>
+                And having <lb/> hearde every of the saide <expan>p<ex>ar</ex>ties</expan>
+                interessed (they and every of then obstinately refusing to conforme 
+                them selves to such reasonable ?caurses as equity is in
+                <choice><abbr>o<hi rend="superscript">r</hi></abbr><expan>o<ex>u</ex>r</expan></choice>
+                opinions requireth ) <hi rend="bold">Doe thinke</hi> fitt that the saide landes
+                <expan>tenem<ex>en</ex>t<ex>es</ex></expan> and
+                <expan>hereditam<ex>en</ex>t<ex>es</ex></expan> be returned to the saide true
+                furst use and intent of imployment thereof That such saide Schoole
+                <choice><abbr>M<hi rend="superscript">r</hi></abbr>
+                <expan>M<ex>aste</ex>r</expan></choice> Usher Ushers and Instructer of the <lb/>
+                saide children and youthe maie the better hereafter live of the
+                <expan>profitt<ex>es</ex></expan> and Revenues of the saide landes, 
+                <choice><abbr>W<hi rend="superscript">ch</hi></abbr>
+                <expan>W<ex>hi</ex>ch</expan></choice> nowe they cannot doe, And that children
+                maie be the better instructed in <choice><abbr>þ<hi rend="superscript">e</hi></abbr>
+                <expan><ex>th</ex>e</expan></choice> <lb/> saide Schoole And in the feare and
+                knowledge of God <lb/> <hi rend="bold">Doe order adiudge</hi> and decree ( whereas 
+                the <expan>profitt<ex>es</ex></expan> of the saide landes and
+                <expan>tenement<ex>es</ex></expan>  by pretext of the saide fee fearme <lb/>
+                graunted as aforesaide have bene only thirtie poundes yerely viz Twenty Poundes
+                to the Schoole <choice><abbr>M<hi rend="superscript">r</hi></abbr>
+                <expan>M<ex>aste</ex>r</expan></choice> and tenn poundes to the Usher (nothing
+                aunswerable to their paines travell reliefe or <lb/>
+                <expan>mainten<ex>a</ex>nce</expan> ) <hi rend="bold">That</hi> the Schoole
+                <choice><abbr>M<hi rend="superscript">r</hi></abbr>
+                <expan>M<ex>aste</ex>r</expan></choice> should have yerely the yerely wages of
+                fforty Poundes And the Usher or Usherss Twenty Poundes  <choice><abbr>W<hi
+                rend="superscript">ch</hi></abbr><expan>W<ex>hi</ex>ch</expan></choice> wages
+                wilbe raysed of the yerely profittes of the <lb/> saide landes and 
+                <expan>tenem<ex>en</ex>t<ex>es</ex></expan> uiust encombrances being
+                discharged ) over and above the dwelling houses of the saide Schoole 
+                <choice><abbr>M<hi rend="superscript">r</hi></abbr>
+                <expan>M<ex>aste</ex>r</expan></choice> and usher <hi rend="bold">In witnes</hi>
+                wherof wee the aforesaide <lb/> fower Comissioners have unto this 
+                <choice><abbr>o<hi rend="superscript">r</hi></abbr><expan>o<ex>u</ex>r</expan></choice>
+                <expan>p<ex>rese</ex>nte</expan> order and decree putt  <choice>
+                <abbr>o<hi rend="superscript">r</hi></abbr><expan>o<ex>u</ex>r</expan></choice>
+                handes and seales the Six and Twenty daie of Aprill in the yeres of the
+                Reigne of  <choice><abbr>o<hi rend="superscript">r</hi></abbr>
+                <expan>o<ex>u</ex>r</expan></choice> <expan>Sov<ex>er</ex>eigne</expan>
+                Lord James by the <lb/> grace of God King of England Scotland ffraunce and
+                Irelande defender of the faith etc viz of England ffraunce and Ireland
+                the Seaventh And of Scotland the xlijti 
+
+                [Signed by Sir George Snygge, Thomas Younge, Israell Gleson and John Younge.
+                The seals are no longer attached.]
+
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>
