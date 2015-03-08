@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bartholomew School. <date when="1610">1610</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2015-03">March 2015</date>
+                <idno type="UUID">3fd8df83-e3ea-460e-93bb-fb916a480f77</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>C 93/3/18 (4)</idno>
+                        <msName>GLOUCESTERSHIRE: Bristol Subject: Bartholomew School</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Bristol</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+            <p><hi rend="bold">An</hi> <expan>Inquisic<ex>i</ex>on</expan> taken at the Guyldhall within the
+            said Cittie of Bristoll the five and Twentyth day of Aprill in the Yeares of the Raigne of 
+            <choice><abbr>o<hi rend="superscript">r</hi></abbr><expan>o<ex>u</ex>r</expan></choice> Soveraigne Lord
+            [James by the] <note>obscured by snake weight</note> grace of God [King of]<note>obscured by 
+            snake weight</note> England Scotland ffraunce and Ireland 
+            <choice><abbr>defendo<hi rend="superscript">r</hi></abbr><expan>defendor</expan></choice> of the <lb/>
+            fayth etc <choice><abbr>vi⁊<hi rend="superscript">t</hi></abbr>
+            <expan>vi<ex>delicet</ex></expan></choice> of England ffraunce and Ireland the seaventh and of 
+            Scotland the xlijth before <choice><abbr>S<hi rend="superscript">r</hi></abbr>
+            <expan>Sir</expan></choice> George Snygg knight one of his Barrons of his Exchequar Thomas Younge
+            [of the city of Bristol] <note>obscured by snake weight</note> esquyer Israell Gleson of the 
+            same Cittie Bacheler of law and <lb/> John Younge of Clifton in the Cowntie of
+            <expan>Glouc<ex>ester</ex></expan> <expan>gent<ex>leman</ex></expan> by vertue of his
+            <expan>Ma<ex>ies</ex>t<ex>ies</ex></expan> Comission under the greate Seale of England bearing date
+            the xviijth daye of July in the sixth yeare of his high[nes king of]<note>obscured by
+            snake weight</note> England ffraunce and Ireland and of Scotland the one and <lb/> fortyth
+            unto us and others directed and unto this Inquisicon anexed To inquire aswell by the othes of
+            twelve lawfull men or more of the said Cittie of Bristoll and Countie of the same as by all
+            other good and and lawfull wayes and meanes according to [the true] <lb/> meaninge of one
+            statute made in the highe Courte of <expan>p<ex>ar</ex>liam<ex>en</ex>t</expan> holden the 
+            xxvijth day of October in the xliijth yeare of the raigne of the late Queene Elizabeth of 
+            famous memorie intituled an acte to redresse the misimployment of <expan>land<ex>es</ex></expan>
+            <expan>good<ex>es</ex></expan> and [stockes] <lb/> of money heare tofore geven to charitable
+            uses What <expan>land<ex>es</ex></expan> <expan>Tenem<ex>en</ex>t<ex>es</ex></expan>
+            Re[ntes] <expan>An<ex>n</ex>uities</expan> <expan>profitt<ex>es</ex></expan> 
+            <expan>hereditam<ex>en</ex>t<ex>es</ex></expan> <expan>good<ex>es</ex></expan> 
+            <expan>Chattell<ex>es</ex></expan> mony or <expan>stock<ex>es</ex></expan> of mony have at any
+            tyme or tymes heretofore beene geven lymitted appoynted or Assigned by the [Kinges] <lb/>
+            Excellent <expan>Ma<ex>ies</ex>t<ex>ie</ex></expan> or any of his noble
+            <expan>p<ex>ro</ex>genitors</expan> or by any other wel[l d]isposed
+            <expan>p<ex>er</ex>sones</expan> or <expan>p<ex>er</ex>sones</expan> bodies politique or
+            corporate for the releife aged ympotent and poore people, maintenance of sicke and maimed
+            souldiers, or mariners, [Schools] <lb/> of learning, free schooles, or Schollers in
+            <expan>univ<ex>er</ex>sities</expan>, repayre of Bri[d]ges, <expan>Port<ex>es</ex></expan>,
+            Havens, Causwayes, Churches, <expan>Seabank<ex>es</ex></expan>, or highwayes, educacon or
+            <expan>p<ex>re</ex>ferment</expan> of Orphanes, Releife, Stocke or mayntenance for howses of
+            Correcon mariadges [of poore] <lb/> Maides, <expan>Supportac<ex>i</ex>on</expan> aide or
+            helpe of younge tradesmen, <expan>handicraft<ex>es</ex></expan> men or 
+            <expan>p<ex>er</ex>sones</expan> decayed, releife or <expan>redempc<ex>i</ex>on</expan>
+            of prisoners or Captives, or aide or ease of any poore <expan>inh<ex>ab</ex>itant</expan>
+            concerninge payment of fifteenes, setling out of Souldiers, or other Taxes in any [parish] <lb/>
+            Towne or place within the said Cittie of Bristoll and Cowntie of the same, And of all and
+            singuler the abuses, misdemeanors breaches of <expan>trust<ex>es</ex></expan> 
+            <expan>misimployment<ex>es</ex></expan>, not ymployinge, Concealinge, defraudinge, 
+            misconceiving, or <expan>misgovern<ex>men</ex>t</expan> of the [same landes] <lb/>
+            <expan>Tenement<ex>es</ex></expan> <expan>Rent<ex>es</ex></expan>
+            <expan>An<ex>n</ex>uities</expan> <expan>proffitt<ex>es</ex></expan>
+            <expan>Hereditament<ex>es</ex></expan> <expan>good<ex>es</ex></expan>
+            <expan>Chattell<ex>es</ex></expan> money <expan>stock<ex>es</ex></expan> of money or any of
+            them heartofore geven lymitted appoynted or Assigned to or for ant the Charitable and godly
+            uses before rehearsed accordinge to [the] true [meaning] <lb/> of the said statute by the
+            oathes of George Harrington <note>George Harrington, Alderman of Bristol, died 1639/40?
+            TNA PROB 11/182/150</note>, John Doughtie <note>John Doughtie, Mercer and Alderman of Bristol,
+            died 1629/30? TNA PROB 11/157/167</note>, Robert Rogers <note>Robert Rogers, Alderman
+            of Bristol, died 1633? TNA PROB 11/163/452</note>, Hugh Perd <note>Hugh Pearde,
+            Grocer of Bristol, died 1617/18? TNA PROB 11/131/257</note>, John W[...]ward <note>John
+            Woodward, Fletcher of Bristol, died 1612? TNA PROB 11/119/562</note>,
+            Richard Reece <note>Richard Rice, Woollen Draper of Bristol, died 1627? 
+            TNA PROB 11/152/759</note> Thomas Whitchead, Thomas Cecill, <note>Thomas Cecill,
+            Gentleman of Redcliffe, died 1631? TNA PROB 11/160/77</note> ffrauncis Blont <note>Francis
+            Blount, Ironmonger of Bristol, died 1630? TNA PROB 11/158/5</note>, Raphe Wright
+            <note>Ralph Wright, Mercer of Bristol, died 1640? TNA PROB 11/184/304</note>, Thomas
+            Cowley, Mathew Warren <note>Mathew Warren, Clothier of Bristol, died 1635?</note>,
+            ffrauncis [...] [...] <lb/> Johnson, John Ware, Thomas Michell, John Northall, and Humfrey
+            Bryne, lawfull men of the said Cittie who beinge chardged to inquire of the
+            <expan>p<ex>re</ex>misses</expan> and therunto chosen tried and sworne say uppon their
+            oathes <hi rend="bold">That</hi> the late [prince of] <lb/> famous memorye Kinge Henry
+            the Eight for and in <expan>considerac<ex>i</ex>on</expan> of the laudable purpose of
+            <choice><abbr>S<hi rend="superscript">r</hi></abbr><expan>Sir</expan></choice> Thomas West
+            knight Lord La Ware, George Croft Clerke, Robery Thorne of London Merchant, Nicholas Thorne
+            Alderman of the same Cittie [of Bristoll] <lb/> and John Goodriche Clerke, Executors of the
+            last will and <expan>Testam<ex>en</ex>t</expan> of Robert Thorne sometyme of Bristol
+            Merchaunt deceased father of the said Nicholasm in the <expan>erecc<ex>i</ex>on</expan>
+            <expan>foundac<ex>i</ex>on</expan> <expan>surpportac<ex>i</ex>on</expan> of a
+            <expan>p<ex>er</ex>petuall</expan> free schole of G[rammar] <lb/> of one Schoolmaster
+            and one or two ushers to be established <expan>w<ex>i</ex>thin</expan> the said Cittie and 
+            <expan>lymitt<ex>es</ex></expan> of the same, by his <expan>l<ex>ett</ex>res</expan>
+            <expan>patent<ex>es</ex></expan> bearinge at Chelsehith the xvijth day of in
+            <expan><ex>th</ex>e</expan> xxiijth yeare of his Reigne <hi rend="bold">Did</hi> geve
+            and graunte Licence for [him] <lb/> his heires and Successors to the Maior Burgesses and
+            Cominaltie of the then Towne and now Cittie of Bristoll and to their Successors that they
+            and their Succssors might at any tyme then after purchase receave and [take] to th[em] <lb/>
+            and to their Successors the howse and hospitall of the Bartholmews in Bristoll aforesaid.
+            And All Mannors <expan>land<ex>es</ex></expan> <add place="above">
+            <expan>messuag<ex>es</ex></expan></add> <expan>Tenem<ex>en</ex>t<ex>es</ex></expan>
+            Gardens <expan>Orchard<ex>es</ex></expan> Meadowes leasows pastures <expan>Wood<ex>es</ex></expan>
+            <expan>Rent<ex>es</ex></expan> <expan>Rev<ex>er</ex>c<ex>i</ex>ons</expan> and services and
+            <expan>hereditam<ex>en</ex>t<ex>es</ex></expan> <expan>w<ex>i</ex>th</expan> [all their] <lb/>
+            <expan>right<ex>es</ex></expan> <expan>p<ex>ro</ex>ffitt<ex>es</ex></expan> and comodities
+            that then or at ant tyme thertofore were accepted reputed or taken as <expan>p<ex>ar</ex>cell</expan>
+            or member of the posessions of the said hospitall, or that the said George Croft then
+            <choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>M<ex>aste</ex>r</expan></choice>
+            of the said hospitall had held or did enioye <lb/> in the right of the said hospitall, aswell
+            within the said Cittie of Bristoll and Suburbes of the same, as in the <expan>p<ex>ar</ex>ishes</expan>
+            of Clifton, Stapleton, Sodbury and Wickware in the Cowntie of <expan>Glouc<ex>ester</ex></expan>
+            <choice><abbr>w<hi rend="superscript">th</hi>in</abbr><expan>w<ex>i</ex>thin</expan></choice>
+            the Cowntie of the Cittie of Bristoll and <lb/> the Cowntie of <expan>Glouc<ex>ester</ex></expan>,
+            or ellswere within the Realme of England, to the cleare yearly value of fortie
+            <expan>pound<ex>es</ex></expan> over and above all <expan>chardg<ex>es</ex></expan> aswell of the
+            said <choice><abbr>S<hi rend="superscript">r</hi></abbr><expan>Sir</expan></choice> Thomas West
+            Knight late Lord Ware Patron and founder of the said hospitall <lb/> as of the said George Crofte
+            Clerk <choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>M<ex>aster</ex></expan></choice>
+            of the said howse and hospitall, and the brothers and Sisters of the same or of any other
+            <expan>p<ex>er</ex>son</expan> or <expan>p<ex>er</ex>sones</expan> having or
+            <expan>p<ex>re</ex>tendinge</expan> any right or title to the <expan>p<ex>re</ex>misses</expan>
+            though they were holden of the said late Kinge h[is] <lb/> heires or Successors in cheife
+            or otherwise <hi rend="bold">To have</hi> <add place="above">to</add> the said Maior Burgesses
+            and <expan>Co<ex>mm</ex>i<ex>n</ex>altie</expan> and to their Successors for ever to
+            <expan>the<ex>e</ex>uses</expan> and <expan>intent<ex>es</ex></expan> aforesaid. And also by the
+            same did graunte his speciall licence to the same <expan>p<ex>er</ex>son</expan> <lb/> that they
+            might geve the said howse or hospitall Mannors <expan>Land<ex>es</ex></expan>
+            <expan>Tenem<ex>en</ex>t<ex>es</ex></expan> and <expan>Hereditam<ex>en</ex>t<ex>es</ex></expan>
+            and other the <expan>p<ex>re</ex>msses</expan> unto the Mayot Burgesses and
+            <expan>Co<ex>mm</ex>i<ex>n</ex>altie</expan> of Bristoll and to ther Successors for ever, as by
+            the same <expan>l<ex>ett</ex>res</expan> Pa[tents] [...] <lb/> And that ther were
+            <expan>afterward<ex>es</ex></expan> one or more <expan>Recov<ex>er</ex>ies</expan> in due
+            forme of law suffered and had beweene the said <expan>p<ex>ar</ex>ties</expan> or some of them
+            for the setlinge of the saod <expan>land<ex>es</ex></expan> and <expan>p<ex>re</ex>misses</expan>
+            <choice><abbr>w<hi rend="superscript">th</hi></abbr><expan>w<ex>i</ex>th</expan></choice>
+            <expan>Thapp<ex>er</ex>ten<ex>a</ex>nc<ex>es</ex></expan> that the same should be had [...] <lb/>
+            according to thintent aforesaid And that after such <expan>Recov<ex>er</ex>ye</expan> and
+            <expan>Recov<ex>er</ex>ies</expan> and Entry made into the <expan>p<ex>re</ex>misses</expan> The
+            said Robert Thorne of London <expan>mercha<ex>u</ex>nt</expan> and the said John Godriche clerke
+            died thereof seased and [...] [Nicholas] <lb/> Thorne brother of the said Robert 
+            <expan>ov<ex>er</ex>lived</expan> them, and was sole sized in the <expan>p<ex>re</ex>misses</expan>
+            in his demeane as of ffee by Title of Survivor. And so beinge seased caused - - - - Grammer Schoole
+            to be estabished <choice><abbr>w<hi rend="superscript">th</hi>in</abbr>
+            <expan>w<ex>i</ex>thin</expan></choice> the said howse of the Bart[holmews] [...] <lb/>
+            place and set one John Hurrys <expan>Schoolem<ex>aster</ex></expan> to teach grammer within the same. 
+            And that <expan>afterward<ex>es</ex></expan> before any futher Assuraunce or establishment therof
+            made, the said Nicholas Thorne died. And the <expan>p<ex>re</ex>misses</expan> discended and came to
+            Robert [Thorne] <lb/> Sonne and heire of the said Nicholas, <choice><abbr>w<hi
+            rend="superscript">ch</hi></abbr><expan>w<ex>i</ex>ch</expan></choice> said Robert before any estate
+            executed died without yssue. By reason whereof the <expan>p<ex>re</ex>misses</expan> discended
+            unto Nicholas Thorne of the Cittie of Bristoll merchant as x x x x nexte heir to the said Robert
+            [Thorne] <lb/> and also <add place="above">to</add> the said Nicholas his father. And that he the said
+            Nicholas Thorne the Sonne by his deed in writinge under his hande and seale bearinge date the first
+            day of July in the yeare of <choice><abbr>o<hi rend="superscript">r</hi></abbr>
+            <expan>o<ex>u</ex>r</expan></choice> Lord god <hi rend="underline">1561</hi> and in the third year
+            of the Reig[ne of] <lb/> the late Queene Elizabeth by vertue of the said <expan>l<ex>ett</ex>res</expan>
+            <expan>Patent<ex>es</ex></expan> in thaccomplishment aswell of the good purpose and will of the
+            said Robert his Uncle, and the said Nicholas his father, as also for thestablishment and
+            <expan>p<ex>er</ex>petuall</expan> contin[uation] <lb/>  of a free schoole erected, or to be erected
+            <choice><abbr>w<hi rend="superscript">th</hi>in</abbr><expan>w<ex>i</ex>thin</expan></choice> the
+            said howse of the Bartholmews of one schoole master and one or two ushers, as need and 
+            <expan>occac<ex>i</ex>on</expan> thenafter should serve to teach and bring up youth and others in
+            learninge and vertue [and] <lb/> especially in Grammer and other good literatures for the better
+            <expan>educac<ex>i</ex>on</expan> and bringinge up of Children and others that would resorte
+            thether for learninge of Grammer and understandinge to th honor of God [and] <lb/> 
+            thadvauncement of the said Cittie <hi rend="bold">Did</hi> geve graunte and confirme unto the
+            Maior Burgesses and Cominaltie of the said Cittie of Bristoll and to their Successors for ever
+            the said house or late hospitall called the Barth[elmews] <lb/> scittuate in Bristoll aforesaid
+            <choice><abbr>w<hi rend="superscript">th</hi>all</abbr><expan>w<ex>i</ex>thall</expan></choice> 
+            howses Edifices and <expan>building<ex>es</ex></expan> therunto belonginge or in any wise
+            <expan>app<ex>er</ex>teyninge</expan> And all messuages Gardens <expan>Orchard<ex>es</ex></expan>
+            <expan>land<ex>es</ex></expan> <expan>Tenem<ex>en</ex>t<ex>es</ex></expan> Meadowes pastures
+            <expan>rev<ex>er</ex>c<ex>i</ex>ons</expan> <expan>servic<ex>es</ex></expan> and
+            <expan>Rent<ex>es</ex></expan> <choice><abbr>w<hi rend="superscript">th</hi>in</abbr>
+            <expan>w<ex>i</ex>thin</expan></choice> the [...] <lb/> of the said Cittie of Bristoll And all
+            other Mannors <expan>Land<ex>es</ex></expan> <expan>Tenem<ex>en</ex>t<ex>es</ex></expan>
+            Meadowes pastures <expan>wood<ex>es</ex></expan> <expan>underwood<ex>es</ex></expan>
+            <expan>Rent<ex>es</ex></expan> <expan>Rev<ex>er</ex>c<ex>i</ex>ons</expan> and
+            <expan>servic<ex>es</ex></expan> and all other <expan>hereditam<ex>an</ex>t<ex>es</ex></expan>
+            in Kingsmarshe and <choice><abbr>w<hi rend="superscript">th</hi>in</abbr>
+            <expan>w<ex>i</ex>thin</expan></choice> the <expan>p<ex>ar</ex>ishes</expan> of Clyfton
+            Wickwarre, Sodbury and <lb/> elswheare <choice><abbr>w<hi rend="superscript">th</hi>in</abbr>
+            <expan>w<ex>i</ex>thin</expan></choice> the said Cowntie of <expan>Glouc<ex>ester</ex></expan>
+            specified in the said two <expan>sev<ex>er</ex>all</expan> <expan>Recov<ex>er</ex>yes</expan>
+            sometyme <expan>p<ex>ar</ex>cell</expan> of the possessions of the saod late hospitall in as
+            lardge and ample manner as the same came or of Right out to come [...] <lb/> 
+            <expan>hand<ex>es</ex></expan> and posession of the said Robert Thorne his uncle and to the 
+            said Nicholas Thorne his father and to the said John Godriche Clerk or any of them by vertue
+            of the said two <expan>sev<ex>er</ex>all</expan> <expan>Recov<ex>er</ex>ies</expan> and 
+            licence aforesaid <hi rend="bold">To [be] had</hi> <lb/> and enioyed to the said Maior
+            Burgesses and Cominaltie of the Cittie of Bristoll and to their Successors for ever to the uses
+            and <expan>intent<ex>es</ex></expan> of the findinge of a free Grammer schoole <choice>
+            <abbr>w<hi rend="superscript">th</hi>in</abbr><expan>w<ex>i</ex>thin</expan></choice> the said house called the Bartholmewes <lb/> for ever. And to find one sufficient and able
+            <expan>p<ex>er</ex>son</expan> beinge sufficiently learned and vertuos to be Schoole
+            <expan>m<ex>aster</ex></expan> ther and one or two other sufficient <expan>p<ex>er</ex>son</expan>
+            or <expan>p<ex>er</ex>sones</expan> beinge also sufficiently learned and vertuos to be [usher or] <lb/>
+            ushers there. And they the said <expan>M<ex>aster</ex></expan> and usher or ushers and their
+            Successors continually to teach Grammer within the said Schoole to all children and other that
+            would repayre to the said Schoole for learninge and knowledge of the [latin tongue] <lb/>
+            and other good learninge for the better <expan>Educac<ex>i</ex>on</expan> and bringing up of youthe
+            in learninge and vertue. And that freely without any thinge to be taken other then fower pence only for
+            the first Admission of every scholer into the same [...] <lb/> <hi rend="bold">Hold</hi> the
+            <expan>p<ex>re</ex>misses</expan> of the cheefe Lordes of the ffee by And the service therfore due and accustomed as by the said recited deed likewise appeareth <hi rend="bold">And the sayd Jury</hi> do further saie uppon their oathes that x x x x x x x x x x x x x [...] <lb /> x x x x x x x x x x x 
+            x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 
+            x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x [...] x x x x 
+            x x x x <note>parchment scraped and crosses added</note> he the said Nicholas Thorne beinge heire
+            unto the said Robert Thorne his uncle and Nicholas Thorne his father and
+            <expan>p<ex>re</ex>tendinge</expan> to inherite the same <expan>land<ex>es</ex></expan>
+            <expan>Tenem<ex>en</ex>t<ex>es</ex></expan> and <expan>hereditament<ex>es</ex></expan> procured a
+            Conveyance in fe[...] <lb/>  under the yearly Rent of Thirty <expan>Pound<ex>es</ex></expan> only
+            from the Maior and Cominaltie of the said Cittie And afterwards died having yssue Alice Katherine
+            and Murabell his daughters and heires And the said Alice maried and tooke to Husband one John
+            [Pyke ...] <lb/> who <expan>p<ex>re</ex>tending</expan> to have the Interest of all the said
+            <expan>land<ex>es</ex></expan> and <expan>hereditam<ex>en</ex>t<ex>es</ex></expan> long deleyned
+            the said yearly Rent and lately died and <expan>ev<ex>ery</ex>sithence</expan> his decease the 
+            said Alice and Nicholas Pykes Sonne of the said John and Alice and [d...] <lb/> other
+            <expan>p<ex>er</ex>sones</expan> from by and under the said John Pykes knowinge of the said trust do
+            now <expan>p<ex>re</ex>tend</expan> to have the Interest of all the said <expan>Land<ex>es</ex></expan>
+            <expan>Tenement<ex>es</ex></expan> and <expan>Hereditament<ex>es</ex></expan> in ffee ffarme as
+            aforesaid from the said Maior <lb/> and Comynaltie <hi rend="bold">And the sayd Jury</hi> do 
+            ffuther saie uppon their oathes that all the <expan>messuag<ex>es</ex></expan>
+            <expan>land<ex>es</ex></expan> <expan>Tenem<ex>en</ex>t<ex>es</ex></expan> Gardens 
+            <expan>Orchard<ex>es</ex></expan> and <expan>Hereditament<ex>es</ex></expan> whatsoever belonging
+            to the said howse called the Barthomews <lb/> and at this tyme <expan>discov<ex>er</ex>ed</expan>
+            to the said Jury are conteyned in the schedule to the said <expan>Inquisic<ex>i</ex>on</expan>
+            affixed and are in the <expan>sev<ex>er</ex>all</expan> <expan>hand<ex>es</ex></expan> of the
+            <expan>Tena<ex>me</ex>nt<ex>es</ex></expan> and occupies therin <expan>menc<ex>i</ex>oned</expan>,
+            and do and of long tyme have paid the yearly <lb/> <expan>Rent<ex>es</ex></expan> theruppon
+            reserved to the said Nicholas Thorne the sonne and to his heires and assignes for every of their
+            said severall <expan>Tenem<ex>en</ex>t<ex>es</ex></expan> or <expan>holding<ex>es</ex></expan> as
+            in the said Schedule is also declared <hi rend="bold">And the sayd</hi> Iurors uppon their oathes <lb/>
+            do further saie That all the <expan>land<ex>es</ex></expan> <expan>Tenement<ex>es</ex></expan>
+            and <expan>Hereditament<ex>es</ex></expan> in the said schedule <expan>menc<ex>i</ex>oned</expan>
+            at the tyme of the first <expan>foundac<ex>i</ex>on</expan> and establishment thereof to the
+            purposes and <expan>intent<ex>es</ex></expan> aforesad <add place="above">were of</add> the
+            cleare yearly value Lij li xij d <lb/> upwards and now <add place="above">are</add> of a farre
+            greater value over and above all <expan>charg<ex>es</ex></expan> and reprises And that all the
+            <expan>Rent<ex>es</ex></expan> and <expan>p<ex>ro</ex>ffitt<ex>es</ex></expan> of the said
+            <expan>land<ex>es</ex></expan> <expan>Tenement<ex>es</ex></expan> and
+            <expan>hereditament<ex>es</ex></expan> in the said schedule named were [...] <lb/> and so ought
+            to have beene ymployed accordinge to thintent and true meaninge of the donors and first founders
+            therof ( Except the abuses breaches of trust necligences <expan>misimployment<ex>es</ex></expan> 
+            no imploying [...] [...] <lb/> misconvertinge and <expan>misgov<ex>er</ex>m<ex>en</ex>t<ex>es</ex></expan> heareafter specified <hi rend="bold">ffor</hi> the said Iurors so saie uppon their oathes
+            that the said Nicholas Thorne the sonne did unduely <expan>p<ex>ro</ex>cure</expan> a conveyance
+            of all the said <expan>land<ex>es</ex></expan> and <expan>p<ex>re</ex>misses</expan> in fee
+            ffarme <lb/> unto himselfe from the said Maior and cominaltie payinge for the same but only the
+            yearly Rent of Thirty <expan>pownd<ex>es</ex></expan>, whearas it is manifest that the same
+            <expan>land<ex>es</ex></expan> and <expan>p<ex>re</ex>misses</expan> were of greater value by
+            the yeare as <lb/> aforesaide, and so hath beeneheld and enioyed by the said Nicholas Thorne
+            <add place="above">the sonne</add> and his Assignes in his lyfe tyme, and After x x x x x the 
+            decrease of the said Nicholas, by the said John Pyks deceased, and thence his decease by [and] <lb/>
+            the said Alice and Nicholas their Sonne to the defraudinge of the true
+            <expan>intenc<ex>i</ex>on</expan> of implyment of the saod <expan>land<ex>es</ex></expan>
+            <expan>Tenement<ex>es</ex></expan> and <expan>Hereditament<ex>es</ex></expan> and of the
+            <expan>proffitt<ex>es</ex></expan> therof, and to the decaye of the Schoole
+            <add place="above">?the</add> Schoole master <lb/> and the other said uses. And that the deedes
+            of and concerninge the same <expan>land<ex>es</ex></expan> and <expan>Hereditament<ex>es</ex></expan>
+            or the most materiall of then and come now to the <expan>hand<ex>es</ex></expan> custody of the
+            said John Pykes his heires or assignes <lb/> by the undue course aforesaid ( as they thinke ) of the
+            said Nicholas Thorne <add>the sonn</add> <hi rend="above">the sonne</hi> <hi rend="bold">In
+            wittnes</hi> wherof Iurors aforesaid to this <expan>p<ex>re</ex>sent</expan>
+            <expan>Inquisic<ex>i</ex>on</expan> have set their <expan>hand<ex>es</ex> and Seales the daye and 
+            yeare furst <lb/> above written</p>
+            </div>
+        </body>
+    </text>
+</TEI>
