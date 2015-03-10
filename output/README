@@ -1,0 +1,3 @@
+****** Output directory for tex files ******
+
+We can set git to ignore .tex and .pdf (and other) files in here.
