@@ -3,7 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bartholomew School. <date when="1610-05-21">21 May 1610</date></title>
+                <title>Chancery final decree between Alice Pykes, widow, plaintiff
+                    and the Mayor and commonality of Bristol.
+                    <date when="1610-05-21">21 May 1610</date></title>
                 <editor>
                     <name type="person">Mike Jones</name>
                     <email>mike.a.jones@me.com</email>
@@ -12,7 +14,7 @@
             <publicationStmt>
                 <publisher>http://bristollia.org</publisher>
                 <pubPlace>Bristol</pubPlace>
-                <date when="2015-02">March 2015</date>
+                <date when="2015-03">March 2015</date>
                 <idno type="UUID">6caa586b-c9f8-4805-997c-cd7d714897e3</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
@@ -24,7 +26,7 @@
                         <settlement>London</settlement>
                         <repository>The National Archives</repository>
                         <idno>C 78/190, mm. 24-27</idno>
-                        <msName>Chancery Decree Rols</msName>
+                        <msName>Chancery Decree Roll</msName>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>
@@ -40,6 +42,7 @@
                 <keywords>
                     <list>
                         <item>Bristol</item>
+                        <item>St Bartholomew's</item>
                     </list>
                 </keywords>
             </textClass>
@@ -48,28 +51,38 @@
     <text>
         <body>
             <div type="text" xml:lang="en">
-                <p>
-                    <pb n="m. 24"/>
-                    <hi rend="bold">Whereas</hi> heretofore there hath bene a Comission awarded to divers <lb/>
-                    Comissioners uppon the Statute of Charitable uses to enquire Within <lb/>
-                    the said Cytty of Bristoll and County of the Same and to make <lb/>
+
+                <pb n="m. 24"/>
+
+                <p>[Left Margin:] <expan>Decret<ex>um</ex></expan> <expan>int<ex>er</ex></expan>
+                    <expan>Allic<ex>am</ex></expan> <expan>quer<ex>entem</ex></expan> et
+                    <expan>Maior<ex>em</ex></expan> <expan>Comm<ex>un</ex>alit<ex>atem</ex></expan>
+                    <expan>Civitat<ex>is</ex></expan> <expan>Bristoll<ex>e</ex></expan> <note>Decree
+                    between Alice Pikes, widow, plaintiff and the Mayor and commonality of the
+                    city of Bristol.</note></p>
+
+                <p><hi rend="bold">Whereas</hi> heretofore there hath bene a <expan>Com<ex>m</ex>ission</expan>
+                    ( awarded to divers <lb/>
+                    Comissioners uppon the statute of Charitable uses ) to enquire within <lb/>
+                    the said Cytty of Bristoll and County of the same and to make <lb/>
                     orders and Decrees according to the said Statute And whereas by <lb/>
-                    vertue thereof an Inquision hath bene found concerneing certine <lb/>
-                    and <expan>Tenement<ex>es</ex></expan> called the Bartholomewe land heretofore <lb/>
+                    vertue thereof an Inquision hath bene found concerneing certeine <lb/>
+                    <expan>land<ex>es</ex></expan> and <expan>Tenement<ex>es</ex></expan> called
+                    the Bartholomewe <expan>land<ex>es</ex></expan> heretofore <lb/>
                     given and appointed for the <expan>p<ex>er</ex>petuall</expan> maintenance and contyuewance <lb/>
-                    of a <add place="above">free</add> grammer schole erected in the howse of the Bartholmewes in <lb/>
+                    of a <add place="above">free</add> grammer Schole erected in the howse of the Bartholmewes in <lb/>
                     Bristoll aforesaid whereuppon the said Comissioners in that <lb/>
                     behalfe appointed have ordered adiudged and decreed That <lb/>
-                    whereas the <expan>proffitt<ex>es</ex></expan> of the said land and 
-                    <expan>Tenement<ex>es</ex></expan> given and <lb/>
-                    appointed by <expan>p<ex>re</ex>texte</expan> of A ffee ffarme thereof graunted by the mayor <lb/>
-                    and Comminalitie of the said Cytty of Bristoll to one Nicholas <lb/>
+                    whereas the <expan>proffitt<ex>es</ex></expan> of the said <expan>land<ex>es</ex></expan> and 
+                    <expan>Tenement<ex>es</ex></expan> soe given and <lb/>
+                    appointed by <expan>p<ex>re</ex>texte</expan> of A ffee ffarme thereof graunted by the Mayor <lb/>
+                    and Comunalitie of the said Cytty of Bristoll to one Nicholas <lb/>
                     
                     <pb n="m. 25"/>
 
                     Thorne late father of the said Allice Pikes and to his heires <lb/>
                     have bene onelie Thirtie <expan>pound<ex>es</ex></expan> yearelie 
-                    <choice><abbr>viz<hi rend="superscript">t</hi></abbr><expan>vi<ex>delice</ex>t</expan></choice>
+                    ( <choice><abbr>viz<hi rend="superscript">t</hi></abbr><expan>vi<ex>delice</ex>t</expan></choice> )
                     Twenty <expan>pound<ex>es</ex></expan> to the <lb/>
                     Scholemaster and Tenne <expan>pound<ex>es</ex></expan> to the Usher That the Scholemaster <lb/>
                     should have yearelie the yearely wages of ffortye <expan>pound<ex>es</ex></expan> and the <lb/>
@@ -77,15 +90,15 @@
                     <expan>pound<ex>es</ex></expan> Which wages should be raysed <lb/>
                     of the yearelie <expan>profitt<ex>es</ex></expan> of the said <expan>land<ex>es</ex></expan>
                     and <expan>tenement<ex>es</ex></expan> ( uniuste <lb/>
-                    incumbraunces being discharged ) over and above the dwellinge howses <lb/>
+                    incumbraunces being dischardged ) over and above the dwellinge howses <lb/>
                     of the Schoolemaster and usher As in and by the said Comission <lb/>
-                    Inquision and decree remayneinge in the Said Highe Courte of Chauncery <lb/>
-                    more att lardge appeareth An Where allsoe the said Complaynaunt <lb/>
+                    Inquision and decree remayneinge in the said Highe Courte of Chauncery <lb/>
+                    more att lardge appeareth An where allsoe the said Complaynaunt <lb/>
                     Allice Pikes ( beinge greeved with the said decree ) hath accordinge <lb/>
                     to the Statute in that behalfe ordeyned not onelie exhibited <lb/>
-                    exceptions againste the Said Comissioners Inquison and decree <lb/>
+                    exceptions againste the said Comissioners Inquison and decree <lb/>
                     as by the same remayneinge of recorde in the office of the Pettye <lb/>
-                    Bagge in this honorable Courte may more att lardge appeare <lb/>
+                    Bagge in this Honorable Courte may more att lardge appeare <lb/>
                     But hath also preferred A bill of Complaynte in this Courte <lb/>
                     against the said <expan>defendant<ex>es</ex></expan> whoe have putt in Answeres to <lb/>
                     those exceptions and bill And the Same Complaynaunte hath <lb/>
@@ -96,126 +109,127 @@
                     Comissioners att A tyme and place did meete and attend <expan>thexecuc<ex>i</ex>on</expan><lb/>
                     of the said Comission accordinglie At which tyme ytt did appeare <lb/>
                     that the Mayors of the saide Cyttie for the tyme beinge have <lb/>
-                    taken uppon them to be speciall Governours of the saide schoole <lb/>
-                    and did yearelie visitt the said scgole and choose ffower <lb/>
+                    taken uppon them to be speciall Governours of the saide Schoole <lb/>
+                    and did yearelie visitt the said Schole and choose ffower <lb/>
                     overseers thereof And have and doe with the advice of the <lb/>
                     Aldermen and <expan>Com<ex>m</ex>on</expan> councell of the said Cytty displace and <lb/>
-                    place from tyme to tyme the scholemaster and usher of the <lb/>
+                    place from tyme to tyme the Scholemaster and Usher of the <lb/>
                     saide schoole ( as occasion serveth ) And further ytt did appeare <lb/>
                     to the saide Comissioners That the said Nicholas Thorne <lb/>
                     father of the saide <expan>Complayn<ex>a</ex>nte</expan> being lawfully seized in his <lb/>
-                    Demeane as of ffee of divers other <expan>land<ex>es</ex></expan> besides theies nowe in <lb/>
+                    Demeane as of ffee of divers other <expan>land<ex>es</ex></expan> besides theis nowe in <lb/>
                     question died thereof doe seized without yssue male of his bodye <lb/>
-                    begotten haveinge yssue three daughters and heires To Whome all <lb/>
+                    begotten haveinge yssue three daughters and heires To whome all <lb/>
                     the said Nicholas Thornes <expan>land<ex>es</ex></expan> are discended namelie to this <lb/>
                     <expan>Complayn<ex>a</ex>nte</expan> and to Katherine <choice><abbr>&amp;</abbr>
-                    <expan>and</expan></choice> Myrabell her sisters after whose <lb/>
-                    death the said three Coheirs in Anno Quadragesimo Elizabeth <lb/>
+                    <expan>and</expan></choice> Myrabell her sisters After whose <lb/>
+                    death the said three Coheires in Anno Quadragesimo Elizabeth <lb/>
                     made <expan>partic<ex>i</ex>on</expan> and levyed a fyne severally either to other of them <lb/>
-                    severall parte soe allotted to them Whereby theis <expan>land<ex>es</ex></expan> were <lb/>
+                    severall partes soe allotted to them Whereby theis <expan>land<ex>es</ex></expan> were <lb/>
                     allotted to Allice the nowe <expan>Complayn<ex>a</ex>unte</expan> and to her heires And <lb/>
-                    other <expan>land<ex>es</ex></expan> to the vallewe of Twelve hundred
+                    other <expan>land<ex>es</ex></expan> of the vallewe of Twelve hundred
                     <expan>pound<ex>es</ex></expan> cleere of all <lb/>
-                    Incumbraunces were alloted to the said Katherine and Myrabell <lb/>
-                    and to their heirs Whoe have together With their husband levied <lb/>
+                    Incumbraunces were allotted to the said Katherine and Myrabell <lb/>
+                    and to their heirs whoe have together with their husband levied <lb/>
                     ffynes and suffered recoveryes thereof and solde for greate <expan>som<ex>m</ex>es</expan> <lb/>
                     of money to straungers all those <expan>land<ex>es</ex></expan> soe allotted unto them <lb/>
-                    And over and besides Eleven <expan>pound<ex>es</ex></expan> of yearlie rent Were allotted <lb/>
+                    And over and besides Eleven <expan>pound<ex>es</ex></expan> of yearelie rent Were allotted <lb/>
                     to Katherine and Mirabell and their heires out of theis <expan>land<ex>es</ex></expan> for <lb/>
                     equalitie of <expan>partic<ex>i</ex>on</expan> And the whole <expan>rent<ex>es</ex></expan>
-                    of theirs <expan>land<ex>es</ex></expan> called the <lb/>
+                    of theis <expan>land<ex>es</ex></expan> called the <lb/>
                     Bartholomewe <expan>land<ex>es</ex></expan> att this day but onely ffiftie three <lb/>
                     <expan>pound<ex>es</ex></expan> yeareley And the said Allice utterlie barred of all remedie <lb/>
-                    for anie parte of the other <expan>land<ex>es</ex></expan> Which discended to her and her <lb/>
+                    for anie parte of the other <expan>land<ex>es</ex></expan> which discended to her and her <lb/>
                     sisters as coheirs from her ffather uppon theis reasons the saide <lb/>
                     Comissioners intreated the said Mayor and Commalyte to growe <lb/>
-                    to some chartitable end of all suites With the said <expan>Complayn<ex>a</ex>nte</expan> <lb/>
+                    to some chartitable end of all suites with the said <expan>Complayn<ex>a</ex>nte</expan> <lb/>
                     and to relinquishe the benefitt of the said Decree made by the <lb/>
-                    saide Comissiomers uppon the statute of Charitable Uses And <lb/>
-                    thereuppon the saide Maior and Commalitye beinge moved with <lb/>
+                    saide Comissiomers uppon the Statute of Charitable Uses And <lb/>
+                    thereuppon the saide Maior and Cominalitye beinge moved with <lb/>
                     the remembrance of the manifolde good <expan>act<ex>es</ex></expan> and deedes of Charytye <lb/>
                     done by the Auncestors of the saide Allice Pykes unto and within <lb/>
                     the said Cytte over and besides the <expan>errec<ex>i</ex>on</expan> 
                     and <expan>foundac<ex>i</ex>on</expan> of <lb/>
-                    this saide schole And alsoe weighinge what a valluable <lb/>
+                    this saide Schole And alsoe weighinge what a valluable <lb/>
                     <expan>considerac<ex>i</ex>on</expan> in other <expan>land<ex>es</ex></expan> she hath
-                    departed with to her sisters <lb/>
+                    departed with to her Sisters <lb/>
                     and veiwinge her greate chardge haveinge seaven daughters <lb/>
                     to provide for and hath onelie the said <expan>land<ex>es</ex></expan> in question lefte <lb/>
-                    her have att and by the <expan>moc<ex>i</ex>on</expan> and intreate of the saide <lb/>
+                    her have att and by the <expan>moc<ex>i</ex>on</expan> and intreatie of the saide <lb/>
                     Comissioners and by a generall assent and agreement of all the <lb/>
 
                     <pb n="m. 26"/>
 
-                    Saide parties thought fytt to permytt and Suffer the Said Alice <lb/>
-                    Pikes and her heires to enioy the Saide <expan>land<ex>es</ex></expan> 
+                    saide parties thought fytt to permytt and suffer the said Allice <lb/>
+                    Pikes and her heires to enioy the saide <expan>land<ex>es</ex></expan> 
                     and they are contented <lb/>
-                    to accepte the yearlie rent of ffortie poundes out of theis <expan>land<ex>es</ex></expan> for
-                    the maynetenance of the Saide scholemaster and Usher of this schole <lb/>
-                    and Twenty Sixe <expan>Shilling<ex>es</ex></expan> eighte pence to and for
+                    to accepte the yearelie rent of ffortie poundes out of theis <expan>land<ex>es</ex></expan> for <lb/>
+                    the maynetenance of the saide Scholemaster and Usher of this Schole <lb/>
+                    and Twenty sixe <expan>shilling<ex>es</ex></expan> eighte pence to and for
                     the <expan>reperac<ex>i</ex>ons</expan> <lb/>
-                    of the Saide scholehowse yearely soe as the Saide <expan>Complayn<ex>a</ex>nce</expan> <lb/>
-                    Shall within next cominge pay all Such arrearages of rent due <lb/>
+                    of the saide Scholehowse yearely Soe as the saide <expan>Complayn<ex>a</ex>unt</expan> <lb/>
+                    shall within next cominge pay all such arrearages of rent due <lb/>
                     out of theis <expan>land<ex>es</ex></expan> as are nowe behinde to the Maior and <lb/>
-                    Cominaltye and Shall Well and trewlie Satisfie and paye <lb/>
-                    to the Said Maior and <expan>Com<ex>m</ex>inalty</expan> and to their succesors the 
+                    Cominalytye and shall well and trewlie satisfie and paye <lb/>
+                    to the said Maior and <expan>Com<ex>m</ex>inality</expan> and to their Succesors the 
                     <expan>sev<ex>er</ex>all</expan> <lb/>
-                    yearelie <expan>Som<ex>m</ex>es</expan> of money and <expan>rent<ex>es</ex></expan> of
+                    yearelie <expan>som<ex>m</ex>es</expan> of money and <expan>rent<ex>es</ex></expan> of
                     ffortie <expan>pound<ex>es</ex></expan> and Twentye <lb/>
-                    Sixe <expan>Shilling<ex>es</ex></expan> eight pence att the <expan>ffeast<ex>es</ex></expan>
-                    of the birth of sainte John <lb/>
-                    Baptiste sainte Michaell Tharchaungell the ffeaste of the Nativitie <lb/>
-                    of our lorde god and the <expan>Annuiac<ex>i</ex>on</expan> of sainte Mary the Virgin by <lb/>
-                    wen and equall <expan>porc<ex>i</ex>ons</expan> yearely and 
+                    sixe <expan>shilling<ex>es</ex></expan> eight pence att the <expan>ffeast<ex>es</ex></expan>
+                    of the birth of Sainte John <lb/>
+                    Baptiste Sainte Michaell Tharchaungell the ffeaste of the Nativitie <lb/>
+                    of our Lorde god and the <expan>Annuiac<ex>i</ex>on</expan> of Sainte Mary the Virgin by <lb/>
+                    even and equall <expan>porc<ex>i</ex>ons</expan> yearely and 
                     <expan>p<ex>er</ex>petually</expan> without any <lb/>
                     defaulte therein att any to be comitted All which the Said Allice <lb/>
-                    Pykes the <expan>Complayn<ex>a</ex>nce</expan> hath agreed to paye and performe <lb/>
-                    accordinglie wheretofore aswell the said Complte as also the <lb/>
-                    Saide <expan>defendaunt<ex>es</ex></expan> for the finall <expan>determinac<ex>i</ex>on</expan>
-                    of the said controversied <lb/>
-                    and for the perfecte setleinge and assureinge of the Said <expan>land<ex>es</ex></expan> and <lb/>
-                    premisses and of the Said <expan>Sev<ex>er</ex>all</expan> yearelie <expan>rent<ex>es</ex></expan>
+                    Pykes the <expan>Complayn<ex>a</ex>nte</expan> hath agreed to paye and performe <lb/>
+                    accordinglie wheretofore aswell the said <expan>Compl<ex>aynan</ex>te</expan> as also the <lb/>
+                    saide <expan>defendaunt<ex>es</ex></expan> for the finall <expan>determinac<ex>i</ex>on</expan>
+                    of the said controversies <lb/>
+                    and for the perfecte setleinge and assureinge of the said <expan>land<ex>es</ex></expan> and <lb/>
+                    premisses and of the said <expan>sev<ex>er</ex>all</expan> yearelie <expan>rent<ex>es</ex></expan>
                     accordinglie, have <lb/>
                     agreed that ytt shalbe in all thinges ratifyed established and <lb/>
-                    confirmed by the decree of this honorable Courte It is therefore <lb/>
+                    confirmed by the decree of this Honorable Courte It is therefore <lb/>
                     this present day beinge the one and twentieth day of Maye in the <lb/>
                     eighte yeare of his maiesties raigne ordered decreed and adiudged by the <lb/>
                     right honourable Thomas Lorde Ellesmere Lord Chauncellor of England <lb/>
-                    and ny the Said Courte of Chauncery With the consent of all the <lb/>
-                    Said parties and of their Councell and Attorneyes That the Saide <lb/>
+                    and by the said Courte of Chauncery with the consent of all the <lb/>
+                    said parties and of their Councell and Attorneyes That the saide <lb/>
                     Allice Pykes her heires and Assignes and the <expan>Tenaunt<ex>es</ex></expan> ffarmors and <lb/>
-                    Occupiers of the Said <expan>land<ex>es</ex></expan> called the Bartholomewe
+                    Occupiers of the said <expan>land<ex>es</ex></expan> called the Bartholomewe
                     <expan>land<ex>es</ex></expan> for <lb/>
-                    the tyme beinge shall well and trewely satisfie and pay the Saide <lb/>
-                    severall yearelie <expan>rent<ex>es</ex></expan> of ffortie pound and Twenty Sixe Shillinges <lb/>
+                    the tyme beinge shall well and trewely satisfie and pay the saide <lb/>
+                    severall yearelie <expan>rent<ex>es</ex></expan> of ffortie <expan>pound<ex>es</ex></expan>
+                    and Twenty sixe shillinges <lb/>
                     eight pence to the Maior and <expan>Com<ex>m</ex>inaltie</expan> of the saide Cytty of <lb/>
                     Bristoll and their successors out of the <expan>rent<ex>es</ex></expan> and
                     <expan>profitt<ex>es</ex></expan> of the <lb/>
                     said <expan>land<ex>es</ex></expan> to the <add place="above">uses of the</add>
-                    schoolemaster and usher of the said schole for <lb/>
-                    the tyme beinge and for <expan>reperac<ex>i</ex>ons</expan> of the Saide schole Att the <lb/>
-                    Said ffower usuall ffeastes in the yeare That is to saye Att the <lb/>
-                    ffeaste of the Nativitie of sainte John Baptiste sainte Michaell <lb/>
+                    Schoolemaster and Usher of the said Schole for <lb/>
+                    the tyme beinge and for <expan>reperac<ex>i</ex>ons</expan> of the saide Schole Att the <lb/>
+                    said ffower usuall ffeastes in the yeare ( That is to saye ) Att the <lb/>
+                    ffeaste of the Nativitie of Sainte John Baptiste Sainte Michaell <lb/>
                     tharchaungell the byrth of our Lorde god and the <expan>Annunciac<ex>i</ex>on</expan>
-                    of Saintes <lb/>
+                    of Sainte <lb/>
                     Marye the Virgin by even and equall <expan>porc<ex>i</ex>ons</expan> And the said severall <lb/>
-                    <expan>Som<ex>m</ex>es</expan> shalbe soe paied for ever in manner and forme followinge <lb/>
-                    That is to say To the scholemaster there for the tyme beinge <lb/>
+                    <expan>som<ex>m</ex>es</expan> shalbe soe paied for ever in manner and forme followinge <lb/>
+                    ( That is to say ) To the Scholemaster there for the tyme beinge <lb/>
                     onelie ffortie markes and to the Usher there onelie Twentie <lb/>
                     markes and to <choice><abbr>&amp;</abbr><expan>and</expan></choice> for the
-                    <expan>reparac<ex>i</ex>ons</expan> of the Saide scholehowse sixe <lb/>
-                    and Twentie <expan>Shilling<ex>es</ex></expan> eight pence yearlie att the saide fower <lb/>
+                    <expan>reparac<ex>i</ex>ons</expan> of the saide Scholehowse sixe <lb/>
+                    and Twentie <expan>shilling<ex>es</ex></expan> eight pence yearelie att the saide fower <lb/>
                     usuall termes in the year ( <choice><abbr>vi⁊<hi rend="superscript">t</hi></abbr>
                     <expan>vi<ex>delice</ex>t</expan></choice> ) the ffeaste of the Nativitie of <lb/>
-                    sainte John the Baptiste sainte Michall Tharchaungell the Nativity <lb/>
+                    Sainte John the Baptiste Sainte Michall Tharchaungell the Nativity <lb/>
                     of our Lord and the <expan>Annunciac<ex>i</ex>on</expan> of the blessed Virgin Mary att the <lb/>
-                    Tolsey of Bristoll within the Said Cytty by even <expan>porc<ex>i</ex>ons</expan> And yf <lb/>
-                    the Said Allice Pykes her heires or Assignes shall not Satisfie and <lb/>
-                    pay the said yearelie <expan>rent<ex>es</ex></expan> or <expan>som<ex>m</ex></expan> of
+                    Tolsey of Bristoll within the said Cytty by even <expan>porc<ex>i</ex>ons</expan> And yf <lb/>
+                    the said Allice Pykes her heires or Assignes shall not satisfie and <lb/>
+                    pay the said yearelie <expan>rent<ex>es</ex></expan> or <expan>som<ex>m</ex>es</expan> of
                     money within Twentie eighte <lb/>
                     dayes nexte after anie of the saide ffeaste dayes accordinge to the <lb/>
                     true meaneinge hereof Then the said Allice Pikes and her heires <lb/>
-                    shall for everu such faulte forefeite and pay the said mayor <lb/>
+                    shall for every such faulte forefeite and pay the said Mayor <lb/>
                     and Cominality of the saide Cytty of Bristoll and their successors <lb/>
                     the <expan>som<ex>m</ex>e</expan> of ffortie <expan>shilling<ex>es</ex></expan>
                     And if they shall not satisfie all <lb/>
@@ -225,9 +239,9 @@
                     to their successors or to their Chamberlayne or their authorished <lb/>
                     Atturney to and for the use aforesaid by the space of halfe a <lb/>
                     yeare nexte after anie parte of the said <expan>sev<ex>er</ex>all</expan>
-                    <expan>som<ex>m</ex>es</expan> shalbe <lb/>
-                    growe due by the treww meaneinge hereof That then yt shall be <lb/>
-                    lawfull for them the saide Mayor a Cominalitie and their <lb/>
+                    <expan>som<ex>m</ex>es</expan> shall <lb/>
+                    growe due by the trewe meaneinge hereof That then yt shall be <lb/>
+                    lawfull for them the saide Mayor and Cominalitie and their <lb/>
                     successors or to their Chamberlayne or authorished Atturney to <lb/>
                     reenter in all the said  <expan>land<ex>es</ex></expan> called the Bartholemewe
                     <expan>land<ex>es</ex></expan> scituate <lb/>
@@ -236,13 +250,13 @@
                     and every parte thereof to enioye and reteyne until the saide <lb/>
                     severall <expan>som<ex>m</ex>es</expan> and <expan>rent<ex>es</ex></expan> and all
                     ( <expan>no<ex>m</ex>i<ex>n</ex>e</expan> penes ) and all arreareges <lb/>
-                    therof and of every parte thereof shalbe fullie satisfied and <lb/>
+                    thereof and of every parte thereof shalbe fullie satisfied and <lb/>
                     paied And the said Allice Pikes and her heires and assignes <lb/>
                     shall and will quietlie <expan>p<ex>er</ex>mitt</expan> and suffer the Mayor
                     and <expan>Com<ex>m</ex>inality</expan> <lb/>
                     of the saide Cytty of Bristoll and their successors to occupie <lb/>
                     and enioye the same from tyme to tyme accordinglie And further <lb/>
-                    yt is decreed that she the said Complaynaunye her executors and <lb/>
+                    yt is decreed that she the said Complaynaunte her executors and <lb/>
 
                     <pb n="m. 27"/>
 
@@ -250,16 +264,16 @@
                     of the saide <expan>land<ex>es</ex></expan> and behinde and unpaied to the saide Mayor and <lb/>
                     <expan>Com<ex>m</ex>ynalitie</expan> to their Chamberlayne att the Tolsey as the same shall <lb/>
                     be caste upp by the Chamberlayne of the saide Cytty of Bristoll for <lb/>
-                    the tyme beinge within one moneth after the feaste of sainte Michaell <lb/>
+                    the tyme beinge within one moneth after the ffeaste of Sainte Michaell <lb/>
                     Tharchaungell nowe nexte ensueinge And yt is further Ordered and <lb/>
                     decreed that she the said Allice Pikes her heirs and assignes under the <lb/>
                     <expan>rent<ex>es</ex></expan> and <expan>payment<ex>es</ex></expan> before expressed
                     shall and lawfullie may for ever <lb/>
-                    hereafter quietly and peaceablely have hold possesse and enioye all <lb/>
-                    the saide <expan>land<ex>es</ex></expan> calld the Bartholomewe
-                    <expan>land<ex>es</ex></expan>scituate and beinge <lb/>
+                    hereafter quietly and peaceablely have hold possesse and enioy all <lb/>
+                    the saide <expan>land<ex>es</ex></expan> calld the Bartholemewe
+                    <expan>land<ex>es</ex></expan> scituate and beinge <lb/>
                     within the said Cytty of Bristoll and Countie of the same and <lb/>
-                    within the County of Gloucester Excepte the said Scholehowse <lb/> 
+                    within the County of Gloucester ( Excepte the said scholehowse <lb/> 
                     and such roomes and places as are excepted in the graunte of <lb/>
                     ffee ffarme thereof heretofore made by the said Mayor and <lb/>
                     Cominaltie to the said Nicholas Thorne deceased father of the <lb/>
@@ -267,24 +281,24 @@
                     decreed that the Maiors of the Cyttie for the tyme being for <lb/>
                     ever hereafter shall bee speciall Governours of the said schoole <lb/>
                     as they in tymes paste have bene And shall yearelie visitt the said <lb/>
-                    schoole and choose overseers thereof as they in tymes paste have <lb/>
+                    Schoole and choose overseers thereof as they in tymes paste have <lb/>
                     done And shall and may from tyme to tyme with the advise of the <lb/>
                     Aldermen and <expan>Com<ex>m</ex>on</expan> Councell there for ever hereafter as often as <lb/>
-                    they shall see occasion displace and place the scholemaster and <lb/>
-                    usher of the saide schoole and every or either or anie of them frely <lb/>
+                    they shall see occasion displace and place the Scholemaster and <lb/>
+                    usher of the saide Schoole and every or either or anie of them frely <lb/>
                     withoute any rewarde takeing therefore and shall and may from tyme <lb/>
                     to tyme make such orders and rules for the bringing upp and <lb/>
-                    <expan>educac<ex>i</ex>on</expan> of youth there in Learninge of Grammer and other good <lb/>
-                    Litterature as to them shall seme fytt soe as they bee not repugnant <lb/>
+                    <expan>educac<ex>i</ex>on</expan> of youth there in Learneinge of Grammer and other good <lb/>
+                    Litterature as to them shall seme fytt Soe as they bee not repugnant <lb/>
                     to the lawes Ordinances rules and Goverment there sett downe <lb/>
-                    by the founders thereof And ytt is further Orderes and decreed that <lb/>
+                    by the founders thereof And ytt is further Ordered and decreed that <lb/>
                     onely ffower pence from tyme to tyme and att all tymes hereafter <lb/>
-                    shalbee by the scholemaster of the said schoole for the tyme being <lb/>
-                    of every scholler taken for his firste Admission into the saide schoole <lb/>
+                    shalbee by the Scholemaster of the said Schoole for the tyme being <lb/>
+                    of every Scholler taken for his firste Admission into the saide Schoole <lb/>
                     and in such forme ffreelie to be taughte as by the ffounders is sett <lb/>
                     dowen And all the <expan>p<ex>re</ex>misses</expan> herein sett downe shalbee done and <lb/>
                     performed on all partes and shall have continuance for ever The <lb/>
-                    afore recited Decres made by the said Comissioners or any thinge <lb/>
+                    afore recited Decree made by the said Comissioners or any thinge <lb/>
                     therein conteined to the contrary thereof in any wise notwithstandinge / 
                 </p>
             </div>
