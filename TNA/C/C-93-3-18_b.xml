@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bartholomew School. <date when="1546-10-15">1610</date></title>
+                <title>Bartholomew School. <date when="1610">1610</date></title>
                 <editor>
                     <name type="person">Mike Jones</name>
                     <email>mike.a.jones@me.com</email>
@@ -12,7 +12,7 @@
             <publicationStmt>
                 <publisher>http://bristollia.org</publisher>
                 <pubPlace>Bristol</pubPlace>
-                <date when="2015-02">March 2015</date>
+                <date when="2015-03">March 2015</date>
                 <idno type="UUID">4b47e441-e92c-454b-aa4f-bc32e9280b4a</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
