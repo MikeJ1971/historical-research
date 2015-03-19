@@ -95,7 +95,7 @@
     <xsl:template name="editorial">
         \section*{Editorial Note}
 
-        Original punctuation and spelling are preserved. Superscript characters are lowered and contractions expanded with supplied letters italicised. The thorn (\th\ or y) is replaced with `th' and a terminal graph with `es'. The ampersand brevigraph is silently expanded to `and' in English and `et' in Latin. Letters within square brackets are supplied by the editor. Engrossed hand are shown in bold text. <xsl:if test="$newline = 'pipe'">New lines are indicate by a vertical bar (|).</xsl:if>
+        Original punctuation and spelling are preserved. Superscript characters are lowered and contractions expanded with supplied letters italicised. The thorn (\th\ or y) is replaced with `th' and a terminal graph with `es'. The ampersand brevigraph is silently expanded to `and' in English and `et' in Latin. Letters within square brackets are supplied by the editor. Engrossed hand are shown in bold text. <xsl:if test="$newline = 'pipe'">New lines are indicate by a vertical bar (|).</xsl:if> Scribal insertions are enclosed in double chevrons (&lt;&lt; &gt;&gt;).
     </xsl:template>
 
 
@@ -234,7 +234,7 @@
     <xsl:template match="tei:choice"><xsl:call-template name="expan"/></xsl:template>
 
     <xsl:template match="tei:note">\footnote{<xsl:apply-templates />}</xsl:template>
-    <xsl:template match="tei:add">&#60;&#60; <xsl:apply-templates /> &#62;&#62;</xsl:template>
+    <xsl:template match="tei:add">&lt;&lt;<xsl:apply-templates /> &gt;&gt;</xsl:template>
 
     <xsl:template match="tei:space">\hspace*{1.5cm}</xsl:template>
 
