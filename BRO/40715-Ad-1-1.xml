@@ -60,24 +60,33 @@
                 la Warr Georgii Croft Capellani <expan>n<ex>ost</ex>ri</expan> Roberti
                 Thorne Nicholei Thorne Ville <expan>n<ex>ost</ex>re</expan> Bristollie et
                 Johannis Godryche clerici executoris testamenti Roberti Thorne defuncti
-                in fundacione <expan>continuac<ex>i</ex>o<ex>n</ex>e</expan> <lb/> et
+                in fundacione <expan>continuac<ex>i</ex>o<ex>n</ex>e</expan><lb/>
+                <choice><abbr>&amp;</abbr><expan>et</expan></choice>
                 <expan>supportac<ex>i</ex>o<ex>n</ex>e</expan> cuiusdam Scole gramaticalis
                 in <expan>d<ex>i</ex>c<ex>t</ex>a</expan> Villa Bristollie aut in 
                 suburbiis eiusdem Ville pro pueris in eadem Scola erudiendis in bonis 
-                moribis et <expan>litteratur<ex>is</ex></expan> pro meliori 
-                <expan>sustentac<ex>i</ex>o<ex>n</ex>e</expan> <lb/> unious magistri et
-                unius hostiarii sive <expan>duor<ex>um</ex></expan> 
-                <expan>hostiarior<ex>um</ex></expan> eisudem et <expan>aliar<ex>um</ex></expan>
-                rerum <expan>necessariar<ex>um</ex></expan> ibidem 
-                <expan>faciend<ex>arum</ex></expan><note>correct ending?</note>
-                ac gracia <expan>n<ex>ost</ex>ra</expan>
-                speciali ac ex certa sciencia et mero moti <expan>n<ex>ost</ex>ris</expan>
-                concessimus et <lb/> licenciam dedimus ac per presentes concedimus et
-                licenciam damus pro nobis et heredibus et heredibus
+                moribis <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+                <expan>litteratur<ex>is</ex></expan> pro meliori <note>Meliore in the patent roll</note> 
+                <expan>sustentac<ex>i</ex>o<ex>n</ex>e</expan> <lb/> unius magistri
+                <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+                unius hostiarii sive <expan>duo<ex>rum</ex></expan> 
+                <expan>hostiario<ex>rum</ex></expan> eisudem et <expan>alia<ex>rum</ex></expan>
+                rerum <expan>necessaria<ex>rum</ex></expan> ibidem 
+                <expan>faciend<ex>arum</ex></expan><note>Correct ending?</note> de gracia
+                <expan>n<ex>ost</ex>ra</expan> speciali ac ex certa sciencia
+                <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+                mero motu <expan>n<ex>ost</ex>ris</expan>
+                concessimus <choice><abbr>&amp;</abbr><expan>et</expan></choice> <lb/>
+                licenciam dedimus ac per presentes concedimus
+                <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+                licenciam damus pro nobis <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+                heredibus <choice><abbr>&amp;</abbr><expan>et</expan></choice> heredibus
                 <expan>n<ex>ost</ex>ris</expan> quantum in nobis est maiori burgensibus
                 et commutati <expan>d<ex>i</ex>c<ex>t</ex>e</expan> Ville Bristollie et
-                successoribus <lb/> suis <expan>q<ex>uo</ex>d</expan> ipsi et sucessores sui
-                acquiere et recipere possint domum sive hospitale sanct Bartholomei in
+                successoribus <lb/> suis <expan>q<ex>uo</ex>d</expan> ipsi 
+                <choice><abbr>&amp;</abbr><expan>et</expan></choice> successores sui
+                acquirere <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+                recipere possint domum sive hospitale sanct Bartholomei in
                 <expan>d<ex>i</ex>c<ex>t</ex>e</expan> villa <expan>n<ex>ost</ex>ra</expan>
                 Bristollie <expan>d<ex>o</ex>m<ex>in</ex>a</expan> maneria mesuagia
                 <expan>t<ex>er</ex>ras</expan> tenementa Gardina pomaria <lb/>
@@ -201,9 +210,10 @@
                 suburbs of the same town for children in the same school to be instructed
                 in good customs and learning for the better maintenance of one master and
                 one usher or two ushers of the same and other things requisite which are
-                to be made in the same place, of our special grace and our certain knowledge
-                and mere motion we have granted and given license for us and our heirs in so
-                far as we are able to the mayor, burgesses and commonality of the saids
+                to be made in the same place, of our special grace and from certain knowledge
+                and by our mere motion we have granted and gave license and by these presents
+                we grant and give license for us and our heirs in so
+                far as we are able to the mayor, burgesses and commonality of the said
                 town of Bristol and their successors that themselves and their successors
                 be able to acquire and receive the
                 house or hospital of Saint Bartholomew in our said town of Bristol, and the
