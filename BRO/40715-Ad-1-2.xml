@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Indenture of covenant between Sir Thomas West, Lord La Warre and
+                    Robert Thorne <date when="1532-01-31">31 January, 1532</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2015-05">May 2015</date>
+                <idno type="UUID">7eca85e1-8cd6-44bb-8833-f0987afecf0b</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>Bristol</settlement>
+                        <repository>Bristol Record Office</repository>
+                        <idno>40715/Ad/1/2</idno>
+                        <msName>Indenture of covenant</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Thorne</item>
+                        <item>St Bartholomew's</item>
+                        <item>Bristol</item>
+                        <item>Gloucestershire</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+                <p>This <expan>indentur<ex>e</ex></expan> maed the last day of January in the 
+                xxiij<hi rend="superscript">to</hi> yere of the reigne of Kyng Harry the 
+                Viij<hi rend="superscript">th</hi> bitwene the Right Honorable Sir Thomas West
+                Knyght Lorde Lawarr of the one <expan>p<ex>ar</ex>tie</expan> And Roberte Thorne 
+                Citzen <lb/> <choice><abbr>&amp;</abbr><expan>and</expan></choice> 
+                <expan>m<ex>er</ex>chu<ex>a</ex>nt</expan> of London on the other 
+                <expan>p<ex>ar</ex>tie</expan>. Witnessithe that it is <expan>coven<ex>a</ex>ntid</expan>
+                <choice><abbr>&amp;</abbr><expan>and</expan></choice> agreid bitwene the said 
+                <expan>p<ex>ar</ex>ties</expan> in <expan>man<ex>er</ex></expan> 
+                <choice><abbr>&amp;</abbr><expan>and</expan></choice> forme folowing. That is to say the
+                seyde <expan>Rob<ex>er</ex>t</expan> Thorne <expan>coven<ex>a</ex>ntith</expan>
+                <expan>gr<ex>a</ex>ntith</expan> <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+                agreethe to <choice><abbr>&amp;</abbr><expan>and</expan></choice>
+                <choice><abbr>w<hi rend="superscript">th</hi></abbr><expan>w<ex>ith</ex></expan></choice> 
+                the sayd <lb/>
+
+<!--
+
+                Lord Lawarr that if a sure sufficient <choice><abbr>&amp;</abbr><expan>et</expan></choice> ?indesciable estate in fee simple be made or causid to be maed ?or conveyed by the sayd Lorde Lawarr <choice><abbr>&amp;</abbr><expan>et</expan></choice> one George Croft mast[er] of the house <choice><abbr>&amp;</abbr><expan>et</expan></choice> hospitall of Seint Bartilinaws in the subarbes of the towne of Bristowe or by any of them to the said Rob[er]t Thorne <choice><abbr>&amp;</abbr><expan>et</expan></choice> to Nicholas Thorne <choice><abbr>&amp;</abbr><expan>et</expan></choice> oon John Goodriche clerke or to the on[e] ?lyvers of them <choice><abbr>&amp;</abbr><expan>et</expan></choice> their heires as shalbe avised by the lerynd councell of the seid Rob[er]te Thorne or his heiras w[ith]in one yere next after the date hereof <choice><abbr>&amp;</abbr><expan>et</expan></choice> in the [?said] house <choice><abbr>&amp;</abbr><expan>et</expan></choice> hospitall of Seint Bartilmaws and of [?and] in all the lordshipp[es] mano[r]s messuag[es] londes ten[eme]nt[es] rent[es] ?ran[e]sons <choice><abbr>&amp;</abbr><expan>et</expan></choice> s[er]vic[es] w[ith] their app[er]ten[a]nc[es] whiche be taken usid reputid or ten[emen]tes rent[es] rev[er]sions or s[er]vic[es] to the seyd house or hospitall in any man[er] apperteynyng or belonginge or whiche the seid George Croft mast[er] of the seid house or hospitall <choice><abbr>&amp;</abbr><expan>et</expan></choice> brethern <choice><abbr>&amp;</abbr><expan>et</expan></choice> susterne of the same or any or any them have had holden or enjoied as in the right of the seid house or hospital. That then the seyd Rob[er]te Thorn w[ith]in the space <choice><abbr>&amp;</abbr><expan>et</expan></choice> terme of vj yeres [?and] ymmediately after the date hereof shall order prapare <choice><abbr>&amp;</abbr><expan>et</expan></choice> make a convenyent Scolehouse for a fre gram[mer] scole to be tawght <choice><abbr>&amp;</abbr><expan>et</expan></choice> kepte w[ith]in the town of Bristowe or w[ith]in the subarbes of the same uppon the sayd house or hospitall or uppon [?sn] p[art]te of the seid lond[es] or ten[emen]t[es] belongyng to the seyd house or hospitall And also the same Robert w[ith]in the same terme shall p[ro]vyde establyshe <choice><abbr>&amp;</abbr><expan>et</expan></choice> ?ordein a Scolemast[er] <choice><abbr>&amp;</abbr><expan>et</expan></choice> an ushier\footnote{An `usher' was an assistant to a school master.} to teche <choice><abbr>&amp;</abbr><expan>et</expan></choice> kepe the sayd fre scole w[ith] suche convenyent wage[s] to them to be appoynted as shall or may convenyently come of the rent[es] issues <choice><abbr>&amp;</abbr><expan>et</expan></choice> p[ro]fitt[es] of the seyd land[es] and also the [?same] Robert shall appoynt make <choice><abbr>&amp;</abbr><expan>et</expan></choice> establyshe w[ith]in the same terme of vj yeres the foundacon statut[es] <choice><abbr>&amp;</abbr><expan>et</expan></choice>  ordyn[a]nc[es] of the sayde scole after the mynde <choice><abbr>&amp;</abbr><expan>et</expan></choice> advise of John Barlowe deane of Westbury upon [Trym] in the countie of Glocest[er] and of the forseyd George Croft, Robert Thorne, Nicholas Thorne <choice><abbr>&amp;</abbr><expan>et</expan></choice> John Goodriche clerke or of ij or iij of them at laste wherof the seid George Croft to be one if he be [?lyvyng] [...] [?..tur[es]] <choice><abbr>&amp;</abbr><expan>et</expan></choice> wrytng[es] ?trip[ar]tite Wherof one p[ar]te shall remayn allweys w[ith] the seyde Lorde Lawarr <choice><abbr>&amp;</abbr><expan>et</expan></choice> his heires an other parte w[ith] the mayre <choice><abbr>&amp;</abbr><expan>et</expan></choice> comynaltie of the seid towne of Bristowe <choice><abbr>&amp;</abbr><expan>et</expan></choice> the therd p[ar]te [...] Rob[er]te Thorne <choice><abbr>&amp;</abbr><expan>et</expan></choice> his hayr[es] for ev[er] and the said Rob[er]t conven[a]ntith to <choice><abbr>&amp;</abbr><expan>et</expan></choice> w[ith] the seid Lorde Lawarr by this p[re]sent[es] that uppon the seid foundacon, statut[es] <choice><abbr>&amp;</abbr><expan>et</expan></choice> ordyn[a]nc[es] the seide lorde Lawarr shalbe mayde <choice><abbr>&amp;</abbr><expan>et</expan></choice> r[...] as one of the prcypoll founders of the sed scole and the seyd George Croft to be namyd <choice><abbr>&amp;</abbr><expan>et</expan></choice> taken a singular benefacto[r] thereof. And also that upon the seid foundacon <choice><abbr>&amp;</abbr><expan>et</expan></choice> writyng[es] suche aricles <choice><abbr>&amp;</abbr><expan>et</expan></choice> agrement[es] as ?here after folowith shallbe put ordeynd <choice><abbr>&amp;</abbr><expan>et</expan></choice> oppyntid ?therm. That is to sey that there shalbe a solempne obit kepte yerely for ev[er] at the xj$^{th}$ day October at the seyd Bartilmews to p[ra]ye for the soules of the Lorde Lawarr John <choice><abbr>&amp;</abbr><expan>et</expan></choice> Robert <choice><abbr>&amp;</abbr><expan>et</expan></choice> Sir Thomas now Lorde Lawarr <choice><abbr>&amp;</abbr><expan>et</expan></choice> for the soules of Sir Thomas West knight late lorde Lawarr\footnote{Thomas West, seventh Baron West and eighth Baron de la Warr (1448 – 1525)} <choice><abbr>&amp;</abbr><expan>et</expan></choice> Elizabeth his wyff late fad[er] <choice><abbr>&amp;</abbr><expan>et</expan></choice> mod[er] to the seid nowe lord Lawarr <choice><abbr>&amp;</abbr><expan>et</expan></choice> for the ?soules of all their antecesso[r]s <choice><abbr>&amp;</abbr><expan>et</expan></choice> progenito[r]s <choice><abbr>&amp;</abbr><expan>et</expan></choice> this obit to be kepte w[ith] x prist[es] <choice><abbr>&amp;</abbr><expan>et</expan></choice> vj clerk[es] at which obit ther shalbe delte <choice><abbr>&amp;</abbr><expan>et</expan></choice> distribute in almes among[es] poore people a hundreth pens at lest. Also that the Scolemaster <choice><abbr>&amp;</abbr><expan>et</expan></choice> usher shall ?oppeyre <choice><abbr>&amp;</abbr><expan>et</expan></choice> assign the scolars of the seid scole to sey suche certeyn p[ra]yers at their dep[ar]tyng in the evenyng as shalbe devysd or oppoynted by the seyd lorde lawarr and also the seyde Robert Thorne ?coven[an]tith <choice><abbr>&amp;</abbr><expan>et</expan></choice> ?gr[a]ntith that all suche almes people as nowe be in the seyd house or hospitall of the seyd Bartilimews shall nott be put awey but still to continue there <choice><abbr>&amp;</abbr><expan>et</expan></choice> have ev[er]y weke v d a pece duryng their lyvis if they and also that there shalbe a prist founde to p[ray] for the soules of the founders <choice><abbr>&amp;</abbr><expan>et</expan></choice> benefacto[r]s untill suche tyme as the seyde scole be ?ordained <choice><abbr>&amp;</abbr><expan>et</expan></choice> made ?and also a scole master resident <choice><abbr>&amp;</abbr><expan>et</expan></choice> in possession ?than for the w[hich] articles coven[a]nt[es] <choice><abbr>&amp;</abbr><expan>et</expan></choice> agreemen[tes] before rehersyd on the p[ar]tie of the seyd Robert tobe p[er]formed <choice><abbr>&amp;</abbr><expan>et</expan></choice> kepte and for dyv[er]s other consideracons had <choice><abbr>&amp;</abbr><expan>et</expan></choice> done by the seyd Robert Thorne to the seyde Thomas ?West Knyght Lorde Lawarr. The same Thomas coven[an]tith <choice><abbr>&amp;</abbr><expan>et</expan></choice> gr[a]ntith to renownce <choice><abbr>&amp;</abbr><expan>et</expan></choice> relinquysh <choice><abbr>&amp;</abbr><expan>et</expan></choice> by these p[re]sent[es] doth utterly renownce <choice><abbr>&amp;</abbr><expan>et</expan></choice> relinquishe all his interest, titell, right <choice><abbr>&amp;</abbr><expan>et</expan></choice> clayme as well in the seide house, hospitall <choice><abbr>&amp;</abbr><expan>et</expan></choice> other the p[re]misses as in the patronage or foundacon thereof savyng onely to ?brynd suche preemynens in the name of the seyd foundacon <choice><abbr>&amp;</abbr><expan>et</expan></choice> in suche ?p[ra]yre <choice><abbr>&amp;</abbr><expan>et</expan></choice> suffrag[es] as before rehercyd. In winess whereof the p[ar]ties afor seyd to ther indentur[es] ?interchu[a]ngable every to other have put their seales the day \* ye[ar] aforseyd.
+
+\emph{Signed:} Thomas Lawarr
+-->
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>
