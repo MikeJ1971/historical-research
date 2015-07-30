@@ -149,7 +149,7 @@
 
     <xsl:template match="tei:msDesc"><xsl:apply-templates/></xsl:template>
 
-    <xsl:template match="tei:msContents">
+    <xsl:template match="tei:profileDesc">
         \section*{Introduction}
         <xsl:apply-templates/>
     </xsl:template>

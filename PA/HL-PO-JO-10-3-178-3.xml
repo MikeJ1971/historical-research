@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Petition of the cap and hat makers of Bristol. <date when="1531-02-11">11
+                        February, 1531</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2015-07">July 2015</date>
+                <idno type="UUID">b882993b-2ee5-40bf-9620-3122e157a2b8</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/"
+                        >http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>Bristol</settlement>
+                        <repository>Parliamentary Archives</repository>
+                        <idno>HL/PO/JO/10/3/178/3</idno>
+                        <msName>Petition of the cap and hat makers of Bristol</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Bristol</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+
+                <p><hi rend="bold">To the kyng owre sovereign lorde <lb/> and to his most honorable
+                        Counsaill</hi></p>
+
+                <p>Pleaseth it <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> highnes and your moost noble counsaill to have
+                        <expan>p<ex>er</ex>fite</expan> knowledge what damages doth ensue to <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> said <lb/> highnes and to the <expan>Subgect<ex>es</ex></expan> of
+                    this <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> Realme by reason of bryngyng of ffrenssh cappes and
+                            <expan>hatt<ex>es</ex></expan> owte of <expan>dyv<ex>er</ex>se</expan>
+                    <expan>p<ex>ar</ex>ties</expan> from <lb/> beyonde the See which is to the utter
+                    destruction of all <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> power <expan>Subgect<ex>es</ex></expan> cappe makers and hatte makers
+                    inhabited <choice>
+                        <abbr>w<hi rend="superscript">t</hi>in</abbr>
+                        <expan>w<ex>ith</ex>in</expan>
+                    </choice>
+                    <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> Towne of Bristowe</p>
+
+                <p><hi rend="bold">Where of late <choice>
+                            <abbr>yo<hi rend="superscript">r</hi></abbr>
+                            <expan>yo<ex>u</ex>r</expan>
+                        </choice> highnes</hi> by the advise of <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> lordes <expan>sp<ex>irit</ex>uall</expan> and temporall and Comyns
+                    assembled in <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> high courte of Parliament <lb/> last holden at
+                            <expan>Westm<ex>inster</ex></expan> establisshed and inacted for the
+                    comon Welth of <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> poore <expan>Subgect<ex>es</ex></expan> cappe makers and hatte makers,
+                    that no cappe made <lb/> owte of <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> Realme shulde be solde above the price of ij s nor any hatte above the
+                    price of x d nor any sengle crowned Cappe or nyght <lb/> cappe above the price
+                    of vj d And that upon payne that <expan>ev<ex>er</ex>y</expan>
+                    <expan>p<ex>er</ex>son</expan> mysusyng the said Statute shulde forfaite for
+                            <expan>ev<ex>er</ex>y</expan> cappe or hatte solde <lb/> above the said
+                    price xl s <hi rend="bold">Which</hi> acte if it were duely
+                            <expan>obs<ex>er</ex>ved</expan> and kept were to the greate weale and
+                            <expan>p<ex>ro</ex>fite</expan> of us <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> poore <expan>Subgect<ex>es</ex></expan> being <lb/> Inhabited <choice>
+                        <abbr>w<hi rend="superscript">t</hi>in</abbr>
+                        <expan>w<ex>ith</ex>in</expan>
+                    </choice>
+                    <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> saide Towne of Bristowe, which is occupied in greate part therof by
+                    makyng of cappes and <expan>hatt<ex>es</ex></expan> to the Nombre of
+                    xv c <lb/>
+                    <expan>p<ex>er</ex>sons</expan> poore people men, wemen and Children which
+                    geteth theire moost lyvyng oonly by making of the said cappes and
+                            <expan>hatt<ex>es</ex></expan> as Parters <lb/> fforcers, kembers,
+                    carders, Spynners, knytters, Thickers, dressers, dyers and pressers of cappes.
+                    And noo Cappe can be made, but he must goo thuegh <lb/> the handes of thise poore
+                    people. And they all have theire levyng by the same to the greate Releef and
+                    comforte of <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> saide <expan>Subgect<ex>es</ex></expan>. And myght be <lb/> moche more
+                            <expan>p<ex>ro</ex>fitable</expan> And many moo ydull people setto werke <choice>
+                        <abbr>w<hi rend="superscript">t</hi>in</abbr>
+                        <expan>w<ex>ith</ex>in</expan>
+                    </choice> this <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> saide Towne if the saide Acte were duely
+                        <expan>obs<ex>er</ex>ved</expan> and kepte. <hi rend="bold">Where</hi> as
+                    <lb/> nowe by <expan>dyv<ex>er</ex>s</expan> chapmen commyng fro London Towne
+                    into the countrey to ffeyers and <expan>m<ex>er</ex>kett<ex>es</ex></expan> for
+                    singuler welthe and <expan>p<ex>ro</ex>fite</expan> of very fewe
+                            <expan>p<ex>er</ex>sons</expan> to <lb/> the Nombre of us <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> poore <expan>Subgect<ex>es</ex></expan> doth sell ffrenshe cappes and
+                            <expan>hatt<ex>es</ex></expan> disguysed <choice>
+                        <abbr>w<hi rend="superscript">t</hi></abbr>
+                        <expan>w<ex>ith</ex></expan>
+                    </choice> rebandes, <expan>Aglett<ex>es</ex></expan>, buttons and suche other
+                    like. Whereby all suche <lb/> cappes and <expan>hatt<ex>es</ex></expan> made by
+                    us <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> poore <expan>Subgect<ex>es</ex></expan> of Bristowe and other Towne
+                    theraboute byn litle regarded. And have no course. <hi rend="bold">In
+                        consideration</hi>
+                    <lb/> wherof it may in the way of charitie pleas <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> highnes (tenderly consideryng the greate utilite and
+                            <expan>p<ex>ro</ex>fite</expan> that by
+                        <expan>cons<ex>er</ex>nyng</expan> the said Statute to be kepte <lb/> in due
+                    Ordre may ensue to <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice>
+                    <expan>Subgect<ex>es</ex></expan> of this <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> poore Towne. And the greate enormytie and fynall destruction that myght
+                    folowe to A greate Nombre of <lb/>
+                    <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> poore <expan>Subgect<ex>es</ex></expan> by the mysusyng of the said
+                    Statute of <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> moost habundaunt grace to <expan>p<ex>ro</ex>ve</expan> suche condigne
+                    punysshement to be used and doon to the <lb/> said misusers, as may be to the
+                    ensample of such other offenders. And as the said Statute may be from hensforth
+                    firmely <expan>obs<ex>er</ex>ved</expan> and kepte. And thenne <lb/> suche ydull
+                    people which nowe for lak of occupation fallen dailly to Thefte and other
+                            <expan>Inconvenienc<ex>es</ex></expan> may be sette to werke. And this <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> poore Towne to <lb/> be moche better inhabited and replenysshed which
+                    nowe decaith <hi rend="bold">Wherefor</hi> we in moost humble wise mekely beseke <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> moost excellent highnes to tendre <lb/> this <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> said Towne of Bristowe in the <expan>p<ex>re</ex>misses</expan>. And we
+                    shall dailly pray to god for <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> moost noble estate in riall felicite to
+                        <expan>p<ex>ro</ex>spere</expan> and endure. And for <lb/> the more surety
+                    that the <expan>p<ex>re</ex>misses</expan> be of truth. the Seale of thoffice of
+                    the Mairaltie of <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> said Towne of Bristowe for the comon weale of the same <lb/> to thise
+                            <expan>p<ex>re</ex>sents</expan> putte. <hi rend="bold">Yoven</hi> at <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> said Towne of Bristowe the xj th day of ffebruary. In the xxij<hi
+                        rend="superscript">th</hi> of <choice>
+                        <abbr>yo<hi rend="superscript">r</hi></abbr>
+                        <expan>yo<ex>u</ex>r</expan>
+                    </choice> moost noble reign </p>
+            </div>
+        </body>
+    </text>
+</TEI>
