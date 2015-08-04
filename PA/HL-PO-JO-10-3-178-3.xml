@@ -13,7 +13,7 @@
             <publicationStmt>
                 <publisher>http://bristollia.org</publisher>
                 <pubPlace>Bristol</pubPlace>
-                <date when="2015-07">July 2015</date>
+                <date when="2015-08">August 2015</date>
                 <idno type="UUID">b882993b-2ee5-40bf-9620-3122e157a2b8</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/"
@@ -33,7 +33,37 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p/>
+                <p>A petition to the King, dated 11 February 1531, was sent from Bristol to 
+                highlight the damage being done to the town and the wider realm by the 
+                selling of French caps and hats above the price mandated by statute 
+                21 Henry VIII, c. 9 (1529). The act, intituled `an act limiting the prices 
+                of woollen hats, bonnets and caps made beyond the sea and brought to be sold 
+                within this realm', legislated that from the Purification of Our Lady 
+                (2 February, 1530), no person was to sell imported woollen caps and bonnets 
+                for more than two shillings, no hat above ten pence, and no night cap or crown 
+                cap above six pence. Any person selling above these prices would be fined forty 
+                shillings per item. <note><title>Statutes of the Realm</title>, III, p.290. </note> Eustace 
+                Chapuys, imperial ambassador to the court of Henry VIII, 
+                refers to the act in correspondence to the Emperor, claiming that the Duke of 
+                Norfolk brought the legislation to parliament. <note><title>Calendar of State Papers, 
+                Spanish</title>, Vol. 4, Part 1, 232. Stanford E. Lehmberg noted that Chapuys `complained' 
+                that the price of French caps were fixed even though they were of better quality. 
+                However, Chapuys was framing the legislation in a positive light as an example of 
+                how Norfolk favoured Spanish and Flemish trade over French. See Stanford E. Lehmberg 
+                in <title>The Reformation Parliament 1529-1536</title> (London, 1970), p. 97, f. 3.</note></p>
+
+                <p>The petition is one of eight similar petitions from towns involved in the cap 
+                and hat making trade held in the Parliamentary Archives at the Palace of 
+                Westminster. <note>The petitions are from Shrewsbury, Bridgnorth, Bristol, Borough of 
+                Southwark, Gloucester, Bewdley, Stafford and Lichfield and have been calendared in the
+                <title>Third Report of the Royal Commission on Historical Manuscripts</title> (London, 1872), 
+                p. 4. The petition from the Borough of Southwark is discussed in H. Duckworth, `The Early 
+                History of Feltmaking in London 1250-1604' (June, 2013) 
+                [http://www.feltmakers.co.uk/wp-content/uploads/2014/10/Feltmakers-Research-Paper-Final-version.pdf]
+                </note> The Bristol petition states that if the act was better observed then it would benefit 
+                the town of Bristol since 1500 poor men, women and children derive most of their living
+                from the production of hats. The petition requests that those ignoring the petition
+                be punished as an example to others.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
