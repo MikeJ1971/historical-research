@@ -238,4 +238,6 @@
 
     <xsl:template match="tei:space">\hspace*{1.5cm}</xsl:template>
 
+    <xsl:template match="tei:title">\textit{<xsl:apply-templates />}</xsl:template>
+
 </xsl:stylesheet>
