@@ -171,6 +171,7 @@
     </xsl:template>
 
     <xsl:template match="tei:text/tei:body">
+        \sloppy
         <xsl:call-template name="editorial"/>
         <xsl:if test="$orient != 'portrait'">
             \begin{landscape}
@@ -239,5 +240,13 @@
     <xsl:template match="tei:space">\hspace*{1.5cm}</xsl:template>
 
     <xsl:template match="tei:title">\textit{<xsl:apply-templates />}</xsl:template>
+
+    <xsl:template match="tei:code">
+        <xsl:variable name="text" select="."/>
+        <xsl:choose>
+            <xsl:when test="starts-with(., 'http')">\url{<xsl:value-of select="."/>}</xsl:when>
+            <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
 
 </xsl:stylesheet>
