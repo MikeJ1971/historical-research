@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Robert Thorne, Nicholas Thorne and John Goodriche vs. George Croft,
+                       master of St. Bartholomew's Hospital, Bristol. Common recovery.
+                       Common Pleas, Easter term, <date when="1532">1532</date>.</title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2015-11">November 2015</date>
+                <idno type="UUID">259d8458-b4e5-430d-af04-c8583771e217</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>CP 40/1073, rots. 354-354d</idno>
+                        <msName>Court of Common Pleas: Plea Rolls</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The transcript was made from photographs on the Anglo-American Legal Tradition website<note>
+                    See <code>http://aalt.law.uh.edu/H8/CP40no1073/aCP40no1073fronts/IMG_5164.htm</code> and
+                    <code>http://aalt.law.uh.edu/H8/CP40no1073/bCP40no1073dorses/IMG_6578.htm</code></note>.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Thorne</item>
+                        <item>Robert Thorne</item>
+                        <item>Nicholas Thorne</item>
+                        <item>George Croft</item>
+                        <item>Common Pleas</item>
+                        <item>Common Recovery</item>
+                        <item>Bristol</item>
+                        <item>Gloucestershire</item>
+                        <item>St. Bartholomew's</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+                <p><pb n="rot. 354"/></p>
+                <p>[Left Margin:] Glouc'</p>
+                <p><expan>Rob<ex>er</ex>tus</expan> Thorne <expan>Nich<ex>ola</ex>us</expan> Thorne et 
+                    <expan>Joh<ex>ann</ex>es</expan> Goderiche <expan>cl<ex>er</ex>icus</expan>
+                    <expan>p<ex>er</ex></expan> Thomam <expan>Hym<ex>er</ex>ford</expan> <expan>attorn<ex>atum</ex></expan>
+                    <expan>suu<ex>m</ex></expan> <expan>pet<ex>unt</ex></expan> <lb/> <expan>v<ex>er</ex>sus</expan> 
+                    <expan>Georg<ex>iu</ex>m</expan> Crofte <expan>cl<ex>er</ex>ic<ex>u</ex>m</expan> 
+                    <expan>mag<ex>ist</ex>r<ex>u</ex>m</expan> hospitalis sive domus <expan>s<ex>anc</ex>ti</expan>
+                    <expan>Barth<ex>olome</ex>i</expan> ville <expan>Bristoll<ex>ie</ex></expan> sex mesuagia <lb/> trescentas
+                    acras <expan>t<ex>er</ex>re</expan> octoginta acras prati ducentas acras pasture decem acras bosci 
+                    <choice><abbr>&amp;</abbr><expan>et</expan></choice> quadraginta <lb/> <expan>solidat<ex>as</ex></expan>
+                    redditus cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> in Kyngesmarshe ac in parochijs de Clyfton
+                    Wyk Warr Stapulton Over Horfyld <choice><abbr>&amp;</abbr><expan>et</expan></choice> Sodbury ut ius
+                    <choice><abbr>&amp;</abbr><expan>et</expan></choice> hereditatem suam Et in que idem Georgius non
+                    <expan>h<ex>ab</ex>et</expan> <expan>ingr<ex>essu</ex>m</expan> nisi post <lb/>
+                    <expan>dissei<ex>sin</ex>am</expan> quam <expan>Henr<ex>icus</ex></expan> Hunt inde iniuste
+                    <choice><abbr>&amp;</abbr><expan>et</expan></choice> sine iudicio <expan>fec<ex>it</ex></expan>
+                    <expan>p<ex>re</ex>fat<ex>is</ex></expan> <expan>Rob<ex>er</ex>to</expan>
+                    <expan>Nich<ex>ola</ex>o</expan> <choice><abbr>&amp;</abbr><expan>et</expan></choice> 
+                    <expan>Joh<ex>ann</ex>i</expan> post <expan>p<ex>rima</ex>m</expan>
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice><lb/>
+                </p>
+            </div>
+
+            <div type="translation" xml:lang="en">
+                <pb n="rot. 354"/>
+                <p>[Left Margin:] Gloucestershire</p>
+                <p>Robert Thorne, Nicholas Thorne, George Goodriche, clerk, by their attorney Thomas Hymerford
+                    claim against George Croft, clerk, master of the hospital or house of Saint Bartholomew of
+                    the town of Bristol, six messuages, three hundred acres of land, eighty acres of meadow, two hundred
+                    acres of pasture, ten acres of wood and forty shillings of rent with appurtenances in Kingsmarsh
+                    and in the parishes of Clifton, Wickwarr, Stapulton over Horfield and Sodbury as their right and
+                    inheritance. And into which the same George has no entry except after disseisin which Henry Hunt
+                    unjustly and without judgemet has made thereof to the aforesaid Robert, Nicholas and John after
+                    the first and others.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
