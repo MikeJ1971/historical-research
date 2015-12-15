@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nicholas Thorne to Thomas Cromwell.
+                    <date when="1535-12-28">28 December 1535</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2015-12">December 2015</date>
+                <idno type="UUID">c885c655-2647-49c6-ac23-030f850e5a43</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>SP 1/99, f. 184-184v</idno>
+                        <msName>State Papers, Henry VIII: General Series</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>A letter from Nicholas Thorne, merchant of Bristol, to Thomas Cromell regarding the building
+                    of a ship.</p>
+
+                <p>The letter was calendared in <title>Letters and Papers, Henry VIII</title>, IX, 1025.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Thorne</item>
+                        <item>Cromwell</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+
+                <pb n="f. 184"/>
+
+                <p>Right honorabull And my singular good maister my <lb/>
+                dewty In right humbull wise done /</p>
+
+                <p>hit may pleyse you to <choice><abbr>und<hi rend="superscript">r</hi>stande</abbr>
+                <expan>und<ex>er</ex>stande</expan></choice> that after my beyng <lb/>
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice>
+                <choice><abbr>yo<hi rend="superscript">r</hi></abbr><expan>yo<ex>u</ex>r</expan></choice> 
+                maistershippe I <expan>coven<ex>a</ex>ntyd</expan> <choice><abbr>w<hi rend="superscript">t</hi></abbr>
+                <expan>w<ex>ith</ex></expan></choice> ashippe wright namyd <lb/> 
+                Richard Boley dwelling by Darthmoth for the new makyng <lb/>
+                the Savior wiche is Acowmptid A man of good knowlege In that <lb/>
+                arte / as of late his knowlege in this towne hath <lb/> byn experymentid /</p>
+
+                <p>the said Richard Boley have pewntyd to be here by the <lb/>
+                mydes of ffevrell next and to bryng <choice><abbr>w<hi rend="superscript">t</hi></abbr>
+                <expan>w<ex>ith</ex></expan></choice> hym at the <lb/> lest xx Carpynters / And the rest
+                nedfull shalbe <expan>p<ex>ro</ex>vidyd</expan> <lb/> hereofor the spedy fortherance of the said worke <lb/>
+                and to have In aredynese <add place="above"><expan>tymb<ex>er</ex></expan></add> agaynest ther 
+                <expan>com<ex>m</ex>yng</expan> / yt <lb/>
+                may pleyse <choice><abbr>yo<hi rend="superscript">r</hi></abbr><expan>yo<ex>u</ex>r</expan></choice> 
+                masistershippe to derect <choice><abbr>yo<hi rend="superscript">r</hi></abbr><expan>yo<ex>u</ex>r</expan></choice> 
+                favorabull <expan>l<ex>ett</ex>res</expan> <lb/> to the Abbote of Keynsam the Beshope and 
+                <choice><abbr>p<hi rend="superscript">or</hi></abbr><expan>pr<ex>i</ex>or</expan></choice> of Bathe <lb/>
+                And to <expan>S<ex>ir</ex></expan> Richard Bromfeld <expan>M<ex>aster</ex></expan> of Sancte Johns / In <lb/>
+                Reclyf pyt in Bristowe to <expan>delyv<ex>er</ex></expan> unto me suche tymber as <lb/>
+                is growyng In ther lordshippes nedfull for the Bylding <choice><abbr>yo<hi rend="superscript">r</hi></abbr>
+                <expan>yo<ex>u</ex>r</expan></choice> <lb/> shippe to / xxx or xl <expan>pec<ex>es</ex></expan> 
+                of <expan>ev<ex>er</ex></expan> of them</p>
+
+                <p>Allso here is <expan>dyv<ex>er</ex>se</expan> other <expan>wood<ex>es</ex></expan> in Walles and forest <lb/>
+                of Dene ny the Watersid belongyng unto the <expan>Kyng<ex>es</ex></expan><lb/>
+                Highnes and to <expan>s<ex>er</ex>ten</expan> Relygyos howsses wiche be <lb/>
+                Verey nesserye for <choice><abbr>yo<hi rend="superscript">r</hi></abbr><expan>yo<ex>u</ex>r</expan></choice> 
+                bussenes where <add place="above">of</add> here After I <lb/> shall advertese 
+                <choice><abbr>yo<hi rend="superscript">r</hi></abbr><expan>yo<ex>u</ex>r</expan></choice> 
+                Maistershippe / as <expan>know<ex>ith</ex></expan> owr lord <lb/> he send you agood new yere 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> Increse of
+                honor and <lb/> long lyf / from Bristow the xx viijth day of Desember</p>
+
+                <p>By <choice><abbr>yo<hi rend="superscript">r</hi></abbr><expan>yo<ex>u</ex>r</expan></choice> owne
+                aftyr his most bound duty</p>
+
+                <p>Nicholas Thorne</p>
+
+                <pb n="f. 184v"/>
+
+                <p>A <expan>l<ex>ett</ex>re</expan> from Nicholas <lb/> Thorne /</p>
+
+                <p>To the right honorabull And <lb/> my Singuler good Maister <lb/>
+                <expan>M<ex>aster</ex></expan> Thomas Cromwell the <lb/>
+                <expan>Kyng<ex>es</ex></expan> pryncipall Secretary</p>
+            </div>
+        </body>
+    </text>
+</TEI>
