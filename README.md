@@ -1,13 +1,31 @@
-Transcriptions of historical documents. This repository holds the
-LaTex documents that are used to generate PDF file that are
-available on http://bristollia.org/
+#Transcripts of historical document
 
-Playing with TEI ...
+This repository holds either LaTex or TEI XML documents. These are used to generate PDF documents, some of which are available on http://bristollia.org/
 
-Overrding in a bristollia profile. TEIC stylesheets here: https://github.com/TEIC/Stylesheets
+The documents are related to my research interests and provide an opportunity to learn LaTex and TEI XML.
 
-./teitohtml5 --profiledir=../../historical-research/tei-xsl/profiles --profile=bristollia ~/Dropbox/test.xml ~/Dropbox/test.html
+To process the TEI XML documents, I use a shell script which uses Saxon to parse the XML and XSL file to generate a LaTex document and pdflatex then creates a PDF document.
 
-Running my own xsl file (needs Saxon jar):
+A SAXON environment variable is needed:
 
-java -jar ~/Development/Libraries/Saxon/saxon9he.jar -xsl:../../../workspaces/historical-research/tei-xsl/bristollia-latex.xsl -s:../../../workspaces/historical-research/BRO/JOr-1-1-ff-213v-214v-Nicholas-Thorne-grant.xml
+```
+export SAXON=/Users/mikejones/Development/Libraries/Saxonsaxon9he.jar
+```
+
+Create a PDF with the text in portrait:
+
+```
+sh teitopdf.sh TNA/SP/SP-1-99-f184.xml orient=portrait
+```
+
+Create a PDF with the text in portrait and line breaks represented by a pipe (|):
+
+```
+sh teitopdf.sh TNA/SP/SP-1-99-f184.xml orient=portrait newline=pipe
+```
+
+Create a PDF with the text in landscape:
+
+```
+sh teitopdf.sh TNA/SP/SP-1-99-f184.xml orient=landscape
+```
