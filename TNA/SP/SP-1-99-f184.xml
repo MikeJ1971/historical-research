@@ -32,10 +32,15 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>A letter from Nicholas Thorne, merchant of Bristol, to Thomas Cromell regarding the building
-                    of a ship.</p>
-
-                <p>The letter was calendared in <title>Letters and Papers, Henry VIII</title>, IX, 1025.</p>
+                <p>A letter from Nicholas Thorne, merchant of Bristol, to Thomas Cromwell, dated 28 December 1535.
+                   Since their meeting Thorne has commissioned Richard Boley, an experienced shipwright from
+                   near Dartmouth, for the 'new makyng' of a ship called 'The Saviour'. Boley will bring at
+                   least twenty carpenters to Bristol by the middle of next February and Thorne needs timber
+                   ready for their arrival. He asks Cromwell to write to the abbot of Keynsham, the bishop and
+                   prior of Bath, and Sir Richard Bromfield the Master of St. John's in Redcliffe for each to send
+                   thirty or forty pieces of timber. Thorne also points out that the King and religious houses
+                   own woods in Wales and the Forest of Dean that are near the waterside.</p>
+                <p>The letter was also calendared in <title>Letters and Papers, Henry VIII</title>, IX, 1025.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -45,6 +50,11 @@
                     <list>
                         <item>Thorne</item>
                         <item>Cromwell</item>
+                        <item>Nicholas Thorne</item>
+                        <item>Richard Boley</item>
+                        <item>Ships</item>
+                        <item>Thomas Cromwell</item>
+                        <item>The Saviour</item>
                     </list>
                 </keywords>
             </textClass>
