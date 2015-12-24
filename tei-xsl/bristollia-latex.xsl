@@ -38,7 +38,7 @@
 
     <!-- date -->
       <xsl:variable name="subjectdate"
-        select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/tei:date/text()"/>  
+        select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/tei:date[1]/text()"/>  
 
     <!-- year -->
       <xsl:variable name="subjectyear">
