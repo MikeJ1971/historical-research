@@ -32,7 +32,8 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Letters and Papers Henry VIII, VI, 1696</p>
+                <p>A letter from Nicholas Thorne, merchant of Bristol, to Thomas Cromwell, 1533.</p>        
+                <p>The letter was also calendared in <title>Letters and Papers, Henry VIII</title>, VI, 1696.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -51,12 +52,11 @@
         <body>
             <div type="text" xml:lang="en">
                 <p>Right worshipfull and my singular good maister /</p>
-                <p>Seing it hath pleasid you to take the payne to speke to mylorde
-                Chauncellour <lb/> in my matier / That it will now please you to
-                desier hym to see thend of my <lb/> said matier / My request is
-                that I myght be at the same libertie as I was <lb/>
+                <p>Seing it hath pleasid you to take the payne to speke to my lorde Chauncellour <lb/>
+                in my matier / That it will now please you to desier hym to see thend of my <lb/>
+                said matier / My request is that I myght be at the same libertie as I was <lb/>
                 at when I come to this Citie to sue the  Executours to 
-                <expan>p<ex>er</ex>o<ex>r</ex>me</expan> the legacies <lb/>
+                <expan>p<ex>er</ex>fo<hi rend="superscript">r</hi>me</expan> the legacies <lb/>
                 in England / seing they had in their handes to do yt / and made
                 aunswere <lb/> to these <expan>p<ex>er</ex>sones</expan> to whome
                 the legacies were bequethed / that they fawted <lb/> to 
@@ -79,26 +79,26 @@
                 brother <expan>p<ex>er</ex>formyd</expan> <lb/> and to repair towardes
                 my howse and to folow my pore trate and lyving <lb/> I will take at my
                 charge and be bounde to see paide the legacies and almaner <lb/> of
-                debtes in Spayne to pay all other maner od debtes knowyn as this <lb/>
-                day and unkowyn / And to ?save <choice><abbr>Executo<hi
+                debtes in Spayne to pay all other maner of debtes knowyn as this <lb/>
+                day and unkowyn / And to save the said <choice><abbr>Executo<hi
                 rend="superscript">r</hi></abbr><expan>Executor</expan></choice>
-                harmeles agenst <lb/> almen for the legacies and debtes of the 
-                <expan>Testom<ex>ent</ex></expan> / And more <expan>ev<ex>er</ex>y</expan>
+                harmeles ayenst <lb/> almen for the legacies and debtes of the 
+                <expan>Testam<ex>ent</ex></expan> / And more eny
                 other <lb/> thing reasonable that may be thought by your mastership that
-                I <lb/> ought to doo for the discharge of the saode Executour / So that
-                in like wise <lb/> the said Executour <choice><abbr>w<hi
+                I <lb/> ought to doo for the discharge of the saide Executour / So that
+                in <lb/> like wise the said Executour <choice><abbr>w<hi
                 rend="superscript">t</hi>oute</abbr><expan>w<ex>ith</ex>oute</expan>
-                </choice> ?delacon be bounde to Accomplissh <lb/> the legacies in
+                </choice> delacon be bounde to Accomplissh <lb/> the legacies in
                 England <choice><abbr>w<hi rend="superscript">t</hi></abbr>
                 <expan>w<ex>ith</ex></expan></choice> spede seing that he hath redy
                 money <add place="above">to</add> do yt / <lb/> The greate busynes that
-                you have had these dayes past hath caused <lb/> me not to resorte unto
+                you have had these dayes past hath causid <lb/> me not to resorte unto
                 <choice><abbr>yo<hi rend="superscript">r</hi></abbr>
                 <expan>y<ex>our</ex></expan></choice> maistership ( in Whome next to god )
                 is <lb/> myne onely trust of comforte / And yf in this it Were 
                 <choice><abbr>yo<hi rend="superscript">r</hi></abbr>
                 <expan>y<ex>our</ex></expan></choice> pleasure <lb/> to be so good maister
-                to help me to a quyett ende / I am and shalbe / <lb/> greatlye bound to
+                to help me to a quyet ende / I am and shalbe / <lb/> greatlye bound to
                 prey for <choice><abbr>yo<hi rend="superscript">r</hi></abbr>
                 <expan>y<ex>our</ex></expan></choice>  maistership during my lyfe /</p>
                 <p>By <choice><abbr>yo<hi rend="superscript">r</hi></abbr>
