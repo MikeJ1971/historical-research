@@ -249,4 +249,7 @@
         </xsl:choose>
     </xsl:template>
 
+    <xsl:template match="tei:geo"></xsl:template>
+    
+
 </xsl:stylesheet>

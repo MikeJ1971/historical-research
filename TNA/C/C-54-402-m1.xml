@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Close Roll for 25 Henry VIII (<date when="1533-04-22">22 April 1533</date> to
+                <date when="1534-04-21">21 April 1534</date>).</title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2015-02">December 2015</date>
+                <idno type="UUID">6b8613e6-48e9-46e2-9ade-8661a9525d28</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>TNA, C 54/402, m. 1 </idno>
+                        <msName>Chancery and Supreme Court of Judicature: Close Rolls</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Something here.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Thorne</item>
+                        <item>Cromwell</item>
+                        <item>Nicholas Thorne</item>
+                        <item>Robert Thorne</item>
+                        <item>Emanuel Lucar</item>
+                        <item>Paul Withypool</item>
+                        <item>Robert Pakington</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+                <p><expan>Nich<ex>ola</ex>us</expan> Thorne de Villa <expan>Bristoll<ex>ie</ex></expan> 
+                mercator <expan>frat<ex>er</ex></expan> et heres <expan>Rob<ex>er</ex>ti</expan> Thorne mercatoris 
+                <expan>defunct<ex>i</ex></expan> coram <expan>d<ex>omi</ex>no</expan> <expan>R<ex>ege</ex></expan> in 
+                <expan>Cancellar<ex>ia</ex></expan> sua <lb/> <expan>p<ex>er</ex>sonalit<ex>er</ex></expan> constitutus
+                recognouit se debere eidem <expan>d<ex>omi</ex>no</expan> Regi <expan>quinq<ex>ue</ex>millia</expan>
+                <expan>libra<ex>rum</ex></expan> <expan>st<ex>er</ex>lingo<ex>rum</ex></expan>
+                <expan>soluend<ex>is</ex></expan> eidem <expan>d<ex>omi</ex>no</expan> Regi <lb/> <expan>hered<ex>ibus</ex></expan>
+                <expan>executorib<ex>us</ex></expan> et <expan>assign<ex>atis</ex></expan> suis vicesimo die Julij
+                <expan>p<ex>ro</ex>x<ex>ime</ex></expan> <expan>futur<ex>o</ex></expan> Et nisi <expan>fec<ex>er</ex>it</expan> 
+                concessit <expan>q<ex>uo</ex>d</expan> <expan>d<ex>ic</ex>ta</expan> pecunia <expan>levet<ex>ur</ex></expan> de 
+                <expan>t<ex>er</ex>ris</expan> et cata[llis] <lb/> suis <expan>ubicumq<ex>ue</ex></expan> 
+                <expan>invent<ex>a</ex></expan> <expan>fu<ex>er</ex>int</expan> infra <expan>regnu<ex>m</ex></expan> 
+                <expan>Angl<ex>iae</ex></expan> vel alibi <expan>T<ex>este</ex></expan> <expan>R<ex>ege</ex></expan> apud 
+                <expan>Westm<ex>onasterium</ex></expan> xxvj die <expan>Novembr<ex>is</ex></expan> <note>Nicholas Thorne 
+                of the town of Bristol, merchant, brother and heir of Robert Thorne, deceased merchant,
+                appeared in person before the Lord King in his Chancery acknowledged himself to owe the same Lord King
+                five thousand pounds which is to be paid to the same Lord King, his heirs, executors and assigns the
+                twentieth day of July next coming. And unless he will do this he has granted that the said money may
+                be raised of his lands and chattels wheresoever they are found withing the kingdom of England and
+                elsewhere. Witness by the King at Westminster the 26th day of November.</note></p> 
+
+                <p>The condicion of this recognisaunce is such that if the above bounden Nicholas his heires and
+                executors do hold k[epe] <lb/> <expan>obs<ex>er</ex>ve</expan> obey <expan>p<ex>er</ex>forme</expan>
+                and fulfill all and singler such clauses articles and other <expan>thyng<ex>es</ex></expan> as of
+                their partie and behalf[e] <lb/> air to be holden done kept <expan>obs<ex>er</ex>ved</expan> obeyed
+                <expan>p<ex>er</ex>formed</expan> and fulfilled conteyned and specifyed in a decree remaynyng <lb/>
+                in the <expan>Kyng<ex>es</ex></expan> Court of <expan>Chaunc<ex>er</ex>y</expan> made by the right
+                <choice><abbr>hon<hi rend="superscript">r</hi>able</abbr><expan>honrable</expan></choice> Sir Thomas Audeley 
+                Knyght Lord Chauncellor of Englond <lb/> upon a bill of complaynt exhibite in theseid Court of Chauncery
+                by the above named Nicholas <choice><abbr>ageyn<hi rend="superscript">st</hi></abbr><expan>ageynst</expan></choice> 
+                Emanuell <lb/> Lucar Paule Wythypoll and <expan>Rob<ex>er</ex>t</expan> Pakyngton in <expan>man<ex>ner</ex></expan>
+                and forme as in the same decre is <choice><abbr>exp<hi rend="superscript">r</hi>ssed</abbr>
+                <expan>exp<ex>re</ex>ssed</expan></choice> and declared as <lb/> thesame decree beryng date the 
+                <choice><abbr>xxiij<hi rend="superscript">th</hi></abbr><expan>xxiijth</expan></choice> day 
+                of <expan>Novemb<ex>e</ex>r</expan> in the 
+                <choice><abbr>xxv<hi rend="superscript">th</hi></abbr><expan>xxvth</expan></choice> yere of kyng henry
+                the <choice><abbr>viij<hi rend="superscript">th</hi></abbr><expan>viijth</expan></choice> more playnly appereth <lb/>
+                that then this recognisaunce to be voide and none effect or <expan>ell<ex>es</ex></expan> to stand and be
+                alwey in his full power <lb/> strenght and vertue /</p>
+
+                <p>Idem <expan>Nich<ex>ola</ex>us</expan> coram <expan>d<ex>omi</ex>no</expan> <expan>R<ex>ege</ex></expan> in 
+                <expan>Cancellar<ex>ia</ex></expan> sua <expan>p<ex>er</ex>sonalit<ex>er</ex></expan> constitutus
+                recognouit se debere <expan>p<ex>re</ex>fato</expan> <expan>d<ex>omi</ex>no</expan> Regi mille <lb/> libras
+                <expan>st<ex>er</ex>lingo<ex>rum</ex></expan> <expan>soluend<ex>is</ex></expan> <choice><abbr>&amp;c</abbr>
+                <expan>etc.</expan></choice> Et nisi <expan>fec<ex>er</ex>it</expan>
+                <choice><abbr>&amp;c</abbr><expan>etc.</expan></choice> Ut <choice><abbr>sup<hi rend="superscript">ra</hi></abbr>
+                <expan>supra</expan></choice> <note>The same Nicholas appeared in person before the Lord King in his Chancery 
+                acknowledged himself to owe the aforesaid Lord King one thousand pounds etc. And unless he will do this etc.
+                As above.</note></p>
+
+                <p>The condicion of this recognisaunce is such that if the abovebounden Nicholas his heres and executors at all <lb/>
+                tymes hereafter discharge acquyte and save harmelesse theabove named Emanuell his executors and 
+                <expan>administrat<ex>ors</ex></expan> <lb/> and <expan>ev<ex>er</ex>y</expan> of them ayenst all
+                and <expan>ev<ex>er</ex>y</expan> <expan>p<ex>er</ex>son</expan>
+                and <expan>p<ex>er</ex>sons</expan> of and for all such <expan>dett<ex>es</ex></expan> sumez of money and 
+                other thyngis <lb/> which they or any of them shall hereafter by any maner of meanys clayme aske or demaunde of 
+                theseid <lb/> Emanuell his executors or administrators
+                by reason of any dett legacy dewty or accompt of the above  named <lb/> <expan>Rob<ex>er</ex>t</expan>
+                Thorne decessed or by reason or occasion of the testament and last will of
+                thesame <expan>Rob<ex>er</ex>t</expan> except only such <lb/> <expan>dett<ex>es</ex></expan> duties and legacies which
+                be lymyted and assigned to be payed by theseid Emanuell by a decree made in <lb/> the <expan>Kyng<ex>es</ex></expan>
+                Court of <expan>Chaunc<ex>er</ex>y</expan> barying date the xxiij day of November in the 
+                <choice><abbr>xxv<hi rend="superscript">th</hi></abbr><expan>xxvth</expan></choice> yere of the reigne of Kyng Henry <lb/>
+                the <choice><abbr>Viij<hi rend="superscript">th</hi></abbr><expan>viijth</expan></choice> made by the right honorable
+                Sir Thomas Audeley Knyght Lord Chaunceller of Englond upon a bill <lb/> of complaynt exhibited to the Lord Chaunceler
+                in the <expan>Kyng<ex>es</ex></expan> Court of <expan>Chaunc<ex>er</ex>y</expan> by theseid Nicholas
+                <expan>ageyn<ex>st</ex></expan> <lb/> theseid Emanuell Powle Wythypoll and <expan>Rob<ex>er</ex>t</expan> Payyngton 
+                as by the same decree remaynyng in theseid <lb/> Court of <expan>Chaunc<ex>er</ex>y</expan> more playnly appereth
+                of Recorde that then this recognysaunce to be voide and of non effect <lb/> or <expan>ell<ex>es</ex></expan> to stand
+                and be in his full strength and vertue /</p>
+
+                <p>Idem <expan>Nich<ex>ola</ex>us</expan> coram <expan>d<ex>omi</ex>no</expan> <expan>R<ex>ege</ex></expan> in 
+                <expan>Cancellar<ex>ia</ex></expan> sua <expan>p<ex>er</ex>sonalit<ex>er</ex></expan> constitutus
+                recognouit se debere <expan>p<ex>re</ex>fato</expan> <expan>d<ex>omi</ex>no</expan> Regi <lb/> ducentas marcas
+                <expan>st<ex>er</ex>lingo<ex>rum</ex></expan> <expan>soluend<ex>is</ex></expan> <choice><abbr>&amp;c</abbr>
+                <expan>etc.</expan></choice> Et nisi <expan>fec<ex>er</ex>it</expan>
+                <choice><abbr>&amp;c</abbr><expan>etc.</expan></choice> Ut <choice><abbr>sup<hi rend="superscript">ra</hi></abbr>
+                <expan>supra</expan></choice> <note>The same Nicholas appeared in person before the Lord King in his Chancery 
+                acknowledged himself to owe the aforesaid Lord King one two hundred marks etc. And unless he will do this etc.
+                As above.</note></p>
+
+                <p>The condicion of this recognisaunce is such Wher theseid Emmanuell is appoynted by a decree made in the 
+                <expan>kyng<ex>es</ex></expan> <lb/> Court of Chauncery to <expan>delyv<ex>er</ex></expan> to the above
+                bounden Nicholas as moche plate as amounteth to the some of one <lb/> hundreth <expan>pound<ex>es</ex></expan>
+                <expan>st<ex>er</ex>lyng</expan> to the use of <expan>Rob<ex>er</ex>t</expan> Thorne son of theseid Nicholas in 
+                <exapn>contentac<ex>i</ex>on</exapn> and <expan>satissfact<ex>i</ex>on</expan> of one <lb/> hundreth 
+                <expan>pound<ex>es</ex></expan> <expan>st<ex>er</ex>lyng</expan> bequethed to the seid <expan>Rob<ex>er</ex>t</expan> Thorne the son by the testament and last Will <lb/> of the seid <expan>Rob<ex>er</ex>t</expan> Thorne decessed if
+                theseid Nicholas his heirez and executors havyng theseid plate <expan>delyv<ex>er</ex>ed</expan> <lb/>
+                dyscharge save and kepe harmeles theseid Emanuell his executors and administrators and <expan>ev<ex>er</ex>y</expan>
+                of them ageyne <lb/> theseid <expan>Rob<ex>er</ex>t</expan> Thorne the son and for theseid C li
+                <expan>st<ex>er</ex>lyng</expan> bequethed to hym by theseid <expan>Rob<ex>er</ex>t</expan> <lb/>
+                Thorne decessed by theseid testament and last Will of thesame <expan>Rob<ex>er</ex>t</expan> Thorne the testator
+                and of and <lb/> for <expan>ev<ex>er</ex>y</expan> <expan>p<ex>ar</ex>te</expan> and <expan>p<ex>ar</ex>cell</expan>
+                of the same that then this <expan>p<ex>re</ex>sent</expan> recognysaunce to be voide and of none <lb/>
+                effect or <expan>ell<ex>es</ex></expan> to stand and be alwayes in his full power strength and vertue /</p>
+
+                <p>Emanuell Lucar mercator coram <expan>d<ex>omi</ex>no</expan> <expan>R<ex>ege</ex></expan> in 
+                <expan>Cancellar<ex>ia</ex></expan> sua <lb/> <expan>p<ex>er</ex>sonalit<ex>er</ex></expan> constitutus
+                recognouit se debere <expan>Nich<ex>ola</ex>o</expan> <lb/> Thorne de Villa <expan>Bristoll<ex>ie</ex></expan> 
+                mercatori fratri <choice><abbr>&amp;</abbr><expan>et</expan></choice> <expan>hered<ex>i</ex></expan>
+                <expan>Rob<ex>er</ex>ti</expan> Thorne mercatoris <expan>defunct<ex>i</ex></expan> mille libras 
+                <expan>st<ex>er</ex>lingo<ex>rum</ex></expan> <lb/> <expan>Soluend<ex>is</ex></expan> eidem
+                <expan>Nich<ex>ola</ex>o</expan> <expan>executorib<ex>us</ex></expan> et <expan>assign<ex>atis</ex></expan>
+                suis decimo octavo die <expan>Decembr<ex>is</ex></expan> <expan>p<ex>ro</ex>x<ex>ime</ex></expan>
+                <expan>futur<ex>o</ex></expan> Et nisi <expan>fec<ex>er</ex>it</expan>
+                <choice><abbr>&amp;c</abbr><expan>etc.</expan></choice> <expan>T<ex>este</ex></expan> <expan>R<ex>ege</ex></expan>
+                apud <expan>Westm<ex>onasterium</ex></expan> xj die <expan>Decembr<ex>is</ex></expan> <note>Emanuel Lucar, merchant,
+                appeared in person before the Lord King in his Chancery acknowledged himself to owe to Nicholas Thorne of the town 
+                of Bristol, merchant, brother and heir of Robert Thorne, deceased merchant, one thousand pounds sterling of money
+                to the said Nicholas, his executors and heirs, the 18th dat of December next coming. And unless he will do
+                this etc. Witness by the King at Westminster the 11th day of December.</note></p>
+                
+                <p>The condicion of this recognisaunce is such that if the above bounde Emanuell Lucar do well and truely <lb/>
+                <expan>p<ex>er</ex>fourme</expan> fulfyll <choice><abbr>&amp;</abbr><expan>and</expan></choice> kepe all and
+                singular suche articles as be comprised in a decree beryng date 
+                <choice><abbr>xxiij<hi rend="superscript">th</hi></abbr><expan>xxiijth</expan></choice> day of <lb/>
+                <expan>Novemb<ex>e</ex>r</expan> in the <choice><abbr>xxv<hi rend="superscript">th</hi></abbr>
+                <expan>xxvth</expan></choice> yere of kyng Henry the <choice><abbr>Viij<hi rend="superscript">th</hi></abbr>
+                <expan>viijth</expan></choice> made by the right <choice><abbr>hon<hi rend="superscript">r</hi>able</abbr>
+                <expan>honrable</expan></choice> Sir Thomas Audeley Knight <lb/> Lord Chaunceller of Englond in the 
+                <expan>matt<ex>er</ex></expan> of variaunce betwene the above named Nicholas Thorne and the <lb/>
+                seid Emanuell Lucar <add position="above"><choice><abbr>&amp;</abbr><expan>and</expan></choice> other</add> 
+                which of the part of theseid Emanuell ought to be <expan>p<ex>er</ex>formed</expan> fulfilled and kepte <lb/>
+                that then this recognysauns to be voide or <expan>ell<ex>es</ex></expan> to stand in his full strenght and vertue /</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>
