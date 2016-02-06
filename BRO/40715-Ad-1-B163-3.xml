@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Robert Thorne, Nicholas Thorne and John Goodriche vs. George Croft,
+                       master of St. Bartholomew's Hospital, Bristol. Common recovery.
+                       Common Pleas, Easter term, <date when="1532">1532</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2016-2">February 2016</date>
+                <idno type="UUID">62306853-8e32-4254-9770-373890468e8f</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>CP 40/1073, rots. 354-354d</idno>
+                        <msName>Court of Common Pleas: Plea Rolls</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Exemplification of a Common Recovery.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Thorne</item>
+                        <item>Robert Thorne</item>
+                        <item>Nicholas Thorne</item>
+                        <item>George Croft</item>
+                        <item>Common Pleas</item>
+                        <item>Common Recovery</item>
+                        <item>Bristol</item>
+                        <item>Gloucestershire</item>
+                        <item>St. Bartholomew's</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="la">
+                <p>
+                    [H]enricus Octauus Dei <expan>Gra<ex>tia</ex></expan> <expan>Angl<ex>ie</ex>></expan> et
+                    <expan>Franc<ex>ie</ex></expan> Rex fidei defensor <expan>D<ex>omi</ex>n<ex>u</ex>s</expan>
+                    <expan>Hib<ex>er</ex>n<ex>ie</ex></expan> <expan>Omnib<ex>us</ex></expan> ad quos
+                    <expan>p<ex>re</ex>sentes</expan> <expan>l<ex>itte</ex>re</expan> <expan>p<ex>er</ex>uen<ex>er</ex>int</expan>
+                    <expan>q<ex>uo</ex>d</expan> <expan>Rob<ex>er</ex>tus</expan> Thorne <expan>Nich<ex>ola</ex>us</expan> Thorne et 
+                    <expan>Joh<ex>ann</ex>es</expan> Goderiche <expan>cl<ex>er</ex>icus</expan> in curia nostra
+                    coram justiciariis nostris apud Westmonasterium ?implcitanerunt
+
+
+
+                <p><expan>Rob<ex>er</ex>tus</expan> Thorne <expan>Nich<ex>ola</ex>us</expan> Thorne et 
+                    <expan>Joh<ex>ann</ex>es</expan> Goderiche <expan>cl<ex>er</ex>icus</expan>
+                    <expan>p<ex>er</ex></expan> Thomam <expan>Hym<ex>er</ex>ford</expan> <expan>attorn<ex>atum</ex></expan>
+                    <expan>suu<ex>m</ex></expan> <lb/> <expan>pet<ex>unt</ex></expan> <expan>v<ex>er</ex>sus</expan> 
+                    <expan>Georg<ex>iu</ex>m</expan> Crofte <expan>cl<ex>er</ex>ic<ex>u</ex>m</expan> 
+                    <expan>mag<ex>ist</ex>r<ex>u</ex>m</expan> hospitalis sive domus <expan>s<ex>anc</ex>ti</expan>
+                    <expan>Barth<ex>olome</ex>i</expan> ville <expan>Bristoll<ex>ie</ex></expan> quadraginta <lb/>
+                    mesuagia triginta gardina decem acras <expan>t<ex>er</ex>re</expan> sex acras prati viginti 
+                    acras pasture <choice><abbr>&amp;</abbr><expan>et</expan></choice> quadraginta <lb/> 
+                    <expan>solidat<ex>as</ex></expan> redditus cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> in 
+                    Villa <expan>Bristoll<ex>ie</ex></expan> ac in parochiijs <expan>s<ex>anc</ex>ti</expan>
+                    Augustini <expan>s<ex>anc</ex>ti</expan> <expan>Mich<ex>ael</ex>is</expan> <expan>s<ex>anc</ex>ti</expan>
+                    Jacobi <choice><abbr>&amp;</abbr><expan>et</expan></choice> <expan>s<ex>anc</ex>ti</expan> <lb/>
+                    <expan>Ph<ex>ilipp</ex>i</expan> in suburbijs ville <expan>p<ex>re</ex>d<ex>ic</ex>te</expan>
+                    ut ius <choice><abbr>&amp;</abbr><expan>et</expan></choice> hereditatem suam Et in que idem Georgius non
+                    <expan>h<ex>ab</ex>et</expan> <expan>ingr<ex>essu</ex>m</expan> <lb/> nisi post 
+                    <expan>dissei<ex>sin</ex>am</expan> quam <expan>Henr<ex>icus</ex></expan> Hunt inde iniuste
+                    <choice><abbr>&amp;</abbr><expan>et</expan></choice> sine iudicio <expan>fec<ex>it</ex></expan>
+                    <expan>p<ex>re</ex>fat<ex>is</ex></expan> <expan>Rob<ex>er</ex>to</expan>
+                    <expan>Nich<ex>ola</ex>o</expan> <choice><abbr>&amp;</abbr><expan>et</expan></choice> 
+                    <expan>Joh<ex>ann</ex>i</expan> post <lb/> <expan>p<ex>rima</ex>m</expan>
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice><lb/>
+                    Et <expan>p<ex>re</ex>d<ex>ic</ex>tus</expan> Georgius <expan>p<ex>er</ex></expan> 
+                    <expan>Joh<ex>ann</ex>em</expan> Reymond <expan>attorn<ex>atum</ex></expan> <expan>suu<ex>m</ex></expan>
+                    <expan>ven<ex>it</ex></expan> Et alias 
+                    <expan>voc<ex>at</ex></expan> inde ad <expan>War<ex>antum</ex></expan> Thomam West <lb/> militem 
+                    <expan>d<ex>o</ex>m<ex>i</ex>n<ex>i</ex></expan> La Warre qui modo <expan>p<ex>er</ex></expan> 
+                    <expan>sum<ex>monitionem</ex></expan> ei in <expan>com<ex>itatu</ex></expan> 
+                    <expan>p<ex>re</ex>d<ex>ic</ex>to</expan> <expan>f<ex>ac</ex>tam</expan> <expan>p<ex>er</ex></expan>
+                    <expan>Ric<ex>ardu</ex>m</expan> Sythemore <expan>attorn<ex>atum</ex></expan> <expan>suu<ex>m</ex></expan> <lb/>
+                    <expan>similit<ex>er</ex></expan> <expan>ven<ex>it</ex></expan> Et gratis <expan>ten<ex>ementa</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> ei
+                    <expan>War<ex>antizat</ex></expan> <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> Et <expan>sup<ex>er</ex></expan> hoc
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan> et
+                    <expan>Joh<ex>ann</ex>es</expan> <lb/> <expan>pet<ex>unt</ex></expan> <expan>v<ex>er</ex>sus</expan> 
+                    <expan>ip<ex>su</ex>m</expan> Thomam tenentem <expan>p<ex>er</ex></expan> <expan>War<ex>antiam</ex></expan>
+                    suam <expan>ten<ex>ementa</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> cum
+                    <expan>p<ex>er</ex>tin<ex>enciis</ex></expan> in forma <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> 
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    Et unde <lb/> <expan>di<ex>cunt</ex></expan> quod <expan>ip<ex>si</ex>met</expan> fuerunt 
+                    <expan>sei<ex>sa</ex>ti</expan> de <expan>ten<ex>ementis</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>tis</expan>
+                    cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> in <expan>d<ex>o</ex>m<ex>ini</ex>co</expan> suo ut de feodo 
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> iure tempore <lb/> pacis tempore <expan>d<ex>omi</ex>ni</expan> 
+                    Regis nunc <expan>capiend<ex>o</ex></expan> inde <expan>explec<ex>ias</ex></expan> ad valenciam 
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> Et in
+                    quo <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    Et inde <expan>p<ex>ro</ex>duc<ex>unt</ex></expan> <lb/> sectam <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> <lb/> Et <expan>p<pre>re</pre>d<pre>ic</pre>tus</expan>
+                    Thomas tenens <expan>p<ex>er</ex></expan> <expan>war<ex>antiam</ex></expan> suam
+                    <expan>defend<ex>it</ex></expan> ius <expan>suu<ex>m</ex></expan> quando 
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    Et <expan>ult<ex>er</ex>ius</expan> <expan>voc<ex>at</ex></expan> inde ad <expan>war<ex>antum</ex></expan> 
+                    <lb/> Thomam Chapman qui <expan>pre<ex>se</ex>ns</expan> est hic in <expan>cur<ex>ia</ex></expan> in 
+                    <expan>p<ex>ro</ex>pria</expan> <expan>p<ex>er</ex>sona</expan> sua Et gratis <expan>ten<ex>ementa</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> <lb/> ei
+                    <expan>war<ex>antat</ex></expan> <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> Et <expan>sup<ex>ra</ex></expan> hoc 
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan>
+                    et <expan>Joh<ex>ann</ex>es</expan> <expan>pet<ex>unt</ex></expan> <expan>v<ex>er</ex>sus</expan>
+                    <expan>ip<ex>su</ex>m</expan> Thomam Chapman <expan>tenen<ex>tem</ex></expan> <lb/> <expan>p<ex>er</ex></expan>
+                    <expan>war<ex>antiam</ex></expan> suam <expan>ten<ex>ementa</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> 
+                    cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> in forma <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan>
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> Et unde
+                    <expan>dic<ex>unt</ex></expan> quod <expan>ip<ex>s</ex>imet</expan> fuerunt <expan>sei<ex>sa</ex>ti</expan> de 
+                    <expan>ten<ex>ementis</ex></expan> <lb/> <expan>p<ex>re</ex>d<ex>ic</ex>tis</expan> cum
+                    <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> in <expan>d<ex>o</ex>m<ex>ini</ex>co</expan> suo ut de feodo et
+                    iure tempore pacis tempore <expan>d<ex>omi</ex>ni</expan> Regis nunc <expan>capiend<ex>o</ex></expan>  <lb/> 
+                    inde <expan>explec<ex>ias</ex></expan> ad valenciam <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> Et in que <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> Et inde <expan>p<ex>ro</ex>duc<ex>unt</ex></expan>
+                    sectam <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    <lb/> Et <exoan>p<ex>re</ex>d<ex>ic</ex>tus</exoan> Thomas Chapman tenens <expan>p<ex>er</ex></expan>
+                    <expan>war<ex>antiam</ex></expan> suam <expan>defend<ex>it</ex></expan> ius <expan>suu<ex>m</ex></expan>
+                    quando <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    Et <expan>dic<ex>it</ex></expan> <expan>q<ex>uo</ex>d</expan> <expan>p<ex>re</ex>d<ex>ic</ex>tus</expan>
+                    <lb/> <expan>Henr<ex>icus</ex></expan> non <expan>disseis<ex>ivit</ex></expan>
+                    <expan>p<ex>re</ex>fat<ex>os</ex></expan> <expan>Rob<ex>er</ex>tum</expan> <expan>Nich<ex>ola</ex>um</expan>
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <expan>Joh<ex>ann</ex>em</expan>
+                    de <expan>ten<ex>ementis</ex></expan> <expan>p<ex>re</ex>d<ex>ict</ex>is</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> <expan>p<ex>ro</ex>ut</expan> ijdem 
+                    <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan> <lb/> et <expan>Joh<ex>ann</ex>es</expan> per
+                    <expan>br<ex>ev</ex>e</expan> et <expan>narrac<ex>i</ex>onem</expan> sua 
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> <expan>sup<ex>er</ex>ius</expan> <expan>suppon<ex>unt</ex></expan> Et 
+                    de hoc <expan>pon<ex>it</ex></expan> se <expan>sup<ex>ra</ex></expan> <expan>p<ex>at</ex>riam</expan>
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> <lb/>
+                    Et <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan> et 
+                    <expan>Joh<ex>ann</ex>es</expan> <expan>pet<ex>unt</ex></expan> licentiam inde interloquendi Et 
+                    <expan>h<ex>ab</ex>ent</expan> <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice>  Et postea ijdem <lb/> <expan>Rob<ex>er</ex>tus</expan> 
+                    <expan>Nich<ex>ola</ex>us</expan> et <expan>Joh<ex>ann</ex>es</expan> <expan>reven<ex>iunt</ex></expan> hic in 
+                    <expan>cur<ex>iam</ex></expan> isto eodem <expan>t<ex>er</ex>mi<ex>n</ex>o</expan> <expan>p<ex>er</ex></expan>
+                    <expan>attorn<ex>atum</ex></expan> <expan>suu<ex>m</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>t<ex>u</ex>m</expan>
+                    Et <expan>p<ex>re</ex>d<ex>ic</ex>tus</expan> Thomas <lb/> Chapman licet <expan>solempnit<ex>er</ex></expan>
+                    <expan>exact<ex>us</ex></expan> non <expan>reven<ex>it</ex></expan> set in contemptum <expan>cur<ex>ie</ex></expan>
+                    recessit et <expan>defalt<ex>am</ex></expan> <expan>fac<ex>it</ex></expan> <lb/> <expan>I<ex>de</ex>o</expan> 
+                    <expan>cons<ex>ideratum</ex></expan> est <expan>q<ex>uo</ex>d</expan> <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan>
+                    <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan> et <expan>Joh<ex>ann</ex>es</expan>
+                    <expan>recup<ex>er</ex>ent</expan> <expan>sei<ex>sin</ex>am</expan> suam <expan>v<ex>er</ex>sus</expan>
+                    <expan>p<ex>re</ex>fat<ex>um</ex></expan> <expan>Georg<ex>iu</ex>m</expan> de <lb/> <expan>ten<ex>ementis</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>tis</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> Et
+                    <expan>q<ex>uo</ex>d</expan> idem Georgius <expan>h<ex>ab</ex>eat</expan> de <expan>t<ex>er</ex>ra</expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> Thome West ad valenciam <choice><abbr>&amp;c</abbr> 
+                    <expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> <lb/> Et <expan>q<ex>uo</ex>d</expan>
+                    idem  Thomas <expan>ult<ex>er</ex>ius</expan> <expan>h<ex>ab</ex>eat</expan> de <expan>t<ex>er</ex>ra</expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> Thome Chapman ad valenciam 
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    Et idem <lb/> Thomas in <expan>mi<ex>sericordi</ex>a</expan> <choice><abbr>&amp;c</abbr><expan>et</expan></choice> 
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> Et <expan>sup<ex>ra</ex></expan> hoc
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan>
+                    et <expan>Joh<ex>ann</ex>es</expan> <expan>pet<ex>unt</ex></expan> <expan>br<ex>ev</ex>e</expan>
+                    <expan>d<ex>omi</ex>ni</expan> Regis <expan>vic<ex>ecomiti</ex></expan> <expan>com<ex>itatus</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>dirigend<ex>um</ex></expan> <lb/> de <expan>h<ex>ab</ex>ere</expan>
+                    <expan>fac<ex>iendo</ex></expan> eis <expan>plenar<ex>iam</ex></expan> <expan>sei<ex>sin</ex>am</expan> de 
+                    <expan>ten<ex>ementis</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>tis</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> Et eis
+                    <expan>concedit<ex>ur</ex></expan> retornabile hic in crastino <expan>ascencionis</expan> <lb/>
+                    <expan>d<ex>omi</ex>ni</expan> <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice>  Ad quem diem hic <expan>ven<ex>unt</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan> 
+                    et <expan>Joh<ex>ann</ex>es</expan> <expan>p<ex>er</ex></expan> <expan>attorn<ex>atum</ex></expan>
+                    <expan>suu<ex>m</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>tum</expan> et <expan>vic<ex>ecomes</ex></expan>
+                    <expan>videl<ex>icet</ex></expan> <expan>Will<ex>elmu</ex>s</expan> Cary et <expan>Joh<ex>ann</ex>es</expan> <lb/>
+                    Mauncell modo <expan>mand<ex>at</ex></expan> quod <expan>ip<ex>s</ex>e</expan> virtute 
+                    <expan>br<ex>evi</ex>s</expan> illius <expan>t<ex>erc</ex>io</expan> die May regni 
+                    <expan>d<ex>omi</ex>ni</expan> Regis nunc vicesimo quarto <expan>h<ex>ab</ex>ere</expan>
+                    <expan>fec<ex>it</ex></expan> <lb/> eisdem
+                    <expan>Rob<ex>er</ex>to</expan> <expan>Nich<ex>ola</ex>o</expan> et <expan>Joh<ex>ann</ex>i</expan>
+                    <expan>plenar<ex>ium</ex></expan> <expan>sei<ex>sin</ex>am</expan> de <expan>ten<ex>ementis</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>tis</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan>
+                    <expan>p<ex>ro</ex>ut</expan> per <expan>br<ex>ev</ex>e</expan> illud sibi <expan>p<ex>er</ex>ceptum</expan>
+                    fuit <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                </p>
+
+                    <expan>Rob<ex>er</ex>tus</expan> Thorne <expan>Nich<ex>ola</ex>us</expan> Thorne et 
+                    <expan>Joh<ex>ann</ex>es</expan> Goderiche <expan>cl<ex>er</ex>icus</expan>
+                    <expan>p<ex>er</ex></expan> Thomam <expan>Hym<ex>er</ex>ford</expan> <expan>attorn<ex>atum</ex></expan>
+                    <expan>suu<ex>m</ex></expan> <expan>pet<ex>unt</ex></expan> <lb/> <expan>v<ex>er</ex>sus</expan> 
+                    <expan>Georg<ex>iu</ex>m</expan> Crofte <expan>cl<ex>er</ex>ic<ex>u</ex>m</expan> 
+                    <expan>mag<ex>ist</ex>r<ex>u</ex>m</expan> hospitalis sive domus <expan>s<ex>anc</ex>ti</expan>
+                    <expan>Barth<ex>olome</ex>i</expan> ville <expan>Bristoll<ex>ie</ex></expan> sex mesuagia <lb/> trescentas
+                    acras <expan>t<ex>er</ex>re</expan> octoginta acras prati ducentas acras pasture decem acras bosci 
+                    <choice><abbr>&amp;</abbr><expan>et</expan></choice> quadraginta <lb/> <expan>solidat<ex>as</ex></expan>
+                    redditus cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> in Kyngesmarshe ac in parochijs de Clyfton
+                    Wyk Warr Stapulton Over <lb/> Horfild <choice><abbr>&amp;</abbr><expan>et</expan></choice> Sodbury ut ius
+                    <choice><abbr>&amp;</abbr><expan>et</expan></choice> hereditatem suam Et in que idem Georgius non
+                    <expan>h<ex>ab</ex>et</expan> <expan>ingr<ex>essu</ex>m</expan> nisi post <lb/>
+                    <expan>dissei<ex>sin</ex>am</expan> quam <expan>Henr<ex>icus</ex></expan> Hunt inde iniuste
+                    <choice><abbr>&amp;</abbr><expan>et</expan></choice> sine iudicio <expan>fec<ex>it</ex></expan>
+                    <expan>p<ex>re</ex>fat<ex>is</ex></expan> <expan>Rob<ex>er</ex>to</expan>
+                    <expan>Nich<ex>ola</ex>o</expan> <choice><abbr>&amp;</abbr><expan>et</expan></choice> 
+                    <expan>Joh<ex>ann</ex>i</expan> post <expan>p<ex>rima</ex>m</expan>
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice><lb/>
+                    Et <expan>p<ex>re</ex>d<ex>ic</ex>tus</expan> Georgius <expan>p<ex>er</ex></expan> 
+                    <expan>Joh<ex>ann</ex>em</expan> Reymond <expan>attorn<ex>atum</ex></expan> <expan>suu<ex>m</ex></expan>
+                    <expan>ven<ex>it</ex></expan> Et alias 
+                    <expan>voc<ex>at</ex></expan> inde ad <expan>War<ex>antum</ex></expan> Thomam West <lb/> militem 
+                    <expan>d<ex>o</ex>m<ex>i</ex>n<ex>i</ex></expan> La Warre qui modo <expan>p<ex>er</ex></expan> 
+                    <expan>sum<ex>monitionem</ex></expan> ei in <expan>com<ex>itatu</ex></expan> 
+                    <expan>p<ex>re</ex>d<ex>ic</ex>to</expan> <expan>f<ex>ac</ex>tam</expan> <expan>p<ex>er</ex></expan>
+                    <expan>Ric<ex>ardu</ex>m</expan> Sythemore <expan>attorn<ex>atum</ex></expan> <expan>suu<ex>m</ex></expan>
+                    <expan>similit<ex>er</ex></expan> <lb/> <expan>ven<ex>it</ex></expan> Et gratis <expan>ten<ex>ementa</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> ei
+                    <expan>War<ex>antizat</ex></expan> <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> Et <expan>sup<ex>er</ex></expan> hoc
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan> et
+                    <expan>Joh<ex>ann</ex>es</expan> <expan>pet<ex>unt</ex></expan> <expan>v<ex>er</ex>sus</expan> <lb/>
+                    <expan>ip<ex>su</ex>m</expan> Thomam tenentem <expan>p<ex>er</ex></expan> <expan>War<ex>antiam</ex></expan>
+                    suam <expan>ten<ex>ementa</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> cum
+                    <expan>p<ex>er</ex>tin<ex>enciis</ex></expan> in forma <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> 
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    Et unde <expan>di<ex>cunt</ex></expan> quod <expan>ip<ex>si</ex>met</expan> <lb/> fuerunt 
+                    <expan>sei<ex>sa</ex>ti</expan> de <expan>ten<ex>ementis</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>tis</expan>
+                    cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> in <expan>d<ex>o</ex>m<ex>ini</ex>co</expan> suo ut de feodo 
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> iure tempore pacis tempore <expan>d<ex>omi</ex>ni</expan> 
+                    <lb/> Regis nunc <expan>capiend<ex>o</ex></expan> inde <expan>explec<ex>ias</ex></expan> ad valenciam 
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> Et in
+                    quo <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    Et inde <expan>p<ex>ro</ex>duc<ex>unt</ex></expan> sectam <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> <lb/> Et <expan>p<pre>re</pre>d<pre>ic</pre>tus</expan>
+                    Thomas tenens <expan>p<ex>er</ex></expan> <expan>war<ex>antiam</ex></expan> suam
+                    <expan>defend<ex>it</ex></expan> ius <expan>suu<ex>m</ex></expan> quando 
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    Et <expan>ult<ex>er</ex>ius</expan> <expan>voc<ex>at</ex></expan> inde ad <expan>war<ex>antum</ex></expan> 
+                    <lb/> Thomam Chapman qui <expan>pre<ex>se</ex>ns</expan> est hic in <expan>cur<ex>ia</ex></expan> in 
+                    <expan>p<ex>ro</ex>pria</expan> <expan>p<ex>er</ex>sona</expan> sua Et gratis <expan>ten<ex>ementa</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> <lb/> ei
+                    <expan>war<ex>antat</ex></expan> <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> Et <expan>sup<ex>ra</ex></expan> hoc 
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan>
+                    et <expan>Joh<ex>ann</ex>es</expan> <expan>pet<ex>unt</ex></expan> <expan>v<ex>er</ex>sus</expan>
+                    <expan>ip<ex>su</ex>m</expan> Thomam Chapman <expan>tenen<ex>tem</ex></expan> <lb/> <expan>p<ex>er</ex></expan>
+                    <expan>war<ex>antiam</ex></expan> suam <expan>ten<ex>ementa</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> 
+                    cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> in forma <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan>
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> Et unde
+                    <expan>dic<ex>unt</ex></expan> quod <expan>ip<ex>s</ex>imet</expan> fuerunt <expan>sei<ex>sa</ex>ti</expan> de <lb/>
+                    <expan>ten<ex>ementis</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>tis</expan> cum
+                    <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> in <expan>d<ex>o</ex>m<ex>ini</ex>co</expan> suo ut de feodo et
+                    iure tempore pacis tempore <expan>d<ex>omi</ex>ni</expan> Regis nunc <lb/> <expan>capiend<ex>o</ex></expan> inde 
+                    <expan>explec<ex>ias</ex></expan> ad valenciam <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> Et in que <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> Et inde <expan>p<ex>ro</ex>duc<ex>unt</ex></expan>
+                    sectam <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    <lb/> Et <exoan>p<ex>re</ex>d<ex>ic</ex>tus</exoan> Thomas Chapman tenens <expan>p<ex>er</ex></expan>
+                    <expan>war<ex>antiam</ex></expan> suam <expan>defend<ex>it</ex></expan> ius <expan>suu<ex>m</ex></expan>
+                    quando <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    Et <expan>dic<ex>it</ex></expan> <expan>q<ex>uo</ex>d</expan> <expan>p<ex>re</ex>d<ex>ic</ex>tus</expan>
+                    <lb/> <expan>Henr<ex>icus</ex></expan> non <expan>disseis<ex>ivit</ex></expan>
+                    <expan>p<ex>re</ex>fat<ex>os</ex></expan> <expan>Rob<ex>er</ex>tum</expan> <expan>Nich<ex>ola</ex>um</expan>
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <expan>Joh<ex>ann</ex>em</expan>
+                    de <expan>ten<ex>ementis</ex></expan> <expan>p<ex>re</ex>d<ex>ict</ex>is</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> <expan>p<ex>ro</ex>ut</expan> ijdem 
+                    <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan> <lb/> et <expan>Joh<ex>ann</ex>es</expan> per
+                    <expan>br<ex>ev</ex>e</expan> et <expan>narrac<ex>i</ex>onem</expan> sua 
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ta</expan> <expan>sup<ex>er</ex>ius</expan> <expan>suppon<ex>unt</ex></expan> Et 
+                    de hoc <expan>pon<ex>it</ex></expan> se <expan>sup<ex>ra</ex></expan> <expan>p<ex>at</ex>riam</expan>
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> <lb/>
+                    Et <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan> et 
+                    <expan>Joh<ex>ann</ex>es</expan> <expan>pet<ex>unt</ex></expan> licentiam inde interloquendi Et 
+                    <expan>h<ex>ab</ex>ent</expan> <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice>  Et postea ijdem <expan>Rob<ex>er</ex>tus</expan> <lb/>
+                    <expan>Nich<ex>ola</ex>us</expan> et <expan>Joh<ex>ann</ex>es</expan> <expan>reven<ex>iunt</ex></expan> hic in 
+                    <expan>cur<ex>iam</ex></expan> isto eodem <expan>t<ex>er</ex>mi<ex>n</ex>o</expan> <expan>p<ex>er</ex></expan>
+                    <expan>attorn<ex>atum</ex></expan> <expan>suu<ex>m</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>t<ex>u</ex>m</expan>
+                    Et <expan>p<ex>re</ex>d<ex>ic</ex>tus</expan> Thomas <lb/> Chapman licet <expan>solempnit<ex>er</ex></expan>
+                    <expan>exact<ex>us</ex></expan> non <expan>reven<ex>it</ex></expan> set in contemptum <expan>cur<ex>ie</ex></expan>
+                    recessit et <expan>defalt<ex>am</ex></expan> <expan>fac<ex>it</ex></expan> <expan>I<ex>de</ex>o</expan> <lb/>
+                    <expan>cons<ex>ideratum</ex></expan> est <expan>q<ex>uo</ex>d</expan> <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan>
+                    <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan> et <expan>Joh<ex>ann</ex>es</expan>
+                    <expan>recup<ex>er</ex>ent</expan> <expan>sei<ex>sin</ex>am</expan> suam <expan>v<ex>er</ex>sus</expan>
+                    <expan>p<ex>re</ex>fat<ex>um</ex></expan> <expan>Georg<ex>iu</ex>m</expan> de <expan>ten<ex>ementis</ex></expan>
+                    <lb/> <expan>p<ex>re</ex>d<ex>ic</ex>tis</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> Et
+                    <expan>q<ex>uo</ex>d</expan> idem Georgius <expan>h<ex>ab</ex>eat</expan> de <expan>t<ex>er</ex>ra</expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> Thome West ad valenciam <choice><abbr>&amp;c</abbr> 
+                    <expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> Et <expan>q<ex>uo</ex>d</expan>
+                    idem <lb/> Thomas <expan>ult<ex>er</ex>ius</expan> <expan>h<ex>ab</ex>eat</expan> de <expan>t<ex>er</ex>ra</expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> Thome Chapman ad valenciam 
+                    <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                    Et idem Thomas in <expan>mi<ex>sericordi</ex>a</expan> <choice><abbr>&amp;c</abbr><expan>et</expan></choice> 
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice> <lb/> Et <expan>sup<ex>ra</ex></expan> hoc
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan>
+                    et <expan>Joh<ex>ann</ex>es</expan> <expan>pet<ex>unt</ex></expan> <expan>br<ex>ev</ex>e</expan>
+                    <expan>d<ex>omi</ex>ni</expan> Regis <expan>vic<ex>ecomiti</ex></expan> <expan>com<ex>itatus</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>dirigend<ex>um</ex></expan> de <expan>h<ex>ab</ex>ere</expan>
+                    <expan>fac<ex>iendo</ex></expan> eis <expan>plenar<ex>iam</ex></expan> <expan>sei<ex>sin</ex>am</expan> de <lb/>
+                    <expan>ten<ex>ementis</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>tis</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan> Et eis
+                    <expan>concedit<ex>ur</ex></expan> retornabile hic in crastino <expan>ascencionis</expan>
+                    <expan>d<ex>omi</ex>ni</expan> <choice><abbr>&amp;c</abbr><expan>et</expan></choice>
+                    <choice><abbr>c</abbr><expan>cetera</expan></choice>  Ad quem diem hic <expan>ven<ex>unt</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>ti</expan> <expan>Rob<ex>er</ex>tus</expan> <expan>Nich<ex>ola</ex>us</expan> <lb/>
+                    et <expan>Joh<ex>ann</ex>es</expan> <expan>p<ex>er</ex></expan> <expan>attorn<ex>atum</ex></expan>
+                    <expan>suu<ex>m</ex></expan> <expan>p<ex>re</ex>d<ex>ic</ex>tum</expan> et <expan>vic<ex>ecomes</ex></expan>
+                    <expan>videl<ex>icet</ex></expan> Edwardud Wadham miles
+                    modo <expan>mand<ex>at</ex></expan> quod <expan>ip<ex>s</ex>e</expan> virtute 
+                    <expan>br<ex>evi</ex>s</expan> illius <expan>t<ex>erc</ex>io</expan> die May <lb/> regni 
+                    <expan>d<ex>omi</ex>ni</expan> Regis nunc vicesimo quarto <expan>h<ex>ab</ex>ere</expan>
+                    <expan>fec<ex>it</ex></expan> eisdem
+                    <expan>Rob<ex>er</ex>to</expan> <expan>Nich<ex>ola</ex>o</expan> et <expan>Joh<ex>ann</ex>i</expan>
+                    <expan>plenar<ex>ium</ex></expan> <expan>sei<ex>sin</ex>am</expan> de <expan>ten<ex>ementis</ex></expan>
+                    <expan>p<ex>re</ex>d<ex>ic</ex>tis</expan> cum <expan>p<ex>er</ex>tin<ex>entiis</ex></expan>
+                    <expan>p<ex>ro</ex>ut</expan> <lb/> per <expan>br<ex>ev</ex>e</expan> illud sibi <expan>p<ex>er</ex>ceptum</expan>
+                    fuit <choice><abbr>&amp;c</abbr><expan>et</expan></choice> <choice><abbr>c</abbr><expan>cetera</expan></choice> 
+                </p>
+
+ 
+            </div>
+
+            <div type="translation" xml:lang="en">
+                <p>Henry the Eighth by the grace of God King of England and France defender of the faith
+                   and lord of Ireland. To all to whom the present letters shall come, greetings.
+
+                <p>Robert Thorne, Nicholas Thorne, George Goodriche, clerk, by their attorney Thomas Hymerford
+                    claim against George Croft, clerk, master of the hospital or house of Saint Bartholomew of
+                    the town of Bristol, six messuages, three hundred acres of land, eighty acres of meadow, two hundred
+                    acres of pasture, ten acres of wood and forty shillings of rent with appurtenances in Kingsmarsh
+                    and in the parishes of Clifton, Wickwarr, Stapulton over Horfield and Sodbury as their right and
+                    inheritance. And into which the same George has no entry except after disseisin which Henry Hunt
+                    unjustly and without judgement has made thereof to the aforesaid Robert, Nicholas and John after
+                    the first etc. And the aforesaid George by John Reymond his attorney comes and otherwise
+                    vouches thereof to warrant Thomas West, knight, Lord de la Warr, who now by summons made to him in
+                    the aforesaid county similarly comes by Richard Sythemore his attorney, and freely warrants to him
+                    the aforesaid tenements with appurtenances etc. And hereupon the aforesaid Robert, Nicholas and
+                    John claim against the said Thomas, tenant by his warranty, the aforesaid tenements with
+                    appurtenances in the aforesaid form etc. And whereupon they say that they themselves have been
+                    seised of the aforesaid tenements with appurtenances in their demense as of fee and right in the
+                    time of peace of the present Lord King by taking the profits thereof to the value etc. And into
+                    which etc. And thereupon they bring suit etc. And the aforesaid Thomas, tenant, by his own
+                    warranty defends his right when etc. And furthermore vouches thereof to warrant Thomas Chapman
+                    who is present here in court in his own person, and freely warrants to him the aforesaid
+                    tenements with appurtenances etc. And hereupon the aforesaid Robert, Nicholas and John claim against
+                    the said Thomas Chapman, tenant, by his warranty, to the aforesaid tenements with appurtenances
+                    in the aforesaid form etc. And whereupon they say that they themselves have been seised of the
+                    aforesaid tenements with appurtenances in their demense as of fee and right in the time of peace
+                    of the present Lord King by taking the profits thereof to the value etc. And into
+                    which etc. And thereupon they bring suit etc. And the aforesaid Thomas Chapman, tenent,
+                    by his warranty defends his right when etc. And says the aforesaid Henry did not disseise
+                    the aforesaid Robert, Nicholas, John of the aforesaid tenements with appurtenances, just as the
+                    same Robert, Nicholas and John by their aforesaid writ and statement above suppose. And of this
+                    he puts himself before the country etc. And the aforesaid Robert, Nicholas and John crave leave
+                    to imparl thereupon. And they have it etc. And afterwards the same Robert, Nicholas and John
+                    return into court this same term by their aforesaid attorney. And the aforesaid Thomas Chapman
+                    although solemnly called does not come but in contempt of the court withdraws and does default.
+                    Therefore it is considered that the aforesaid Robert, Nicholas and John recover their seisin
+                    against the aforesaid George of the aforesaid tenements with appurtenances. And that the same
+                    George has of the land of the aforesaid Thomas West to the value etc. And furthermore that the
+                    same Thomas has of the land of the aforesaid Thomas Chapman to the value etc. And the same
+                    Thomas in mercy etc. And hereupon the aforesaid Robert, Nicholas and John require the writ of
+                    the Lord King to be directed to the sheriffs of the aforesaid county to cause them to have
+                    full seisin of the said tenements with appurtenances. And it is granted to them, returnable here
+                    on the morning of the Ascension of our Lord etc. At which day came here the aforesaid Robert,
+                    Nicholas and John by their aforesaid attorney. And the sheriff, namely Edward Wadham,
+                    knight, now return that he by the virtue of that writ of the third day of May the
+                    twenty fourth year of the present king did cause the same Robert, Nicholas and John to have
+                    full seisin of the aforesaid tenements with appurtenances, as by that writ he was commanded
+                    etc.
+                </p>
+                <pb n="rot. 354d"/>
+                <p>[Left Margin:] Town of Bristol</p>
+                <p>Robert Thorne, Nicholas Thorne, George Goodriche, clerk, by their attorney Thomas Hymerford
+                    claim against George Croft, clerk, master of the hospital or house of Saint Bartholomew of
+                    the town of Bristol, forty messuages, thirty gardens, ten acres of land, six acres of meadow, twenty
+                    acres of pasture and forty shillings of rent with appurtenances in the town of Bristoll
+                    and in the parishes of St. Augustine, St. Michael, St. James and St. Philip in the suburbs
+                    of the aforesaid town as their right and
+                    inheritance. And into which the same George has no entry except after disseisin which Henry Hunt
+                    unjustly and without judgement has made thereof to the aforesaid Robert, Nicholas and John after
+                    the first etc. And the aforesaid George by John Reymond his attorney comes and otherwise
+                    vouches thereof to warrant Thomas West, knight, Lord de la Warr, who now by summons made to him in
+                    the aforesaid county similarly comes by Richard Sythemore his attorney, and freely warrants to him
+                    the aforesaid tenements with appurtenances etc. And hereupon the aforesaid Robert, Nicholas and
+                    John claim against the said Thomas, tenant by his warranty, the aforesaid tenements with
+                    appurtenances in the aforesaid form etc. And whereupon they say that they themselves have been
+                    seised of the aforesaid tenements with appurtenances in their demense as of fee and right in the
+                    time of peace of the present Lord King by taking the profits thereof to the value etc. And into
+                    which etc. And thereupon they bring suit etc. And the aforesaid Thomas, tenant, by his own
+                    warranty defends his right when etc. And furthermore vouches thereof to warrant Thomas Chapman
+                    who is present here in court in his own person, and freely warrants to him the aforesaid
+                    tenements with appurtenances etc. And hereupon the aforesaid Robert, Nicholas and John claim against
+                    the said Thomas Chapman, tenant, by his warranty, to the aforesaid tenements with appurtenances
+                    in the aforesaid form etc. And whereupon they say that they themselves have been seised of the
+                    aforesaid tenements with appurtenances in their demense as of fee and right in the time of peace
+                    of the present Lord King by taking the profits thereof to the value etc. And into
+                    which etc. And thereupon they bring suit etc. And the aforesaid Thomas Chapman, tenent,
+                    by his warranty defends his right when etc. And says the aforesaid Henry did not disseise
+                    the aforesaid Robert, Nicholas, John of the aforesaid tenements with appurtenances, just as the
+                    same Robert, Nicholas and John by their aforesaid writ and statement above suppose. And of this
+                    he puts himself before the country etc. And the aforesaid Robert, Nicholas and John crave leave
+                    to imparl thereupon. And they have it etc. And afterwards the same Robert, Nicholas and John
+                    return into court this same term by their aforesaid attorney. And the aforesaid Thomas Chapman
+                    although solemnly called does not come but in contempt of the court withdraws and does default.
+                    Therefore it is considered that the aforesaid Robert, Nicholas and John recover their seisin
+                    against the aforesaid George of the aforesaid tenements with appurtenances. And that the same
+                    George has of the land of the aforesaid Thomas West to the value etc. And furthermore that the
+                    same Thomas has of the land of the aforesaid Thomas Chapman to the value etc. And the same
+                    Thomas in mercy etc. And hereupon the aforesaid Robert, Nicholas and John require the writ of
+                    the Lord King to be directed to the sheriffs of the aforesaid county to cause them to have
+                    full seisin of the said tenements with appurtenances. And it is granted to them, returnable here
+                    on the morning of the Ascension of our Lord etc. At which day came here the aforesaid Robert,
+                    Nicholas and John by their aforesaid attorney. And the sheriff, namely William Cary et John Mauncell,
+                    now return that he by the virtue of that writ of the third day of May the
+                    twenty fourth year of the present king did cause the same Robert, Nicholas and John to have
+                    full seisin of the aforesaid tenements with appurtenances, as by that writ he was commanded
+                    etc.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
