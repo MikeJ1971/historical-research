@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Will of Robert Thorne, Merchant of Bristol, Gloucestershire. <date when="1519-07-06">6 July, 1519</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2016-05">February 2016</date>
+                <idno type="UUID">b6127e1f-e1a4-445c-9842-ad69d16f1581</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>PROB 11/19/264</idno>
+                        <msName>Will of Robert Thorne, Merchant of Bristol, Gloucestershire</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The will was written on the 20th January 1518 and proved on the 6th July 1519.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Thorne</item>
+                        <item>Bristol</item>
+                        <item>Gloucestershire</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+            	<p>
+            	<pb n="f. 46r"/>
+            	<hi rend="bold">Be it knowne to all cristen people</hi> that I Robert Thorne of Bristowe<lb/>
+            	marchaunt wryte this <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> 
+            	my hand my will and my testament In the yere of our <lb/> lord M D C xvij the xx day of Januar in good mynde and
+				in goode helthe of body <lb/> thanked be god Amen / In the name of god and our blessid Lady and the holy <lb/>
+				company of hevyn to pray for me that I maye so doo at this tyme for to come to <lb/>
+				<pb n="f. 46d"/>
+				the blessid Company of Hevyn / And that I bequeth my soule to allmyghty god and to oure <lb/> 
+				blessed Lady and my body to the Holy Church grave in the Crowde of Seint <expan>Nich<ex>ol</ex>as</expan> <lb/>
+				Churche And also I bequethe to the moder Church of Worsettur v s And I bequethe to the <lb/>
+				Church of seint <expan>Nich<ex>ol</ex>as</expan> as for <expan>rep<ex>ar</ex>ac<ex>i</ex>ons</expan>
+				xxvj s viij d And I bequethe to the vycar of sent <lb/> <expan>Nich<ex>ol</ex>as</expan> Church for
+				forgoten <expan>tythyng<ex>es</ex></expan> xx s / Also I will have a goode prest to praye for <lb/>
+				my soule in seint <expan>Nich<ex>ol</ex>as</expan> Churche vj yeres and he to have vj li 
+				<expan>ev<ex>er</ex>y</expan> yere Also I will have <lb/> viij poore men that shall bere viij torches 
+				and they shall have <expan>ev<ex>er</ex>y</expan> man agowne and for <lb/> beryng of the torches 
+				viij d aman And also I will have at my burying to be gyven to <lb/> poore men and wymen iiij li in bred 
+				and <expan>ev<ex>er</ex>y</expan> man and woman j d in money And at my <lb/> monthis mynde also moche And 
+				at my xij monthis mynde as moche as is before wryten Also <lb/> that I bequethe to the foure Ordres of 
+				ffreris to <expan>ev<ex>er</ex>y</expan> place xx s to pray for my soule Also I <lb/> bequeth to the iiij 
+				Almes houses to every place iiij s and to Newgate to the prisoners iiij s <lb/> Also I bequethe to Dame
+				Elyn Thorn my doughter vj li xiij s iiij d in Redy money And A <lb/> standyng Cuppe 
+				<choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> 
+				a cover weying xx <expan>ounc<ex>es</ex></expan> A Salte with A cover that weyeth xx <expan>ounc<ex>es</ex></expan> <lb/>
+				to praye for my soule Also I bequethe to every Nonne in the place to pray for my soule xij d <lb/> Also I 
+				bequethe to Margery my Sister of Seint Albones vj li xiij s iiij d and afurred Gowne in <lb/> 
+				grayne Also I bequeth to hir husband A muster de veles gowne furre <choice><abbr>w<hi rend="superscript">t</hi></abbr>
+				<expan>w<ex>ith</ex></expan></choice> fox Also I bequeth <lb/> to my brother Will Thorn is ij doughters
+				that be ffaderles that oon is called Phelipp and the other <lb/> Rose iij li to <expan>ev<ex>er</ex>y</expan>
+				of them And that my Syster margery to have the Guydyng of the money tyll <lb/> they be abill to be
+				maried / <expan>It<ex>e</ex>m</expan> I bequethe to <expan>Willi<ex>a</ex>m</expan> Wossley my best Scarlett
+				gowne and <lb/> my Scarlett Cloke and to his wif my cremesyn gowne and vj li xiij s iiij d in Redy money to <lb/>
+				pray for my soule Also I bequethe to <expan>Willi<ex>a</ex>m</expan> Wossleys vij children lxx 
+				<expan>ounc<ex>es</ex></expan> of plate and xiiij li <lb/> in Redy money And Rose his doughter xxx 
+				<expan>ounc<ex>es</ex></expan> plate and xv li in Redy Money / And to be <lb/> delyvered to all of them when they 
+				be able to be maried And also and any of thise doo <lb/> departe to god then I will that this good be departed
+				from oon to an other that Longer <lb/> lyveth / Also I bequeth to Robert Thorne my Sonne lx li in Redy money and 
+				lx <expan>ounc<ex>es</ex></expan> in plate <lb/> Also I bequethe to <expan>Nich<ex>ol</ex>as</expan> Thorn 
+				my sonne lx li in Redy money and lx li <expan>ounc<ex>es</ex></expan> in <lb/> plate Also I bequethe to Alice 
+				Thorn my doughter lx li in Redy money and lx <expan>ounc<ex>es</ex></expan> of plate and the <lb/> 
+				thryd parte of all my household and she be able to be maried bythe vise of hir <expan>frend<ex>es</ex></expan> and 
+				of <lb/> myn Executors Also if there be any of thise iij <expan>p<ex>er</ex>sones</expan> departe to god that then 
+				they that lyveth <lb/> longer that it goo from oon to an other And so be that that they departe to god all as god <lb/>
+				forbede That them I wold the oon half to go to the Charterhousse of Wyttam <note>Witham Charterhouse in Witham Friary, 
+				Somerset</note> and the other <lb/> half to the hye wayes aboute Bristowe Also I bequeth to Johan Thorne my wif ijC li 
+				in <lb/> Redy money and ij C <expan>ounc<ex>es</ex></expan> of plate and xx C weight of urchell and ij 
+				<expan>part<ex>es</ex></expan> of all my household <lb/> Stuff and no more And also I bequethe to seint Augustines 
+				Churche to the buyldyng of <lb/> the new Church A pype of Iron and xl s in redy money to praye for my soule And 
+				I <exppan>beq<ex>ue</ex>th</exppan> <lb/> to owre Lady Chapell Upon the Bryge of Bristowe xxvj s viijd  Also I 
+				bequethe to the <lb/> hye ways aboute Bristowe x li where ther is most nede Also I bequeth to saint <lb/>
+				<expan>Nich<ex>ol</ex>as</expan> Crowde where my Body shalbe buried a housse that I bought late of <lb/> 
+				John Colasse that lyethe in Seint <expan>Nich<ex>ol</ex>as</expan> Strete And I wold that the proctures of the <lb/>
+				Crowde shall fynde for my Soule a terment <expan>ev<ex>er</ex>y</expan> yere to the value of v s by yere and to <lb/>
+				be prayed fore in the pulpytt <expan>ev<ex>er</ex>y</expan> Sonday / Also I have a seller full of Salte wherein is <lb/>
+				lxxxxiiij tonne of Salt and this I gyve to the almes housse of the iij <expan>kyng<ex>es</ex></expan> of Colen 
+				<expan>ev<ex>er</ex>y</expan> <lb/> yere viij s to pay quarterly ij s And to the Almes housse at the graye 
+			    ffreris viij s paid <lb/> <expan>ev<ex>er</ex>y</expan> yere quarterly ij s And to the almes housse in the 
+			    Long Rowe <expan>ev<ex>er</ex>y</expan> yere viij s to be <expan>p<ex>ai</ex>d</expan> <lb/>
+			    quarterly ij s And Newgate viij s yerely to be paid quarterly ij s as long as money of this <lb/>
+			    Salte will last to pray for my soule Also I gyve to the Almes housse where there be at <lb/>
+			    <expan>Lafford<ex>es</ex></expan> Yate <note>Lawfords Gate</note> to the <expan>rep<ex>ar</ex>ac<ex>i</ex>on</expan>
+			    of the <expan>bedd<ex>es</ex></expan> where the poore men lye in xxvj s viij d Also I <lb/> 
+			    bequethe and gyve to the trenite at Lafford Yate to the <expan>Rep<ex>er</ex>acon</expan> of the lond liij s iiij d <lb/>
+			    Also I make myne <expan>Executo<ex>r</ex>s</expan> Sir John Goodryge <expan>p<ex>ar</ex>son</expan> of 
+			    Cristchurch and <expan>Willi<ex>a</ex>m</expan> Wossley <lb/> and John Wyat myne executors and to 
+			    <expan>ev<ex>er</ex>y</expan> of them I gyve x li in Redy money and <lb/> <expan>ev<ex>er</ex>y</expan> 
+			    of them a blacke gowne And to se my will and my <expan>debt<ex>es</ex></expan> paid and my will <lb/>
+			    fulfilled And the rest of the all my goodes to be sold and doon for my soule where <lb/> 
+			    that ye fynde most nede <choice><abbr>&amp;</abbr><expan>and</expan></choice> I require as ye will aunswer toforgod 
+			    that this be doo as <lb/> god knowith my mynde <choice><abbr>&amp;</abbr><expan>and</expan></choice> I put my full 
+			    trust in you for <choice><abbr>&amp;</abbr><expan>and</expan></choice> god send me space 
+			    <choice><abbr>&amp;</abbr><expan>and</expan></choice> grace I wold <lb/> doo it my self</p>
+
+			    <p>Probatum fuit <expan>sup<ex>ra</ex>scriptum</expan> <expan>testamentu<ex>m</ex></expan> coram 
+			    <expan>d<ex>omi</ex>no</expan> Apud Lamhith sexto die <lb/>
+
+			    <pb n="f. 46d"/>
+
+			    mensis Julij Anno <expan>d<ex>omi</ex>ni</expan> <expan>mill<ex>es</ex>imo</expan> quingentesimo xix 
+			    <expan>Iur<ex>amento</ex></expan> <expan>Joh<ex>ann</ex>is</expan> Wyatt <expan>p<ex>er</ex>sonalit<ex>er</ex></expan>
+			    <expan>pr<ex>esen</ex>t<ex>is</ex></expan> et Thome <lb/> Argall procuratoris in hac parte Ac approbatum 
+			    <choice><abbr>&amp;</abbr><expan>et</expan></choice> <expan>insinuatu<ex>m</ex></expan> Et comissa fuit 
+			    <expan>adm<ex>ini</ex>stratio</expan> <lb/> <expan>omn<ex>ium</ex></expan> et <expan>singulo<ex>rum</ex></expan>
+			    <expan>bono<ex>rum</ex></expan> et <expan>debito<ex>rum</ex></expan> dicti defuncti <expan>executorib<ex>us</ex></expan> 
+			    in <expan>h<ex>uius</ex>mo<ex>d</ex>i</expan> testamento <expan>no<ex>m</ex>i<ex>n</ex>at<ex>is</ex></expan> De <lb/>
+			    bene et <expan>fideli<ex>te</ex>r</expan> <expan>admin<ex>i</ex>strand<ex>o</ex></expan> eadem Ac de pleno 
+			    <choice><abbr>&amp;</abbr><expan>et</expan></choice> fideli <expan>inven<ex>tario</ex></expan> etc 
+			    <expan>conficiend<ex>o</ex></expan> et nobis citra <lb/> festum <expan>S<ex>ancti</ex></expan> 
+			    <expan>Barth<ex>olome</ex>i</expan> <expan>Ap<ex>osto</ex>li</expan> <expan>prox<ex>imum</ex></expan> 
+			    <expan>futur<ex>um</ex></expan> <expan>exhibend<ex>o</ex></expan>  Necnon de pleno et vero compoto <lb/>
+			    <expan>redend<ex>o</ex></expan> etc. Ad sancta dei <expan>Ev<ex>a</ex>ngelia</expan> <expan>iurat<ex>i</ex></expan> / 
+			    <expan>Res<ex>er</ex>vat<ex>a</ex></expan> <expan>p<ex>otes</ex>tat<ex>em</ex></expan> similem comissionem 
+			    <expan>faciend<ex>o</ex></expan> <lb/> <expan>Will<ex>el</ex>mo</expan> Wossley etiam executori in 
+			    <expan>hui<ex>usm</ex>o<ex>d</ex>i</expan> testamento <expan>no<ex>m</ex>i<ex>n</ex>at<ex>is</ex></expan> 
+			    <expan>cu<ex>m</ex></expan> <expan>ven<ex>er</ex>int</expan> / Duodecimo die <expan>me<ex>n</ex>s<ex>is</ex></expan>
+			    <lb/> Augusti anno <expan>p<ex>re</ex>dict<ex>o</ex></expan> comisso fuit consimilis
+			    <expan>adm<ex>ini</ex>strat<ex>i</ex>o</expan> to <expan>Will<ex>el</ex>mo</expan> Wossley predicto in
+				<expan>p<ex>er</ex>sona</expan> <lb/> Thome Argall procuratoris <expan>ip<ex>si</ex>us</expan>
+				<expan>Will<ex>elm</ex>i</expan> in hac parte etc</p>
+
+				<p>[The above written testament was proved before the Lord at Lambeth the sixth day of the month 
+				of July in the year of our lord 1519 by the oath of John Wyatt, personally present, and Thomas 
+				Argall proctor in this matter. And was approved and registered. A grant of administration was 
+				made of all and every goods and debts of the said deceased to the executors named in this
+				testament. And sworn on the holy gospels, to administer the same well and faithfully and to
+				prepare a full and faithful inventory etc. And to exhibit to us before the feast of St. Bartholomew
+				next coming. And also to render a plain and true account etc. Power being reserved to make a
+				similar grant to William Wosley also named executor in this will when he should come. The
+				twelfth day of the month of August the year aforesaid a similar grant was made to the
+				aforesaid William Wosley in the person of Thomas Argall proctor of William in this matter.]</p>
+            </div>
+        </body>
+    </text>
+</TEI>
