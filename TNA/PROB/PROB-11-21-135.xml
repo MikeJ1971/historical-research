@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Will of Joan Thorne, Widow. <date when="1523-05-16">16 May, 1523</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2016-05">February 2016</date>
+                <idno type="UUID">117822e1-e09e-4e09-96f8-16eaa8b6c94c</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>PROB 11/21/135</idno>
+                        <msName>Will of Joan Thorne, Widow</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Thorne</item>
+                        <item>Bristol</item>
+                        <item>Gloucestershire</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+            	<p>
+            	<pb n="f. 56r"/>
+				<hi rend="bold">In the name of god</hi> the fader the sonne and holy goost thre persones and one god <lb/>
+				and of the blissed virgyn our Lady saint mary and of all the <expan>saint<ex>es</ex></expan> of hevyn I Johane 
+				Thorne widow <lb/> late the wife of Robert Thorne being sike and feble of body but in goode and parfite mynde
+				suche as <lb/> it pleasith god to geve me firmely beleving in the faith of Crist and in all that our moder the Holy <lb/>
+				Churche holdith and belevith In the which faith I protest to lyve and dye And for that I fere deth <lb/> which
+				is naturall for <expan>ev<ex>er</ex>y</expan> lyving Creature willing to dispoase me to the best for the salvacion <lb/>
+				of my soule that god will geve me grace doo ordeyn and make this my testament and Last Wille / <lb/> after the maner 
+				and forme folowing /  ffirst I bequeth my soule to almighty god that created it and <lb/> redeemed it humbly 
+				beseching him on it to have mercy and to putt it in his eternall glorye <lb/> to the Lawde and praise of his 
+				blissed name Also my body I will to be buried in the Crowde of <lb/> Saint <expan>Nich<ex>ol</ex>as</expan> Church
+				under the stone a redy laide by my forsaide husbonde And that at my burying <lb/> be saide solempne masse and 
+				diriges with all other <expan>thing<ex>es</ex></expan> that a cristen woman ought to have <lb/> And that in the 
+				said buriall be spent to the sume of viij li sterling Also I will there be gevyn at <lb/> the tyme of my said burying
+				in almes to pour people xij li sterling of the which I will the viij li <lb/> be in money / and the iiij li in bred 
+				so that <expan>ev<ex>er</ex>y</expan> <expan>pou<ex>r</ex></expan> <expan>p<ex>er</ex>sone</expan> may have a peny in 
+				money and half <lb/> a peny loof as longe as it lestith / And that at my monethes mynde and Twelvemonthes <lb/>
+				mynde be spent asmoch at <expan>ev<ex>er</ex>y</expan> tyme Also I will that xij pour women of my neighbours <lb/>
+				of this parishe of Saint <expan>Nich<ex>ol</ex>as</expan> be gevyn xij white <expan>garment<ex>es</ex></expan> 
+				<choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice>  xij 
+				<expan>kercheff<ex>es</ex></expan> of holond <lb/> and to every of them iiij d a weke fro the day of my burying
+				untill the monthes mynde be <lb/> past for that they shall specially in the said tyme be present in the Churche 
+				to pray for my soule <lb/> Also I will that incontynently after that I am buried be <expan>deliv<ex>er</ex>ed</expan>
+				to <expan>ev<ex>er</ex>y</expan> prest of this towne <lb/> of Bristoll one peny for that in their masse they may pray
+				for my soule / Also I will that <lb/> <expan>ev<ex>er</ex>y</expan> day from the tyme of my burying untill the day of 
+				my monthes mynde be saide solempn <lb/> masse and diriges for my soule / Also all the forsaid fynisshed and doon
+				I will that my <expan>dett<ex>es</ex></expan> be <lb/> paide afore all <expan>thing<ex>es</ex></expan> yf any 
+				thinge appere that I shuld owe by writing or by good accorde Also I wil <lb/> there be gevyn to the Vicar
+				of saint <expan>Nich<ex>ol</ex>as</expan> Churche for forgotten tithes and <expan>offering<ex>es</ex></expan> 
+				iij s iiij d Also <lb/> Also I will to be gevyn to my moder Church of <expan>Worceto<ex>r</ex></expan> ij s Also I 
+				will there be gevyn to the iiij Almes <lb/> howses in this towne and to the Relef of the prisoners of Newgate at 
+				iiij tymes in the yere / that <lb/> is to sey at the iiij yuiver daies to every of them ii s at every tyme for the 
+				space of xij monthes / <lb/> so that all that shalbe gevyn amount to xls / Also I will there be gevyn to the abbey 
+				of Saint Austeyn <lb/> <expan>toward<ex>es</ex></expan> the bilding xl s / Also I will there be gevyn to the iiij 
+				orders of ffreres of this towne to <expan>ev<ex>er</ex>y</expan> <lb/> order x s / Also I bequeth and geve to saint 
+				<expan>Nich<ex>ol</ex>as</expan> Church a sute of <expan>vestment<ex>es</ex></expan> of blak velivett <lb/>
+				to honor god and saint <expan>Nich<ex>ol</ex>as</expan> with And that I may be praid for <expan>ev<ex>er</ex>y</expan>
+				Sonday / And if the said <lb/> <expan>vestment<ex>es</ex></expan> be hired out to any place / then I will to be receyved 
+				for the loone of theym x s <expan>sterling<ex>es</ex></expan> <lb/> 
+				<pb n="f. 57d"/>
+				Of the which I will viij s to be gevyn Immediately to the iiij orders of ffreres of this towne that is to 
+                <expan>ev<ex>er</ex>y</expan> <lb/> order ij s and that restith for Saint <expan>Nich<ex>ol</ex>as</expan> Church / Also 
+                I geve and bequeth to Saint <expan>Nich<ex>ol</ex>as</expan> Church a paire <lb/> of <expan>Candelstick<ex>es</ex></expan> 
+                of silver parcell gilt weyng lxxxxvij <expan>ounc<ex>es</ex>ex></expan> and more I bequeth unto the said Church A <lb/>
+                pawll of Blak Chamlet and velwet Also I bequeth to sir Thomas Tasker my gostely fader vj s viij d / And <lb/>
+                to the parishe prest of saint <expan>Nich<ex>ol</ex>as</expan> Churche iij s iiij d to praye for me Also I geve more 
+                to the said Church <lb/> of Saint <expan>Nich<ex>ol</ex>as</expan> a vestment of blak Chamlet 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> a Corporas and a caas with
+                suche as is belonging for the <lb/> said vestment and to be occupied at saint John <expan>Ev<ex>a</ex>ngelit<ex>es</ex></expan>
+                awter in the said Church. Also I bequeth to saint <lb/> <expan>Mighell<ex>es</ex></expan> awter in the Crowde a 
+                paire of <expan>vestment<ex>es</ex></expan> of grene and Red Satten of <expan>brug<ex>es</ex></expan> and a Chaleis 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> <lb/> a paire of 
+                <expan>Cruett<ex>es</ex></expan> of silver weyng xxij <expan>ounc<ex>es</ex></expan> Also I will to be gevyn to the 
+                Trinitie House at <expan>Laford<ex>es</ex></expan> <lb/> yate which was wont to be a brewhouse and a bakhouse for pour 
+                people x li sterling with this <lb/> condicion that he that shall take it shalbe bounde to occupie the said house to 
+                the use that the saide <lb/> house was ordeyned and to maynteyn it for the space of x yeres which x li I was put in trust
+                by <lb/> a frende of myn decessed and it must be demaunded of Sir John Goodrich prest <expan>Will<ex>ia</ex>m</expan> 
+                Wosley and John <lb/> Wyott Executours unto my husbonde Robert Thorne for that they receyved it of Hugh Elyot 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> a more sume <lb/>
+                of the which x li I discharge my self and charge theym as they shall answere afore god to se this dede <lb/> complissed / 
+                Also I will there be gevyn to the Charterhous of Wittam a maser weying 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> the tree vij 
+                <expan>ounc<ex>es</ex></expan> and half / And more to the said house I bequeth x ls <expan>sterling<ex>es</ex></expan>
+                <expan>toward<ex>es</ex></expan> the bilding of the howse on <lb/> the brigge that maister Rodeney gave the grounde
+                Also I will be gevyn unto my Lady Abbesse of Lacok <lb/> a Rynge with a stone called a granatyn weying xiiij s iiij d And 
+                to <expan>ev<ex>er</ex>y</expan> of hir susters in the said place <lb/> ij s in money to pray for my soule / Also I
+                bequeth to my doughter Elynor Nonne of the said place vj li xiij s <lb/> iiij d in redy money more a Rynge 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> a perle waying xij s vjd  
+                A fetherbed a bolster a paire of <expan>blankett<ex>es</ex></expan> <lb/> a paire of <expan>shet<ex>es</ex></expan> a 
+                Coverlet of Aras which is wrought <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> 
+                flowers and lyned <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> Canvas / Also 
+                I geve <lb/> and bequeth to my sonne in Lawe <expan>Will<ex>ia</ex>m</expan> Wosseley a Rynge 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> a saffier weying xxxvj s viij d
+                and thre <lb/> <expan>yard<ex>es</ex></expan> of blak velvet for a doblet And to my doughter his wife I bequeth a gowne 
+                which is a Scarlett <lb/> and my best gurdell of goldsmythes werk desyring them to pray for my soule Also I bequethe to 
+                my <lb/> doughter Alice the wife of Thomas Jakman a gurdell of white silver goldsmythes werk / A gowne <lb/>
+                of violett in grayne lyned with sarsenet and purfild with velvet a wosted kirtell / a standing Cup <lb/> gilt
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> a Cover weying xxxiiij 
+                <expan>ounc<ex>es</ex></expan> a dymysent raysed work sett with perle / a Crymsyn gown <lb/> furred 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> Calaber a violet gowne furred
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> gray / a blak gowne purfild 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> velivet a kirtell of <lb/>
+                Skarlet an other of Crymsyn and two <expan>Ryng<ex>es</ex></expan> the one of garnatyn and the other a perle weyng both <lb/>
+                xiiij s vj d Also I will to be gevyn to my Cosyn Poll Wethipoll a flatt gilt Cupp weying x <expan>ounc<ex>es</ex></expan> <lb/>
+                and half a quart / And to my Cosyn Anne his wife a gowne Violett in grayn pursild with tawny <lb/> velvet and lyned with
+                sarsenet Also I bequeth to my Cosyn Edmond Wethipoll the sonne of my <lb/> Cosyn Poll Wethipoll a standing Cupp weying 
+                xj <expan>unc<ex>es</ex></expan> and iij quart / Also I bequeth to my Cosyn <lb/> Agnes Mayne the wife of John A Mayne a
+                violet gowne in grayne furred <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice>
+                Shank and a kirtell <lb/> skarlet a girdell the Coorse nedill werk and the harnes white iij <expan>ounc<ex>es</ex></expan> 
+                and half And to hir <expan>dought<ex>er</ex></expan> <lb/> Agnes A Mayne I geve to hir mariage x li sterling of the xx li
+                that hir fader owith me for somoch <lb/> delivered hym Also I bequeth to the suster of Agnes A Mayne wife to 
+                <expan><ex>Christ</ex>pofer</expan> Capppyr xxx s Also <lb/> to Johane Wethipoll the wife of Richard Bysse a ?Rounde 
+                gowne of mustre develize and x s in money <lb/> Also I will there be gevyn to my John Thorne a blak gowne price 
+                xxvj s viij d And to Richard <lb/> Prynne a blak gowne of xxvjs viijd to John Thornes wife a gowne of violet purfild with <lb/>
+                velwet / And to Ricard Prynnes wife a Violet gowne purfild with <expan>shank<ex>es</ex></expan> Also to John Warys <lb/>
+                wife a gowne of colour Sangwyne furred with gray / And to Richard <expan>Tomell<ex>es</ex></expan> wife a tawny gown <lb/>
+                lyned <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> Satyn Sypers and 
+                purfild with velwet / And to Humfrey Bosgroves wife a blak gown <lb/> lyned 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> satyn Sypers and purfild
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> velwet  Also I will to be gevyn 
+                to Johane fflexall my <lb/> <expan>ser>v<ex>a</ex>nt</expan> a gowne of mustre develys purfild 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> <expan>shank<ex>es</ex></expan> 
+                and lyned with Cloth and a Kirtell Crymsyn <lb/> Also I bequeth to Humfrey Coston my <expan>serv<ex>a</ex>unt</expan>
+                xx s in money and a blak gowne / And to Thomas Tyson <lb/> the younger my <expan>serv<ex>a</ex>unt</expan> xx s in money / Also 
+                to my two <expan>serv<ex>a</ex>nt<ex>es</ex></expan> Elizabeth and Margaret to <expan>ev<ex>er</ex>y</expan> of <lb/>
+                theym xv s and a blak gowne the money to be paide to my said <expan>serv<ex>a</ex>nt<ex>es</ex></expan> at the yeres 
+                mynde / Also <lb/> I bequeth to the house of the <expan>Gaunt<ex>es</ex></expan> xx s sterling for that they may pray 
+                for my soule / Also I <lb/> will be gevyn to the Auker at the Gray ffreres iiij yardes of brode Cloth to make him a 
+                garment <lb/> Also I ordeyn and make for myn executours my sonnes Robert Thorne and <expan>Nich<ex>ol</ex>as</expan> 
+                Thorne / And <lb/> theym I require and desire to se this my testament fulfilled / And in theym I put my hool trust <lb/>
+                and confidence in charging theym and discharging my self / And for my ij Executors labor <lb/> I will they have every 
+                of theym xx s <expan>sterling<ex>es</ex></expan> and more a basyn and an Ewer of silver / <lb/>
+                <pb n="f. 57r"/>
+                parcell gilt to every of theym And that my forsaid will fufilled my saide sonnes Robert Thorne and 
+                <expan>Nich<ex>ol</ex>as</expan> <lb/> Thorne I wille they receyve into their power all the rest of my goodes as my heires
+                And that it be <expan>eq<ex>u</ex>ally</expan> <lb/> devided bitwene theym / And for that I cannot write I have herto putt 
+                my Seall and have desired the <lb/> persones that here under have writen their names for Recordes / Also I will that saint 
+                <expan>Nich<ex>ol</ex>as</expan> Church <lb/> have a prest to synge for my soule for the space of iiij yeres / And for his 
+                wagis to have every yere <lb/> vj li xiij s iiij d And witnesse of trouth I have sealed this 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> my husbond seall by myn owne hande 
+                yoven the xth day of Aprill in Bristowe And in the yere of <expan>o<ex>u</ex>r</expan> Lord god M D xxiij after the Count 
+                of <lb/> Inglande And in the xiiijth yere of the Reigne of King Henry the viijth</p>
+
+                <p><hi rend="bold">Probatum</hi> fuit testamentum suprascriptum defuncti Coram prefatis <expan>Com<ex>m</ex>issarijs</expan> 
+                in <expan>eccl<ex>es</ex>ia</expan> <expan>Cath<ex>edrali</ex></expan> <lb/> <expan>d<ex>omi</ex>ni</expan> Pauli
+                <expan>London<ex>iensi</ex></expan> xvij die mensis Aprilis Anno <expan>D<ex>omi</ex>ni</expan> 
+                <expan>Mill<ex>es</ex>imo</expan> quingentesimo vicesimo sexto <expan>Iurament<ex>o</ex></expan> <lb/>
+                Executorum in <expan>h<ex>uius</ex>mo<ex>d</ex>i</expan> testamento <expan>no<ex>m</ex>i<ex>n</ex>at<ex>i</ex></expan>
+                Ac approbatum et insinuatum Et comissa fuit <expan>admi<ex>ni</ex>stratio</expan> <expan>auct<ex>oritate</ex></expan>
+                <expan>p<ex>pre</ex>fat<ex>orum</ex></expan> <lb/> <expan>R<ex>everend</ex>orum</expan> patrum 
+                <expan>o<ex>mn</ex>i<ex>u</ex>m</expan> <choice><abbr>&amp;</abbr><expan>et</expan></choice> singulorum bonorum 
+                <expan>iur<ex>u</ex>m</expan> <choice><abbr>&amp;</abbr><expan>et</expan></choice> creditorum 
+                <expan>d<ex>ic</ex>ti</expan> defuncti prefatis executoribus In <expan>p<ex>er</ex>sona</expan> Ricardi <lb/>
+                ffelde <expan>procu<ex>ratoris</ex></expan> sui etc De <expan>b<ex>e</ex>n<ex>e</ex></expan>
+                <choice><abbr>&amp;</abbr><expan>et</expan></choice> <expan>fidel<ex>it</ex>er</expan> 
+                <expan>administrand<ex>o</ex></expan> Ac de pleno et fideli <expan>Inven<ex>tario</ex></expan> secundo die post 
+                festum <expan>nativi<ex>ta</ex>tis</expan> <expan>s<ex>anc</ex>ti</expan> <expan>Joh<ex>an</ex>nis</expan> 
+                <expan>Bap<ex>tis</ex>te</expan> <expan>prox<ex>imum</ex></expan> <expan>futur<ex>um</ex></expan> 
+                <expan>exhi<ex>ben</ex>d<ex>o</ex></expan> Necnon de plano <choice><abbr>&amp;</abbr><expan>et</expan></choice> 
+                vero compto <lb/> <expan>reddend<ex>o</ex></expan> Ad <expan>s<ex>anc</ex>ta</expan> dei <expan>Ev<ex>a</ex>ngelia</expan>
+                <expan>Iurati<ex>i</ex></expan> / <expan>Resrvat<ex>a</ex></expan> <expan>p<ex>otes</ex>tat<ex>e</ex></expan> etc
+                alteri executori cum venerit etc.</p>
+                
+                <p>The testament of the above written deceased was proved before the aforesaid commisaries in the Cathedral Church of Saint
+                    Paul, London, the seventeenth day of April 1526 AD, by the oath of the executors named in this testament. And was
+                    approved and registered. And the administration of all and singular goods, rights and credits of the said deceased
+                    was granted, by the authority of the aforesaid reverend fathers, to the aforesaid executors in the person of Richard
+                    Feld their proctor etc., to administer faithfully and to exhibit a full and faithful inventory the second day after
+                    the feast of the Nativity of Saint John the Baptist next coming, and also to render a true and plain account, having
+                    been sworn on the Holy Gospels. Reserving power etc. Other executor when he should come.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
