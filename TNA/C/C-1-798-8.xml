@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Goodryche, clerk versus Thomas Apowen, gentleman, and Katherine, his wife, executrix, 
+                	and late the wife of William Woseley. <date when="1533">1533</date> - <date when="1533">1538</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2016-03">March 2016</date>
+                <idno type="UUID">96404a5c-9fa2-47f3-8fa4-1b53c7b97787</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>TNA, C 1/798/8</idno>
+                        <msName>Goodryche v Apowen.</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>A bill of complaint by John Goodryche, clerk, against Thomas Apowen, gentleman, and Katherine, his wife, executrix, 
+                	and late the wife of William Woseley.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Bristol</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+            	<p>Too the ryght honorable Syr Thomas Audley knyght <lb/> lorde <expan>Chauncelo<hi rend="superscript">r</hi></expan> 
+            	off Inglonde</p>
+				<p>In hys moste humble wyse Shewythe <choice><abbr>&amp;</abbr><expan>and</expan></choice> 
+				Complaynythe unto <expan>yo<hi rend="superscript">r</hi></expan>  Good lordshyp 
+				<expan>yo<hi rend="superscript">r</hi></expan> pour <choice><abbr>&amp;</abbr><expan>and</expan></choice> 
+				Dayly orator John Goodryche Clarke  Executor off the Tastament <choice><abbr>&amp;</abbr><expan>and</expan></choice> 
+				laste wyll off Robert Thorne <lb/> off Bristoll marchaunte Decessyde that wher the seyde Robart Thorne was in hys lyff 
+				possessed off <expan>dyv<ex>er</ex>s</expan> <expan>Good<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice>
+				<expan>Cattall<ex>es</ex></expan> the Certente <choice><abbr>&amp;</abbr><expan>and</expan></choice> value wheroff ... 
+				sayde <lb/> orator unknowen And he beynge theroff so possessyd ... hole mynde <choice><abbr>&amp;</abbr>
+				<expan>and</expan></choice>  ... remembrance made hys laste will <choice><abbr>&amp;</abbr><expan>and</expan></choice>  
+				Testamement <choice><abbr>&amp;</abbr><expan>and</expan></choice> by hys sayde laste wylle 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice>  Testament ordenyde <lb/> 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice>  declarede that the Chyldren off oon William Woseley sholde 
+				have Certen <expan>Good<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> off the same ordeynede 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> made <expam>yo<hi rend="superscript">r</hi></expam> sayde orator 
+				William Woseley <choice><abbr>&amp;</abbr><expan>and</expan></choice> John Wyett hys coexecutors <lb/> 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> diede after whose dethe Certen <expan>bok<ex>es</ex></expan> 
+				plate <expan>specialt<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> other 
+				<expan>Good<ex>es</ex></expan> off the sayde Robart Thorne <expan>cam<ex>e</ex></expan> unto 
+				<expan>thehand<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> possession off the 
+				seyde William Woseley <expan>on<ex>e</ex></expan> of the <lb/> seyde executors the Certante wheroff 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> also the value ys to <expan>yo<hi rend="superscript">r</hi></expan>
+				sayde orator unknowne and soo beynge possessyde off the same as <expan>on<ex>e</ex></expan> off the same 
+				Coexecutors off the Seyde Robert ... <lb/> Bristoll afterwarde made <choice><abbr>&amp;</abbr><expan>and</expan></choice> ordeynede hys laste will <choice><abbr>&amp;</abbr><expan>and</expan></choice> Testament
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> by the same ordeyned 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> made Katheryn hys wyff hys executrice 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> died after whose dethe the seyde <expan>bok<ex>es</ex></expan> 
+				plate <expan>Specialti<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> other <lb/>
+				<expan>Good<ex>es</ex></expan> off the seyde Robart Thorne <expan>cam<ex>e</ex></expan> into the 
+				<expan>hand<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> possession off the sayde
+				Catheryn and the Ryght of the same <expan>good<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> 
+				<expan>Catall<ex>es</ex></expan> too <expan>yo<hi rend="superscript">r</hi></expan> seyde orator 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> to the fforsayde John Wyett <lb/>
+				hys Coexecutor by the dethe off the seyde William Woseley ... ... by reson off Syirvivors 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> after the fforsayde Catheryn Toke to her 
+				husbonde att Bristoll afforesayde <expan>on<ex>e</ex></expan> Thomas Apowen <lb/>
+				<expan>Gent<ex>leman</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> ther 
+				<expan>Espousell<ex>es</ex></expan> betwene them wher solemnized ... ... after the Seyde John Wyett 
+				dyede after whose dethe thereyght off the fforseyde <expan>Good<ex>es</ex></expan> 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> <expan>Catall<ex>es</ex></expan> to 
+				<expan>yo<hi rend="superscript">r</hi></expan> seyde orator <lb/> 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> they <choice><abbr>&amp;</abbr><expan>and</expan></choice>
+				<expan>ev<ex>er</ex>y</expan> off them to <expan>delyv<ex>er</ex></expan> the sayde <expan>bok<ex>es</ex></expan> 
+				<expan>byll<ex>es</ex></expan> <expan>good<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> 
+				<expan>Catall<ex>es</ex></expan> ... ... ... hathe refused to make <expan>delyv<ex>er</ex>e</expan> 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> yett dothe Contrarye too all lawe 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> consiens all ?veyc[acion] 
+				<expan>yo<hi rend="superscript">r</hi>r</expan> seyde orator ys <lb/> nowe in sute in <expan>dyv<ex>er</ex>s</expan> 
+				Espirituall <expan>Cort<ex>es</ex></expan> by the chyldran off the sayde William Woyseley 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> others ffor Certen <expan>legac<ex>es</ex></expan> to them 
+				made by the sayde Robart Thorne the Testator off ?<expan>p<ex>ar</ex>cell</expan> off the <lb/>
+				sayde <expan>Good<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> <expan>Cattall<ex>es</ex></expan>
+				whereby the wyll <choice><abbr>&amp;</abbr><expan>and</expan></choice> Intente off the sayde Robert Thorne maye nott ne Cannott
+				be <expan>p<ex>er</ex>formede</expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> 
+				<expan>yo<hi rend="superscript">r</hi></expan> sayde orator vexed <choice><abbr>&amp;</abbr><expan>and</expan></choice> 
+				sued ffor the same in the sayde <expan>spi<ex>ritu</ex>all</expan> <expan>Court<ex>es</ex></expan> 
+				<expan>yo<hi rend="superscript">r</hi></expan> sayd <lb/> orator havynge noo Remedie by the order off the Comen lawe 
+				too obtayne the same for the Causes above rehersede In Consideracion wherof ytt maye therffore please 
+				<expan>yo<hi ren="superscript">r</hi></expan> good lordshipp <lb/> the <expan>p<ex>re</ex>myss<ex>es</ex></expan> 
+				Tendarly Consyderyde fforasmoche as <expan>yo<hi rend="superscript">r</hi></expan> seyde orator knowathe nott the Certente 
+				or <expan>p<ex>ar</ex>cell<ex>es</ex></expan> off the sayde <expan>good<ex>es</ex></expan> 
+				<expan>Cattall<ex>es</ex></expan> <expan>byll<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> specialties ne what ye Conteynede in the <lb/> seyde <expan>byll<ex>es</ex></expan> or <expan>bok<ex>es</ex></expan> 
+				to graunte the <expan>kyng<ex>es</ex></expan> most gracius wrytte off Subpena to be dyrected unto the seyde Thomas 
+				Apowan <choice><abbr>&amp;</abbr><expan>and</expan></choice> Kateryn hys wyff Comanndynge them 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> <expan>ev<ex>er</ex>y</expan> off then <lb/> by the same att 
+				a Certen daye <choice><abbr>&amp;</abbr><expan>and</expan></choice> apon a payne Certen by 
+				<expan>yo<hi rend="superscript">r</hi></expan> lordshypp too be ?lerneyde in the same ?wrete 
+				<expan>p<ex>er</ex>sonally</expan> to Appere beffore <expan>yo<hi rend="superscript">r</hi></expan> 
+				lordshypp in the <expan>kyng<ex>es</ex></expan> moste honorable <lb/> Courte off the 
+				<expan>Chaunc<ex>ery</ex></expan> then <choice><abbr>&amp;</abbr><expan>and</expan></choice> ther to make 
+				aunswere unto the <expan>p<ex>re</ex>miss<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> 
+				to all other matters wyche then <choice><abbr>&amp;</abbr><expan>and</expan></choice> thar ?shalbe obiectyde 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> aleggyde ayainste hym 
+				<choice><abbr>&amp;</abbr><expan>and</expan></choice> you <choice><abbr>&amp;</abbr><expan>and</expan></choice> yor <lb/>
+				sayde orator shall dayly <expan>p<ex>ra</ex>y</expan> ffor the ?p(ro)fparne ... off yor honorable lordship long to ...
+				</p> 
+            </div>
+        </body>
+    </text>
+</TEI>
