@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Goodryche, clerk versus Thomas Apowen, gentleman, and Katherine, his wife, executrix, 
+                	and late the wife of William Woseley. <date when="1515">1515</date> - <date when="1518">1518</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2016-03">March 2016</date>
+                <idno type="UUID">d5b5cb85-5f09-4624-87f1-aca846ba41e0</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>TNA, C 1/406/5</idno>
+                        <msName>Elyot v Goodrych</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>A bill of complaint by Hugh Elyot of Bristol, merchant, against John Goodrich, William Wosley and John Wyatt, executors of last will and testament of Robert Thorne.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Bristol</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+	            <p>To the most <expan>rev<ex>er</ex>end</expan> ffather yn god my lord Cardynall <lb/> Archbysshup of York 
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> Chaunceler of England</p>
+	        	<p>In most Humble Wyse showith <choice><abbr>&amp;</abbr><expan>and</expan></choice> compleynyth unto youre noble
+	        	<expan>g<ex>ra</ex>ce</expan> youre pore <expan>Orato<hi rend="superscript">r</hi></expan>
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> dayly Bedman Hugh Elyot of Brystowe
+	        	<expan>m<ex>er</ex>chu<ex>a</ex>nt</expan> that where do he <choice><abbr>&amp;</abbr><expan>and</expan></choice>
+	        	one <expan>Rob<ex>er</ex>t</expan> Thorne <lb/> of the same Towne <expan>m<ex>er</ex>chu<ex>a</ex>nt</expan> late
+	        	deceasyd aswell yn the <expan>p<ex>ar</ex>ties</expan> be yende the see as withyn this Realme bought
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> sold Ioyntly to gethers <expan>dyv<ex>er</ex>se</expan>
+	        	<expan>m<ex>er</ex>chaundysez</expan> that ys <lb/> to sey Wyne oyl Ode orchell madder 
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> other <expan>m<ex>er</ex>ch<ex>a</ex>undysez</expan> too there
+	        	<expan>sev<ex>er</ex>all</expan> uses <choice><abbr>&amp;</abbr><expan>and</expan></choice> 
+	        	<expan>p<ex>ro</ex>fyt<ex>es</ex></expan> And after the seid <expan>m<ex>er</ex>ch<ex>a</ex>undysez</expan> so
+	        	bought <choice><abbr>&amp;</abbr><expan>and</expan></choice> sold all tymes usyd to make <lb/>
+	        	there <expan>accompt<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> rekenyng of suche
+	        	somes of money expensys <choice><abbr>&amp;</abbr><expan>and</expan></choice> other <expan>charg<ex>es</ex></expan> as
+	        	by them were payd for the seid <expan>m<ex>er</ex>ch<ex>a</ex>undysez</expan> And for the conveyens of <lb/>
+	        	the same yn <expan>dyv<ex>er</ex>se</expan> Shyppys ynto the <expan>p<ex>ar</ex>tyes</expan> beyonde the see And
+	        	for the retorn of the same And the yncrese therof devydyd bytwene them <lb/> to there <expan>sev<ex>er</ex>all</expan>
+	        	<expan>p<ex>ro</ex>fytt<ex>es</ex></expan> And so contynewyd there bying <choice><abbr>&amp;</abbr><expan>and</expan></choice>
+	        	byllyng of <expan>m<ex>er</ex>ch<ex>a</ex>undyses</expan> to gether by the space of 
+	        	<expan>xx<hi rend="superscript">ti</hi></expan> <expan>yer<ex>es</ex></expan> 
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> more And so yt ys <expan>g<ex>ra</ex>cyous</expan> <lb/>
+	        	Lord that the <expan>xij<hi rend="superscript">th</hi></expan> day of November the 
+	        	<expan>ix<hi rend="superscript">th</hi></expan> yere of the reign of the Kyng that nowe ys the seid <expan>Rob<ex>er</ex>t</expan>
+	        	Thorne <choice><abbr>&amp;</abbr><expan>and</expan></choice> youre seid <expan>Orato<hi rend="superscript">r</hi></expan> at
+	        	Brystowe <lb/> afore seid Accomptyd to gether for <expan>dyv<ex>er</ex>se</expan> somes of money by them payd
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> expendyd appon such <expan>m<ex>er</ex>chu<ex>a</ex>ndyses</expan> as
+	        	they had bought to gether <lb/> which amountith to the <expan>som<ex>e</ex></expan> of CClxij li xv s ix d And by cause
+	        	there was <expan>varyaunc<ex>es</ex></expan> bytwyxt then yn rekynyng of there <expan>bok<ex>es</ex></expan> 
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> yn the <lb/> resceyte of <expan>dyv<ex>er</ex>se</expan> somes of
+	        	money with other exensys <choice><abbr>&amp;</abbr><expan>and</expan></choice> <expan>charg<ex>es</ex></expan>
+	        	doon by them aswell the seid Robert Thorne as youre seid <expan>Orato<hi rend="superscript">r</hi></expan> of there <lb/>
+	        	fre <expan>wyll<ex>es</ex></expan> submytttyd them self to stond to the award arbytrement 
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> Iugement of John Rowland John Jay Wyllam Lane 
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> John <lb/> Shypman the which 
+	        	<expan>arbyt<ex>ra</ex>to<hi rend="superscript">r</hi>s</expan> herd there rekynyng And <expab>accompt<ex>es</ex></expab>
+	        	for the same And for asmoche as yt apperyth unto them that <expan>dyv<ex>er</ex>se</expan> <lb/> 
+	        	<expan>resceyt<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> <expan>payment<ex>es</ex></expan>
+	        	expensys with other <expan>charg<ex>es</ex></expan> was doon by them yn the <expan>p<ex>ar</ex>ties</expan> beyonde the
+	        	see And to the masters <choice><abbr>&amp;</abbr><expan>and</expan></choice> <expan>maryn<ex>er</ex>s</expan>
+	        	of <expan>dyv<ex>er</ex>se</expan> <lb/> <expan>vessell<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice>
+	        	Shyppys wherof at that tyme they cowde have no dewe <expan>p<ex>ro</ex>ffe</expan> <note>proof</note> no knowlege they 
+	        	deferryd there arbytrement <choice><abbr>&amp;</abbr><expan>and</expan></choice> decre to be made <lb/>
+	        	untyll a longer day by fore which day the seid <expan>Rob<ex>er</ex>t</expan> Thorne made <expan>Mast<ex>er</ex></expan>
+	        	John Goodrych <expan>p<ex>ar</ex>son</expan> of Crystchurch yn Brystowe a fore seid <lb/> Wyllyam Wosley
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> John Wyet of the same towne 
+	        	<expan>M<ex>er</ex>chu<ex>a</ex>nt<ex>es</ex></expan> hys <expan>executo<hi rend="superscript">r</hi>s</expan>
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> dyed And left unto hys seid 
+	        	<expan>executo<hi rend="superscript">r</hi>s</expan> <expan>good<ex>es</ex></expan> plate <lb/>
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> <expan>m<ex>er</ex>chu<ex>a</ex>ndyses</expan> to the valewe of
+	        	CC <expan>m<ex>a</ex>rk<ex>es</ex></expan> <choice><abbr>&amp;</abbr><expan>and</expan></choice> more And often tymes syns
+	        	the deth of the seid <expan>Rob<ex>er</ex>t</expan> Thorne youre seid pore Oratoure <lb/> hath many tymes requyryd the seid
+	        	Master John Goodryche Wyllyam Wosley <choice><abbr>&amp;</abbr><expan>and</expan></choice> John Wyet hys
+	        	<expan>executo<hi rend="superscript">r</hi>s</expan> to here the seid <expan>Accompt<ex>es</ex></expan> wherby he wyrth <lb/>
+	        	have such <expan>p<ex>ar</ex>te</expan> of the seid <expan>good<ex>es</ex></expan> as by the lawe he ought to have
+	        	accordyng to right <choice><abbr>&amp;</abbr><expan>and</expan></choice> good consciens thewhich to doo they hath
+	        	<expan>utt<ex>er</ex>ly</expan> refusyd <choice><abbr>&amp;</abbr><expan>and</expan></choice> yet <lb/>
+	        	doth refuse And for asmoch As by the Course of the Comon Lawe no <expan>Act<ex>i</ex>on</expan> of Accompt lyith Ayenst
+	        	<expan>Executo<hi rend="superscript">r</hi>s</expan> he ys without remedy to hys <lb/> <expan>utt<ex>er</ex>must</expan>
+	        	undoyng for <expan>ev<ex>er</ex></expan> onlesse then the favoure of youre good <expan>g<ex>ra</ex>ce</expan> may be
+	        	unto hym <expan>g<ex>ra</ex>cyously</expan> showyd yn this behalf to <expan>gr<ex>a</ex>nt</expan> awrytte of sub <lb/>
+	        	pena Ayenst the seid <expan>Executo<hi rend="superscript">r</hi>s</expan> <expan>com<ex>m</ex>aundyng</expan> them
+	        	<choice><abbr>&amp;</abbr><expan>and</expan></choice> <expan>ev<ex>er</ex>y</expan> of them to appere by fore youre good
+	        	<expan>g<ex>ra</ex>ce</expan> yn the <expan>kyng<ex>es</ex></expan> Court of the Chauncery <lb/>
+	        	there to Aunswere unto the <expan>p<ex>re</ex>mysses</expan> And to such other <expan>mat<ex>er</ex>s</expan> as youre
+	        	seid <expan>Orato<hi rend="superscript">r</hi></expan> shall then <choice><abbr>&amp;</abbr><expan>and</expan></choice>
+	        	there obiecte <choice><abbr>&amp;</abbr><expan>and</expan></choice> allegge ayenste them and <lb/> thus at the 
+	        	<expan>rev<ex>er</ex>ens</expan> of god <choice><abbr>&amp;</abbr><expan>and</expan></choice> yn the wey of
+	        	Charyte</p>
+            </div>
+        </body>
+    </text>
+</TEI>
