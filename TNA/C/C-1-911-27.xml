@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nicholas Thorne versus John Goodrich, executor of the last will and testament of Robert Thorne the elder. Bill of complaint by Nicholas Thorne. <date when="1533">1533</date> - <date when="1538">1538</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2016-03">March 2016</date>
+                <idno type="UUID">c1af2d39-987a-40fd-bde9-ccd025d7f8c9</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>C 1/911/27</idno>
+                        <msName>Thorne v Goderegge</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>A bill of complaint by Nicholas Thorne against John Goodrich, executor of the last will and testament of 
+                    Robert Thorne the elder.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Bristol</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+                <p>Too the right honorable Syr Thomas Audeley <lb/> knyght lorde Chauncelour of England</p>
+                <p>In moste humble wise Shewithe and Complaynythe unto <expan>yo<hi rend="superscript">r</hi></expan> 
+                good lordship <expan>yo<hi rend="superscript">r</hi></expan> daily Orataire Nicholas Thorne <lb/>
+                That where oon Robart Thorn late ffather unto <expan>yo<hi rend="superscript">r</hi></expan> 
+                said <expan>Orato<hi rend="superscript">r</hi></expan> beinge in his lyve A man of great substans in <lb/>
+                goodes and ryches made constituted and ordeynyd one John Gooderych Clerk <expan>p<ex>ar</ex>son</expan>
+                of the churche of [Christ]church in <lb/> Bristowe Executor of his laste will and testament and dyed after 
+                whos deathe there came <expan>good<ex>es</ex></expan> ryches and <expan>substanc<ex>es</ex></expan> <lb/>
+                and Riches of the said Testa[ament] in life to <expan>thand<ex>es</ex></expan> of the said Executor 
+                Amountyng to agrett somme of money sufficyent <lb/> and alle to paye and satysfy [all] suche 
+                <expan>dett<ex>es</ex></expan> and legacies as the said Testor then yn his lyffe ought and above at <lb/>
+                the tyme of whos deathe one [Robert Thorne] one of the sonnes of the said Testator also decessed was 
+                Indettyd unto hys <lb/> said late ffather in the Somme of C Xvj li <expan>st<ex>er</ex>linge</expan> uppon 
+                thaccompte or remynyge betwene them dependyng of the surplusage <lb/> of wiche <expan>good<ex>es</ex></expan> 
+                over and Above all <expan>dett<ex>es</ex></expan> and legaci[ies] paide and all other charges born 
+                and sustaynyd the sayd <lb/> <expan>Executo<hi rend="superscript">r</hi></expan> 
+                <expan>p<ex>ur</ex>chassed</expan> of <expan>land<ex>es</ex></expan> and <expan>Ten<ex>emen</ex>t<ex>es</ex></expan> 
+                within the said towne of Brystowe as moche as Amountyd to the yerely <lb/> Somme of vj li to him and to his heires 
+                after wiche <expan>p<ex>u</ex>rchasse</expan> thies had Commycacyon <note>communication</note> was had and 
+                ynoied <note>enjoyed?</note> <lb/> betwene <expan>yo<hi rend="superscript">r</hi></expan> said 
+                <expan>Orato<hi rend="superscript">r</hi></expan> the said Robart Thorne his brother on the one 
+                <expan>p<ex>ar</ex>tie</expan> and the said Goderyche on the other <lb/> <expan>p<ex>ar</ex>te</expan> 
+                <expan>coc<ex>er</ex>nynge</expan> the makinge establesshinge and contynuewynge of A 
+                ffree Scole to be had and kepte within <lb/> the seid towne of Brystowe uppon the 
+                <choice><abbr>w<hi rend="superscript">c</hi>w</abbr><expan>w<ex>hich</ex></expan></choice> commycacyon the 
+                said Goderyche <expan>Coven<ex>a</ex>ntyd</expan> and agreyd 
+                <choice><abbr>w<hi rend="superscript">t</hi></abbr><expan>w<ex>ith</ex></expan></choice> 
+                <expan>yo<hi rend="superscript">r</hi></expan> said <lb/> Orator and his saide Brother that yff the said Robart Thorne
+                the yeonger wold Expend laye enter and paye <lb/> the Somme of A CXvj li that he ought unto his said ffather 
+                at the tyme his dethe and also paye CC li of <lb/> <expan>st<ex>er</ex>ling</expan> money of his owne 
+                <expan>good<ex>es</ex></expan> <expan>toward<ex>es</ex></expan> the <expan>p<ex>ur</ex>chasinge</expan> 
+                of <expan>s<ex>er</ex>tein</expan> <expan>land<ex>es</ex></expan> for the said ffree Scoole to be kepte and <lb/>
+                contyneuyd in A place called the Barthe att Brystowe aforesaid and to buyld the same That then nott <lb/>
+                only the said <expan>land<ex>es</ex></expan> and <expan>ten<ex>emen</ex>t<ex>es</ex></expan> of the said yerely valewe 
+                of vj li by him <expan>p<ex>ur</ex>chased</expan> withe the <expan>good<ex>es</ex></expan> and <lb/>
+                money of the said <expan>Testato<hi rend="superscript">r</hi></expan> shuld be assuryd for the 
+                <expan>maynten<ex>a</ex>nce</expan> and contynuance of the said ffree <lb/> Scoole but alsoo suche money and 
+                <expan>good<ex>es</ex></expan> as remayn in <expan>thand<ex>es</ex></expan> of the said Goderyche unadministred <lb/>
+                should be expendyd and payde <expan>toward<ex>es</ex></expan> the buyldinge and <expan>meinten<ex>a</ex>nce</expan> 
+                of the said Scoole wiche Somme of a Cxvj li <lb/> and also the said Somme of CC li the said Robart Thorn 
+                the sonne and his assignes after the dethe <lb/> of the sayd Robert Thorne the ffather not only have payde 
+                but also the executors of the said Robert <lb/> Thorn the Sonne after the dethe of the said Robart 
+                have payde the Somme of CCC li for thestablish <lb/> mente and contynuaunce of the said Scoole And wiche Scoole ys 
+                establyshed And ffoundyd And <lb/> Soo it is Right honorable lorde that <expan>yo<hi rend="superscript">r</hi></expan> 
+                said <expan>Orato<hi rend="superscript">r</hi></expan> hathe dyvers and many tymes requryed the <lb/> Said 
+                <expan>S<ex>ir</ex></expan> John Gooderyche to Accomplishe his promyse and <expan>Coven<ex>a</ex>nt</expan> that ys to 
+                saye to make sure the <lb/> said <expan>land<ex>es</ex></expan> and <expan>tenement<ex>es</ex></expan> of the said valew 
+                of vj li by him purchaysed as it afore sayd unto <lb/> the said Scoole for the <expan>maynten<ex>a</ex>nce</expan> of 
+                suche chargys as ?use uppon the same <choice><abbr>w<hi rend="superscript">c</hi></abbr><expan>w<ex>ich</ex></expan></choice> 
+                he utterly <lb/> denyethe contrary to all right and good consience In ?tender consideracyon wherof hit maye plese 
+                <expan>yo<hi rend="superscript">r</hi></expan> <lb/> good lordship to graunt A writt of sub pena to be dyrectyd unto 
+                the said John Godriche commanding him <lb/> by vertue therof <expan>p<ex>er</ex>sonally</expan> to appere before 
+                <expan>yo<hi rend="superscript">r</hi></expan> good lordship in the <expan>king<ex>es</ex></expan> Court of Chauncery at 
+                A <expan>s<ex>er</ex>ten</expan> <lb/> daye and under a <expan>s<ex>er</ex>ten</expan> payne by 
+                <expan>yo<hi rend="superscript">r</hi></expan> good lordship to be lymytyd And there to Answere to the 
+                <expan>primiss<ex>es</ex></expan> And <lb/> further to stand to such order and dyreccyon on as shalbe thought 
+                best by <expan>yo<hi rend="superscript">r</hi></expan> good lordship in that behalf <lb/> And 
+                <expan>yo<hi rend="superscript">r</hi></expan> said <expan>Orato<hi rend="superscript">r</hi></expan> shall dayly 
+                praye for the longe <expan>p<ex>re</ex>s<ex>er</ex>vacyon</expan> of <expan>yo<hi rend="superscript">r</hi></expan> 
+                good lordship</p>
+            </div>
+        </body>
+    </text>
+</TEI>
