@@ -108,6 +108,7 @@
         \usepackage{fancyhdr}
         \usepackage{pdflscape}
         \usepackage[T1]{fontenc}
+        \usepackage[normalem]{ulem}
         \setlength{\headheight}{15pt}
         \marginsize{2.5cm}{2.5cm}{1cm}{1cm}
         \setlength{\parskip}{10pt}
@@ -226,6 +227,13 @@
         <xsl:choose>
             <xsl:when test="@rend='bold'">\textbf{<xsl:apply-templates/>}</xsl:when>
             <xsl:when test="@rend='underscore'">\underline{<xsl:apply-templates/>}</xsl:when>
+            <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+
+    <xsl:template match="tei:del">
+        <xsl:choose>
+            <xsl:when test="@rend='overstrike'">\sout{<xsl:apply-templates/>}</xsl:when>
             <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
         </xsl:choose>
     </xsl:template>
