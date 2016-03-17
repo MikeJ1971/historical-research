@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0913000100.xml" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nicholas Thorne versus John Goodrich, executor of the last will and testament of Robert Thorne the elder.
+                	Replication by Nicholas Thorne to the answer of John Goodrich. <date when="1533">1533</date> - <date when="1538">1538</date></title>
+                <editor>
+                    <name type="person">Mike Jones</name>
+                    <email>mike.a.jones@me.com</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>http://bristollia.org</publisher>
+                <pubPlace>Bristol</pubPlace>
+                <date when="2016-03">March 2016</date>
+                <idno type="UUID">b44b4674-979d-4d65-a26f-e2b9945c3c74</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>The National Archives</repository>
+                        <idno>C 1/911/29</idno>
+                        <msName>Thorne v Goderegge</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Replication by Nicholas Thorne to the answer of John Goodrich.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Bristol</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text" xml:lang="en">
+                <p>The <expan>Replicac<ex>ion</ex></expan> of Nicholas Thorn <lb/> to thaunswer of John Gooderidge</p>
+                <p>The said Nicholas Thorn sayth that hys sayd byll of <expan>Co<ex>m</ex>pleynt</expan> ys trewe <expan>c<ex>er</ex>teyn</expan>
+                sufficient in the lawe not faymed ymagyned nor devysed to any suche intent or <expan>p<ex>ur</ex>pose</expan> as in the sayd 
+                Awnswer ys supposid <lb/> And farder ?<expan>an<ex>er</ex>eth</expan> <expan>ev<ex>er</ex>y</expan> thynge in the sayd bill of 
+                Compleynt conteyned to be trewe <choice><abbr>w<hi rend="superscript">t</hi>owte</abbr><expan>w<ex>ith</ex>owte</expan></choice> 
+                <add place="above">that</add> that <del rend="overstrike">Richard</del> <add place="above">Robert</add> Thorn late ffather unto 
+                the sayd <expan>compleyn<ex>a</ex>nt</expan> made the sayd <expan>defend<ex>a</ex>nt</expan> <expan>Will<ex>ia</ex>m</expan> Wolsley 
+                and John <lb/> Wyett Executors of his last wyll and testament whiche yf he dyd hyt ys nothyng <expan>mat<ex>er</ex>iell</expan>
+                forasmoche as the sayd <expan>Will<ex>ia</ex>m</expan> Wolsley and John Wyett be ded and the hole ??ynterstande
+
+(4)  ?tylle of the sayd Testament and last wyll remayneth in the said defend(a)nt Or that the sayd defend(a)nt and the other supposid Executors Axxordynge to the trust and confidence put
+
+(5)  in them by the sayd Testator delte or delyv(er)yd unto pore peple and p(er)sonn(e)s w(ith)in the sayd Town of Bristowe by the space of iij yeres nexte after the dethe of the sayd testator
+
+(6)  yerely xxxij s as by the sayd defend(a)nt ys alledged or that the landes and tenement(es) specefied in the sayd byll of Compleynt lying in the sayd Town of Bristowe and supposed
+
+(7)  to be boght w(ith) parte of the Some of lxxx li me(n)cioned in the .... were or be but of the yerely value of xxxij s ffor the sayd compleyn(a)nt saith that hit ys not to be
+
+(8)  supposed that the sayd defend(a)nt wold have geven so moche money as ys recited yn thesayd Awnsw(e)r ffor the sayd compleynant saith that yt ys not to be
+
+(9)  were yn suche Rewen and dekeye as ys specefyed in the saud Awnswer / Or that the sayd defend(a)nt hath spent or bestowed any grett somme of money of hys own goodes upon the
+
+(10) repayryng and Amendyng the same Or that the sayd Tenement(es) land so purchaysed be yerely worth butt iiij li as ys by the sayd defend(a)nt alledged ffor thesayd
+
+(11) defend(a)nt sayth that the sayd teneme(n)t(es) and land before rehersed be yerely worth vj li ortheraboute / Or that the sayd Robert Thorn(e) the Son was at the tyme of the dethe
+
+(12) of the sayd Robert theffather yndettyd unto hys ffather yn the som(e) of CC l pound(es) in man(ner) and form as in the said Awnswer ys expressed ffor the sayd defendu(a)nt sayth
+
+(13) his handes any suche som(e) of money due to hys sayd ffarther as ys specefyd in the sayd Awnsw(e)r / Or that the says Robert the son reteyned yn
+
+(14) unto the sayd defendu(a)nt and John Wyett for the paymet of the som(me) of CC l pound(es) in man(ner) and form as in the said Awnswer ys
+exp(re)ssed ffor the sayd defend(a)nt sayth
+
+(15) that hit appereth by dede yndentyd made betwene the sayd Compleyn(a)nt and the sayd defend(a)nt and John Wyett for what intent the sayd bond was made / Or that the
+
+(16) sayd defendu(a)nt made any suche graunt of xl s to be goyng owte of the hospytall of saynt Bartholomes and the landes and ten(emen)t(es) ther unto belongyng specefyed in
+
+(17) thesayd Awnswer for the Contynuell ffyndyng of the pore peple in the sayd hosytall and of a Scoole master to teache and lern Chylder in the trewe Art of Gramer
+
+(18) ther yn man(ner) and form as in the sayd Awnswerys alledged / Or that the sayd Compleyn(a)nt hath made any suche reporte that he wyll have no pore peple yn the
+
+(19) sayd Hospytall for sych as lacke ther as ys recyted yn the sayd Awnsor Which yf he had don(e) hit were nothynge effectuell nor ???yelll by cause the Agrement
+
+(20) had betwen(e) the sayd Compleyn(a)nt and the sayd defendu(a)nt was ony for thestablishem(en)tt and Contynuance of a Scoole at the sayd hosputall and for non other yntent
+
+(21) nor p(ur)pose Or that the lackyng of a Scoole master for to teache Gramm(er) yn the sayd Hospytall ys in defaute of the sayd Compleyn(a)nt ffor the sayd Complayn(a)nt sayth
+
+(22) that yf the sayd defendu(a)nt wold p(er)form hys coven(a)nt graunt p(ro)myse and Agrement had and made w(ith) the sayd Compleym(a)nt ffor the sayd Complaynu(a)nt sayth 
+
+(23) assuranc(es) in the lawe of the landes and tenement(es) specefyed in the sayd byll for thestablishement and contynuaunce of the sayd Scoole the sayd Scoole
+
+(24) shold be establiyshed and in all thynges as hyt oght to be which Remeyneth undon in the defaute of the sayd defendu(a)nt for that the sayd Scoole can not
+
+(25) in all thynges be meynteyned as hyt oght to be w(ith)owte the Rentes and p(ro)fett(es) of the sayd landes w(ith)holdyn by the sayd defendu(a)nt / Or that the sayd
+
+(26) defendu(a)nt or any other by reason of any or Uncharytable delyng of the sayd Co(m)plyn(a)nt have cause to w(ith)drawe ther devosyons or benevolence / Or that the
+
+(27) said defendu(a)nt hath layde owte admynystred & bestowed in & aboute the sev(er)all dett(es) legac(es) or ?oth(er) Chartitable ded(es) for Þe said testator more money then ev(er) came to his hand(es) of Þe goodes of the said testator And wyth
+
+(28) <<owte that any other>> thynge effectuell or mat(er)iell in the sayd Awnse(e)r and not here suffyciently ?confessed and avoyded denyed nor trav(er)sed ys trewe And whiche matters he ys ?redyto
+
+(29) ??An(sw)re as this Court wyll ?Awald And ?pyth as hem in his sayd byll of Co(m)pleynt hathe prayd w(ith) his cost(es) and Charges by hym Sustyeyned yn this behalff
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>
